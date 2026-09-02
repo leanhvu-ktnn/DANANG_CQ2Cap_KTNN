@@ -1,0 +1,52 @@
+---
+okf_version: "0.2"
+type: note
+title: "Điều 59. Thống kê, kế toán, kiểm kê, đánh giá lại, báo cáo tài sản công tại đơn vị sự nghiệp công lập — Luật 15/2017/QH14"
+so_hieu: "15/2017/QH14"
+loai_van_ban: "Luật"
+dieu: 59
+ten_dieu: "Thống kê, kế toán, kiểm kê, đánh giá lại, báo cáo tài sản công tại đơn vị sự nghiệp công lập"
+tags: [DieudiemDanchieu, dan-chieu]
+onto_class: Dieu
+phan_id: "15/2017/QH14|2017-06-21|QUOC HOI#d59"
+thuocVanBan: INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2017/15-2017-QH14/index
+---
+
+# Điều 59. Thống kê, kế toán, kiểm kê, đánh giá lại, báo cáo tài sản công tại đơn vị sự nghiệp công lập — Luật 15/2017/QH14
+
+- Tên điều: **Điều 59. Thống kê, kế toán, kiểm kê, đánh giá lại, báo cáo tài sản công tại đơn vị sự nghiệp công lập**
+- Loại văn bản: **Luật**
+- Số hiệu văn bản: **15/2017/QH14**
+
+*CN: khai thác / xử lý*
+
+1. Tài sản công tại đơn vị sự nghiệp công lập phải được thống kê, kế toán kịp thời, đầy đủ theo quy định của pháp luật về kế toán, pháp luật về thống kê và pháp luật có liên quan.
+
+## 2. Việc đánh giá lại giá trị tài sản công được thực hiện trong các trường hợp sau đây:
+
+a) Kiểm kê, đánh giá lại tài sản công theo quyết định của
+
+b) Nâng cấp, mở rộng tài sản theo dự án được cơ quan, người có thẩm quyền phê duyệt;
+
+c) Giao, kiểm kê, điều chuyển tài sản mà tài sản đó chưa được hạch toán trên sổ kế toán;
+
+d) Bán, thanh lý tài sản công;
+
+đ) Tài sản bị hư hỏng nghiêm trọng do thiên tai, hoả hoạn hoặc nguyên nhân khác;
+
+e) Sử dụng tài sản để liên doanh, liên kết, bảo đảm thực hiện nghĩa vụ dân sự;
+
+g) Xử lý tài sản công khi chuyển đổi mô hình hoạt động của đơn vị sự nghiệp công lập;
+
+h) Trường hợp khác theo quy định của pháp luật.
+
+3. Việc đánh giá lại giá trị tài sản công được thực hiện theo quy định của Luật này, pháp luật về kế toán và pháp luật có liên quan.
+
+4. Đơn vị sự nghiệp công lập được giao quản lý, sử dụng tài sản công có trách nhiệm kiểm kê tài sản vào cuối kỳ kế toán năm và kiểm kê theo quyết định kiểm kê, đánh giá lại tài sản công của
+
+## Dẫn chiếu
+
+- Văn bản: [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/index|Luật 15/2017/QH14]]
+- Toàn văn: [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/toan-van|toàn văn]]
+- Hub điều/điểm: [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/index|DieudiemDanchieu]]
+- Danh mục: [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc]]
