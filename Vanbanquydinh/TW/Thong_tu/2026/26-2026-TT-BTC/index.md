@@ -196,3 +196,8 @@ Hub: [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/DieudiemDanchieu/index|Dieu
 - [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/DieudiemDanchieu/Dieu-22|Điều 22. Các hoạt động tài chính của thôn]] — **Thông tư 26/2026/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/DieudiemDanchieu/Dieu-23|Điều 23. Các khoản đượcủy thác thu hộ, chi hộ]] — **Thông tư 26/2026/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/DieudiemDanchieu/Dieu-26|Điều 26. Công khai ngân sách cấp xã]] — **Thông tư 26/2026/TT-BTC**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

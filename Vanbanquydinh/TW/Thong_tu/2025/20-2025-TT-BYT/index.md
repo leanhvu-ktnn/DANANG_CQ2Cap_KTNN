@@ -80,3 +80,8 @@ nguon_goi:
 # 20/2025/TT-BYT
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Thong_tu/2025/20-2025-TT-BYT/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2025/20-2025-TT-BYT/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/20-2025-TT-BYT/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/20-2025-TT-BYT/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -226,3 +226,8 @@ Hub: [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/index|Die
 - [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-07|Điều 7. Quy định về mẫu dấu, mẫu chứ ký]] — **Thông tư 157/2025/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-09|Điều 9. Quy định sử dụng tài khoản]] — **Thông tư 157/2025/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-11|Điều 11. Quy định đối chiếu, xác nhận số dư tài khoản]] — **Thông tư 157/2025/TT-BTC**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

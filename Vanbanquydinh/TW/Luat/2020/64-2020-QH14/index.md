@@ -85,3 +85,8 @@ nguon_goi:
 # 64/2020/QH14
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Luat/2020/64-2020-QH14/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2020/64-2020-QH14/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2020/64-2020-QH14/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2020/64-2020-QH14/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -107,3 +107,8 @@ Hub: [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanch
 
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-03|Điều 3. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức sử dụng máy móc thiết bị …]] — **Quyết định 14/2026/QĐ-UBND**
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-04|Điều 4. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức, mức giá máy móc, thiết b…]] — **Quyết định 14/2026/QĐ-UBND**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

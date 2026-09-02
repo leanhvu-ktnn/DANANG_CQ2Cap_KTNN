@@ -96,3 +96,8 @@ nguon_goi:
 # 71/2026/QĐ-UBND
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

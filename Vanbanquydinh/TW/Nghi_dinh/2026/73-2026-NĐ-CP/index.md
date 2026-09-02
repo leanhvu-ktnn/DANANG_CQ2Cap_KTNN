@@ -337,3 +337,8 @@ Hub: [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/index|Die
 - [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-31|Điều 31. Chuyển nguồn ngân sách từ năm trước sang năm sau]] — **Nghị định 73/2026/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-32|Điều 32. Yêu cầu, trình tự xét duyệt, tổng hợp, báo cáo quyết toán ngân sách nhà nước]] — **Nghị định 73/2026/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-33|Điều 33. Xử lý kết dư ngân sách nhà nước]] — **Nghị định 73/2026/NĐ-CP**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

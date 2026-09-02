@@ -460,3 +460,8 @@ Hub: [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/index|DieudiemDa
 - [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-73|Điều 73. Kiểm toán báo cáo quyết toán ngân sách nhà nước, báo cáo quyết toán ngân sách…]] — **Luật 89/2025/QH15**
 - [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-74|Điều 74. Xử lý kết dư ngân sách nhà nước]] — **Luật 89/2025/QH15**
 - [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-75|Điều 75. Xử lý các khoản thu, chi ngân sách nhà nước không đúng quy định sau khi quyết…]] — **Luật 89/2025/QH15**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

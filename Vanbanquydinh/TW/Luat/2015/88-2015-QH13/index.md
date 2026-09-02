@@ -99,3 +99,8 @@ nguon_goi:
 # 88/2015/QH13
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

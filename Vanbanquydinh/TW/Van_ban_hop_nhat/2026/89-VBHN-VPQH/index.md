@@ -199,3 +199,8 @@ Hub: [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/inde
 - [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-73|Điều 73. Kiểm toán báo cáo quyết toán ngân sách nhà nước, báo cáo quyết toán ngân sách…]] — **Văn bản hợp nhất 89/VBHN-VPQH**
 - [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-74|Điều 74. Xử lý kết dư ngân sách nhà nước]] — **Văn bản hợp nhất 89/VBHN-VPQH**
 - [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-75|Điều 75. Xử lý các khoản thu, chi ngân sách nhà nước không đúng quy định sau khi quyết…]] — **Văn bản hợp nhất 89/VBHN-VPQH**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

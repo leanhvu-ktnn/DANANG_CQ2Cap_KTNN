@@ -213,3 +213,8 @@ Hub: [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/Dieudiem
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-16|Điều 16. Thẩm quyền quyết định sử dụng tài sản công tại đơn vị sự nghiệp công lập để t…]] — **Quyết định 61/2025/QĐ-CTUBND**
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-17|Điều 17. Thẩm quyền quyết định phê duyệt phương án xử lý tài sản phục vụ hoạt động của…]] — **Quyết định 61/2025/QĐ-CTUBND**
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-18|Điều 18. Trách nhiệm của cơ quan, đơn vị trong việc quản lý, sử dụng tài sản công]] — **Quyết định 61/2025/QĐ-CTUBND**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

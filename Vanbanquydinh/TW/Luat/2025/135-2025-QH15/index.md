@@ -78,3 +78,8 @@ nguon_goi:
 # 135/2025/QH15
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -128,3 +128,8 @@ Hub: [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/index|Di
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-09|Điều 9. Tạmứng vốn]] — **Nghị định 254/2025/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-10|Điều 10. Thanh toán khối lượng hoàn thành]] — **Nghị định 254/2025/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-21|Điều 21. Mở tài khoản]] — **Nghị định 254/2025/NĐ-CP**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

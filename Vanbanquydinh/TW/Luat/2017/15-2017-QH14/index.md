@@ -155,3 +155,8 @@ Hub: [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/index|DieudiemDa
 - [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-45|Điều 45. Thanh lý tài sản công tại cơ quan nhà nước]] — **Luật 15/2017/QH14**
 - [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-52|Điều 52. Mua sắm tài sản công phục vụ hoạt động của đơn vị sự nghiệp công lập]] — **Luật 15/2017/QH14**
 - [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-59|Điều 59. Thống kê, kế toán, kiểm kê, đánh giá lại, báo cáo tài sản công tại đơn vị sự …]] — **Luật 15/2017/QH14**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2017/15-2017-QH14/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

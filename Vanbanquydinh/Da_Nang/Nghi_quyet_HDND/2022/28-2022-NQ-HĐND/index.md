@@ -95,3 +95,8 @@ nguon_goi:
 # 28/2022/NQ-HĐND
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/28-2022-NQ-HĐND/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/28-2022-NQ-HĐND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/28-2022-NQ-HĐND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/28-2022-NQ-HĐND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -203,3 +203,8 @@ nguon_goi:
 # 56/2025/TT-BTC
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Thong_tu/2025/56-2025-TT-BTC/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2025/56-2025-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/56-2025-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/56-2025-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

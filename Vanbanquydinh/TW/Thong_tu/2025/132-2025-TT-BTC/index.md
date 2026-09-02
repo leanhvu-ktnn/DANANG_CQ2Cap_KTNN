@@ -192,3 +192,8 @@ nguon_goi:
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/toan-van|toàn văn]]
   - pdf: https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwrTW3LmZEh6VF4OeCqp3ggzkJRg5F6gaefdPnYfr58w52L1MISIzCR1Pvq98znbW-nh6esHPBrGTNn-ElBek42w~~&file_name=2026_08_132%2f2025%2fTT-BTC.pdf
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

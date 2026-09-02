@@ -18,6 +18,6 @@ Gốc gói: [[index]]. Lối vào khóa (hai trục, không gộp): [[GIAOTRINH/
 2. [[TAILIEU/Tài liệu in cho học viên|Tài liệu in cho học viên]] — bồi dưỡng 05 chuyên đề, góc nhìn KTNN.
 3. [[TAILIEU/PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi)|Danh sách tham gia tập huấn]] — phụ lục PDF (bảng theo trang).
 
-Danh mục số hiệu dẫn chiếu: [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc-van-ban-dan-chieu]]. Văn bản: [[Vanbanquydinh/index|Vanbanquydinh]].
+Danh mục số hiệu dẫn chiếu: [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc-van-ban-dan-chieu]]. Văn bản: [[Vanbanquydinh/index|Vanbanquydinh]]. TBox ontology: [[TAILIEU/ontology|ontology]].
 
 File gốc vẫn trong thư mục này; không xóa khi cập nhật `.md`.

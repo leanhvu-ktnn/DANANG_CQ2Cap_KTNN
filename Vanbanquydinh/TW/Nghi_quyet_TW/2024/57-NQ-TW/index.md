@@ -19,3 +19,8 @@ source_url: 'https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha
 # 57-NQ/TW
 
 - Toàn văn (nguồn công khai): [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

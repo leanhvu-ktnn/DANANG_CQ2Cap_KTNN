@@ -101,3 +101,8 @@ cauTrucDieu:
 Hub: [[Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/DieudiemDanchieu/index|DieudiemDanchieu]] (**1** điều — Thông tư 141/2025/TT-BTC).
 
 - [[Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/DieudiemDanchieu/Dieu-03|Điều 3. Tiêu chuẩn tài sản cố định]] — **Thông tư 141/2025/TT-BTC**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -170,3 +170,8 @@ Hub: [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/index|Di
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/Dieu-18|Điều 18. Giá gói thầu và thời gian tổ chức lựa chọn nhà thầu]] — **Nghị định 214/2025/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/Dieu-78|Điều 78. Các trường hợp chỉ định thầu]] — **Nghị định 214/2025/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/Dieu-80|Điều 80. Quy trình chỉ định thầu rút gọn]] — **Nghị định 214/2025/NĐ-CP**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

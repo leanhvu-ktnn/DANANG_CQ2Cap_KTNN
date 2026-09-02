@@ -22,3 +22,8 @@ nguon_goi:
 # 27-NQ/TW
 
 - Toàn văn (nguồn công khai): [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

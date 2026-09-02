@@ -126,3 +126,8 @@ Hub: [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/DieudiemDanch
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/DieudiemDanchieu/Dieu-05|Điều 5. Định mức phân bổ vốn nguồn chi đầu tư phát triển trong chi cân đối giai đoạn …]] — **Nghị quyết 79/2026/NQ-HĐND**
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6. Tiêu chí, định mức phân bổ vốn nguồn chi đầu tư phát triển trong chi cân đối …]] — **Nghị quyết 79/2026/NQ-HĐND**
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/DieudiemDanchieu/Dieu-08|Điều 8. Nguyên tắc phân bổ vốn đầu tư công ngân sách địa phương do cấp xã quản lý]] — **Nghị quyết 79/2026/NQ-HĐND**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

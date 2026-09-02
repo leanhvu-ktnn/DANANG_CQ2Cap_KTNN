@@ -19,3 +19,8 @@ source_url: 'https://nhansu.vn/van-ban-phap-luat/Nghi-quyet-14-NQ-HDND-2025-so-l
 # 14/NQ-HĐND
 
 - Toàn văn (nguồn công khai): [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

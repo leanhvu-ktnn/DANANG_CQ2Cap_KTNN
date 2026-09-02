@@ -115,3 +115,8 @@ Hub: [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/DieudiemDanchieu/index|Die
 - [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/DieudiemDanchieu/Dieu-03|Điều 3. Giải thích thuật ngữ]] — **Thông tư 185/2015/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/DieudiemDanchieu/Dieu-04|Điều 4. Quy định về cấp và sử dụng mã số đơn vị có quan hệ với ngân sách]] — **Thông tư 185/2015/TT-BTC**
 - [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/DieudiemDanchieu/Dieu-14|Điều 14. Xử lý cấp mã số đơn vị có quan hệ với ngân sách do chia tách, sáp nhập đơn vị]] — **Thông tư 185/2015/TT-BTC**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

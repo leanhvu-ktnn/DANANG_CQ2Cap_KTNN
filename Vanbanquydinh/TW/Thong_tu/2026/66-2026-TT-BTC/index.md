@@ -97,3 +97,8 @@ nguon_goi:
 # 66/2026/TT-BTC
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -279,3 +279,8 @@ nguon_goi:
 # 125/2025/NĐ-CP
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

@@ -81,3 +81,8 @@ nguon_goi:
 # 11/2018/NQ-HĐND
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/Quang_Nam_cu/Nghi_quyet_HDND/2018/11-2018-NQ-HĐND/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Quang_Nam_cu/Nghi_quyet_HDND/2018/11-2018-NQ-HĐND/Thucthe|Thucthe]] · [[Vanbanquydinh/Quang_Nam_cu/Nghi_quyet_HDND/2018/11-2018-NQ-HĐND/Quanhe|Quanhe]] · [[Vanbanquydinh/Quang_Nam_cu/Nghi_quyet_HDND/2018/11-2018-NQ-HĐND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

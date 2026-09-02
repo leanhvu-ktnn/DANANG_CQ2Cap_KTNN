@@ -266,3 +266,8 @@ Hub: [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanch
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6. Nhiệm vụ chi của ngân sách cấp xã]] — **Nghị quyết 15/2025/NQ-HĐND**
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-07|Điều 7. Các khoản thu phân chia, tỷ lệ phân chia nguồn thu giữa các cấp ngân sách (ba…]] — **Nghị quyết 15/2025/NQ-HĐND**
 - [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-11|Điều 11. Định mức phân bổ chi thường xuyên choỦy ban nhân dân xã, phường, đặc khu]] — **Nghị quyết 15/2025/NQ-HĐND**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

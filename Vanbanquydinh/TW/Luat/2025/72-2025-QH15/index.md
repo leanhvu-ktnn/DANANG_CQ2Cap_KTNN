@@ -109,3 +109,8 @@ Hub: [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/index|DieudiemDa
 - [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-22|Điều 22. Nhiệm vụ, quyền hạn của Ủy ban nhân dân xã]] — **Nghị quyết 72/2025/QH15**
 - [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23|Điều 23. Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã]] — **Nghị quyết 72/2025/QH15**
 - [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-40|Điều 40. Hoạt động của Ủy ban nhân dân]] — **Nghị quyết 72/2025/QH15**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

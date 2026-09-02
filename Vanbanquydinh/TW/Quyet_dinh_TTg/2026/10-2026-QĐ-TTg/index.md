@@ -80,3 +80,8 @@ nguon_goi:
 # 10/2026/QĐ-TTg
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Quyet_dinh_TTg/2026/10-2026-QĐ-TTg/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Quyet_dinh_TTg/2026/10-2026-QĐ-TTg/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Quyet_dinh_TTg/2026/10-2026-QĐ-TTg/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Quyet_dinh_TTg/2026/10-2026-QĐ-TTg/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

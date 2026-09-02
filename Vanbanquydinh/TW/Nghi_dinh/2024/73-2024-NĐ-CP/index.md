@@ -89,3 +89,8 @@ nguon_goi:
 # 73/2024/NĐ-CP
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Nghi_dinh/2024/73-2024-NĐ-CP/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2024/73-2024-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2024/73-2024-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2024/73-2024-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

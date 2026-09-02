@@ -90,3 +90,8 @@ nguon_goi:
 # 70/2024/TT-BTC
 
 - Toàn văn (copy RAW): [[Vanbanquydinh/TW/Thong_tu/2024/70-2024-TT-BTC/toan-van|toàn văn]]
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Thong_tu/2024/70-2024-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2024/70-2024-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2024/70-2024-TT-BTC/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

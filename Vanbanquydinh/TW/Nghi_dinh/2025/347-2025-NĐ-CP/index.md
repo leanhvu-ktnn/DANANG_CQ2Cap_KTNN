@@ -116,3 +116,8 @@ cauTrucDieu:
 Hub: [[Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/DieudiemDanchieu/index|DieudiemDanchieu]] (**1** điều — Nghị định 347/2025/NĐ-CP).
 
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/DieudiemDanchieu/Dieu-06|Điều 6. Thủ tục thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc…]] — **Nghị định 347/2025/NĐ-CP**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

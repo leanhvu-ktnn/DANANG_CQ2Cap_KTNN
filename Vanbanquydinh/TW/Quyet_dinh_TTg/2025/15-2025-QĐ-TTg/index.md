@@ -102,3 +102,8 @@ Hub: [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/ind
 
 - [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-05|Điều 5. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị phục vụ hoạt động chung]] — **Quyết định 15/2025/QĐ-TTg**
 - [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-06|Điều 6. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng]] — **Quyết định 15/2025/QĐ-TTg**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]

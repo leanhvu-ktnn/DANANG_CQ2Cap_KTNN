@@ -137,3 +137,8 @@ Hub: [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/DieudiemDanchieu/index|Di
 
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/DieudiemDanchieu/Dieu-14|Điều 14. Khai thác tài sản công tại cơ quan nhà nước]] — **Nghị định 186/2025/NĐ-CP**
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/DieudiemDanchieu/Dieu-50|Điều 50. Khai thác tài sản công tại đơn vị sự nghiệp công lập]] — **Nghị định 186/2025/NĐ-CP**
+
+## Ontology (thực thể / quan hệ / quy trình)
+
+- [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/quytrinh|quytrinh]]
+- TBox: [[TAILIEU/ontology|ontology]]
