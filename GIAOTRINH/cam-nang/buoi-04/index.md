@@ -18,11 +18,24 @@ Cẩm nang: kế toán QT; khóa sổ; chuyển nguồn; yêu cầu và trình t
 
 ## Nội dung chương trình đem lại
 
-- [[GIAOTRINH/cam-nang/buoi-04/khoa-so-va-xu-ly-cuoi-nam/index|§1–3 Kế toán QT; khóa sổ; chuyển nguồn]]
-- [[GIAOTRINH/cam-nang/buoi-04/quyet-toan/index|§4–5 Yêu cầu và trình tự quyết toán]]
-- [[GIAOTRINH/cam-nang/buoi-04/cai-cach-tien-luong/index|§6 Nguồn cải cách tiền lương]]
+- [[GIAOTRINH/cam-nang/buoi-04/khoa-so-va-xu-ly-cuoi-nam|§1–3 Kế toán QT; khóa sổ; chuyển nguồn]]
+- [[GIAOTRINH/cam-nang/buoi-04/quyet-toan|§4–5 Yêu cầu và trình tự quyết toán]]
+- [[GIAOTRINH/cam-nang/buoi-04/cai-cach-tien-luong|§6 Nguồn cải cách tiền lương]]
 
 Căn cứ trục: [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-65|Điều 65. Kế toán, quyết toán ngân sách nhà nước]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-66|Điều 66. Xử lý thu, chi ngân sách nhà nước cuối năm]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-67|Điều 67. Yêu cầu quyết toán ngân sách nhà nước]] · [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-30|Điều 30. Khóa sổ kế toán và xử lý thu, chi ngân sách nhà nước cuối năm]] · [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-31|Điều 31. Chuyển nguồn ngân sách từ năm trước sang năm sau]]
+
+## Nắm để làm
+
+Buổi 4 = khóa sổ rõ chênh + QT khớp kho + tách nguồn CCTL.
+
+Xong buổi: mỗi khoản dư có nhãn chuyển / hủy / nộp.
+Tờ trình HĐND có thuyết minh, không chỉ bảng.
+
+## Điều trục — công chức nhớ gì
+
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-66|Điều 66 Luật 89]] — chỉnh lý đến 31/01; hủy DT chưa chi trừ danh mục chuyển nguồn.
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-67|Điều 67 Luật 89]] — QT khớp KBNN; xã không QT chi > thu; có thuyết minh.
+- [[Vanbanquydinh/TW/Thong_tu/2025/133-2025-TT-BTC/DieudiemDanchieu/Dieu-04|Điều 4 TT 133]] — nguồn CCTL 2026; không phải dự phòng tự do.
 
 ## Kỹ năng
 
@@ -30,4 +43,7 @@ Phân loại từng khoản dư (chuyển / hủy / nộp trả) trước khi kh
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang — BUỔI 4]]. Trục kia: [[GIAOTRINH/hoc-vien/chuyen-de-04/index|CĐ 4]] · CCTL: [[GIAOTRINH/hoc-vien/chuyen-de-05/index|CĐ 5]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang — BUỔI 4]].
+
+Trục kia: [[GIAOTRINH/hoc-vien/chuyen-de-04/index|CĐ 4 — cuối năm, quyết toán]].
+CCTL: [[GIAOTRINH/hoc-vien/chuyen-de-05/index|CĐ 5 — CCTL, quỹ lương]].

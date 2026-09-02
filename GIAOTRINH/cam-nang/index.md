@@ -14,7 +14,11 @@ buoi: 0
 
 ## Đối tượng và mục đích
 
-Công chức xã / phường đang lập, chấp hành, quyết toán ngân sách cấp xã. Trang này trả lời: *mở buổi nào theo việc đang làm* — luyện **làm đúng** theo trình tự cẩm nang, không lấy tình huống / «nếu chỉ nhớ 5» của học viên.
+Công chức xã / phường đang lập, chấp hành, quyết toán ngân sách cấp xã.
+
+Trang này trả lời: *mở buổi nào theo việc đang làm*.
+Luyện **làm đúng** theo trình tự cẩm nang.
+Không lấy tình huống / «nếu chỉ nhớ 5» của học viên.
 
 Bản sắc khóa: [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý biên soạn]]. Trục kia (không gộp): [[GIAOTRINH/hoc-vien/index|Học viên — 05 chuyên đề]].
 
@@ -33,7 +37,25 @@ Bản sắc khóa: [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý biên soạn]
 - [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3 — điều hành, TSC, thanh toán]] — Tổ chức thực hiện dự toán; quản lý thu, kiểm soát chi; TSC; hồ sơ thanh toán
 - [[GIAOTRINH/cam-nang/buoi-04/index|Buổi 4 — cuối năm, quyết toán]] — Xử lý cuối năm; nguồn CCTL; khóa sổ và quyết toán
 
-Cùng chủ đề (trục kia, không cùng trang): Buổi 1 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-01/index|CĐ 1 — thể chế, phân cấp]]; Buổi 2 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-02/index|CĐ 2 — lập dự toán]]; Buổi 3 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-03/index|CĐ 3 — điều hành, TSC]]; Buổi 4 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-04/index|CĐ 4 — cuối năm, quyết toán]]; CCTL ↔ [[GIAOTRINH/hoc-vien/chuyen-de-05/index|CĐ 5 — CCTL, quỹ lương]].
+Cùng chủ đề (trục kia, không cùng trang):
+
+- Buổi 1 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-01/index|CĐ 1 — thể chế, phân cấp]]
+- Buổi 2 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-02/index|CĐ 2 — lập dự toán]]
+- Buổi 3 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-03/index|CĐ 3 — điều hành, TSC]]
+- Buổi 4 ↔ [[GIAOTRINH/hoc-vien/chuyen-de-04/index|CĐ 4 — cuối năm, quyết toán]]
+- CCTL ↔ [[GIAOTRINH/hoc-vien/chuyen-de-05/index|CĐ 5 — CCTL, quỹ lương]]
+
+## Nắm để làm
+
+Bốn buổi = một vòng đời NS xã:
+
+1. chỗ đứng / thẩm quyền
+2. lập – giao – chỉnh DT
+3. điều kiện chi + TSC + kho
+4. khóa sổ / QT / CCTL
+
+Mỗi trang con có mục **Điều đã dẫn** — ý vận dụng, không thay toàn văn.
+Bảng tỷ lệ / định mức: mở trên Vanbanquydinh.
 
 ## Vận dụng
 
@@ -53,10 +75,12 @@ Mở đúng buổi khi đang làm việc tương ứng. Không copy bảng tỷ 
 
 ## Căn cứ
 
-Mỗi mục buổi có cửa wiki + tên Điều trên [[Vanbanquydinh/index|Văn bản quy định dẫn chiếu]] · [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]]. Phân cấp Đà Nẵng: [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index|15/2025/NQ-HĐND — phân cấp thu–chi]].
+Mỗi mục buổi có cửa wiki + tên Điều trên [[Vanbanquydinh/index|Văn bản quy định dẫn chiếu]] · [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]].
+
+Phân cấp Đà Nẵng: [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index|15/2025/NQ-HĐND — phân cấp thu–chi]].
 
 ## Liên kết
 
 - Hub giáo trình: [[GIAOTRINH/index|Giáo trình — hai trục]] — bảng Buổi ↔ CĐ, chọn trục cẩm nang hay học viên.
 - Việc hàng ngày: [[TIMHIEU/hang-ngay/index|Việc hàng ngày]] — map việc hôm nay sang buổi / CĐ.
-- Hub gói: [[index|Hub gói — lối vào nhu cầu]] — lối vào theo nhu cầu + đóng gói vault.
+- Hub gói: [[hub-goi|Hub gói — lối vào nhu cầu]] — lối vào theo nhu cầu + đóng gói vault.

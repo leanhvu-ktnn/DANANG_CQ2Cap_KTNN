@@ -26,6 +26,8 @@ tags: [Obsidian, wikilink, WISDOM, Da_Nang]
 - **Không** ghi đuôi `.md` trong wikilink.
 - **Không** dùng `../`.
 - **Không** prefix `WISDOM/DANANG_CQ2cap_Kiemtoan/`.
+- **Không** thư mục chỉ có 1 file `.md` — gộp thành `tên.md` (không `tên/index.md`). Đã áp dụng `GIAOTRINH/cam-nang/`.
+- Trong `GIAOTRINH/cam-nang`: mọi số hiệu / Điều đã có trong `Vanbanquydinh/` phải wikilink **ngay chỗ nhắc** (kể cả «Nắm để làm» / «Kỹ năng»), không để plain text. Không có Dieudiem → `.../index`. CV chưa catalog giữ chữ.
 
 ## Prefix được phép
 

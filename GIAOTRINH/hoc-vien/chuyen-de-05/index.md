@@ -47,4 +47,4 @@ Làm đúng việc của chuyên đề trên hồ sơ giả định / việc th�
 
 ## Đọc đủ
 
-[[TAILIEU/Tài liệu in cho học viên#CHUYÊN ĐỀ 5|Chuyên đề 5]]. Trục cẩm nang (cùng chủ đề): [[GIAOTRINH/cam-nang/buoi-04/cai-cach-tien-luong/index|Buổi 4 §6 CCTL]]
+[[TAILIEU/Tài liệu in cho học viên#CHUYÊN ĐỀ 5|Chuyên đề 5]]. Trục cẩm nang (cùng chủ đề): [[GIAOTRINH/cam-nang/buoi-04/cai-cach-tien-luong|Buổi 4 §6 CCTL]]

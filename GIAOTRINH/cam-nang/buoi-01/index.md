@@ -14,16 +14,33 @@ buoi: 1
 
 ## Tinh thần
 
-Cẩm nang: phân cấp nguồn thu, nhiệm vụ chi ngân sách cấp xã; quy trình quản lý; thẩm quyền, trách nhiệm các chủ thể. Luyện **làm đúng** vị trí ngân sách cấp xã trong hệ thống hai cấp. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Cẩm nang: phân cấp nguồn thu, nhiệm vụ chi ngân sách cấp xã; quy trình quản lý; thẩm quyền, trách nhiệm các chủ thể.
+
+Luyện **làm đúng** vị trí ngân sách cấp xã trong hệ thống hai cấp.
+[[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
-- [[GIAOTRINH/cam-nang/buoi-01/ngan-sach-cap-xa/index|§1 Khái niệm ngân sách cấp xã]]
-- [[GIAOTRINH/cam-nang/buoi-01/phan-cap-thu-chi/index|§2.1–2.6 Phạm vi thu–chi, phân cấp Đà Nẵng, định mức]]
-- [[GIAOTRINH/cam-nang/buoi-01/tham-quyen/index|§3.1–3.5 Thẩm quyền HĐND, UBND, Chủ tịch, Phòng KT, đơn vị]]
-- [[GIAOTRINH/cam-nang/buoi-01/cong-khai-va-hoat-dong-khac/index|§4–5 Công khai và hoạt động tài chính khác]]
+- [[GIAOTRINH/cam-nang/buoi-01/ngan-sach-cap-xa|§1 Khái niệm ngân sách cấp xã]]
+- [[GIAOTRINH/cam-nang/buoi-01/phan-cap-thu-chi|§2.1–2.6 Phạm vi thu–chi, phân cấp Đà Nẵng, định mức]]
+- [[GIAOTRINH/cam-nang/buoi-01/tham-quyen|§3.1–3.5 Thẩm quyền HĐND, UBND, Chủ tịch, Phòng KT, đơn vị]]
+- [[GIAOTRINH/cam-nang/buoi-01/cong-khai-va-hoat-dong-khac|§4–5 Công khai và hoạt động tài chính khác]]
 
 Căn cứ trục: [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-06|Điều 6. Hệ thống ngân sách nhà nước]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-38|Điều 38. Nguồn thu của ngân sách địa phương]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-39|Điều 39. Nhiệm vụ chi của ngân sách địa phương]] · [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6. Nhiệm vụ chi của ngân sách cấp xã]]
+
+## Nắm để làm
+
+Buổi 1 = chỗ đứng của NS xã.
+
+Hỏi đủ ba câu: *ai được thu / chi việc gì*, *ai được quyết*, *khoản thuộc xã hay TP*.
+
+Xong buổi mới sang lập DT (Buổi 2).
+
+## Điều trục — công chức nhớ gì
+
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-06|Điều 6 Luật 89]] — hệ thống tỉnh–xã; xã là một cấp NS.
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-38|Điều 38 Luật 89]]–[[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-39|Điều 39]] — khung thu / chi địa phương; xã chỉ hưởng / chi phần HĐND tỉnh đã phân.
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6 NQ 15]] — danh mục nhiệm vụ chi xã Đà Nẵng. Việc không có trong [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6]] → không lập DT xã.
 
 ## Kỹ năng
 
@@ -31,4 +48,5 @@ Xác định cấp xã là một cấp ngân sách (tỉnh–xã); mở đúng n
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang — BUỔI 1]]. Trục kia: [[GIAOTRINH/hoc-vien/chuyen-de-01/index|CĐ 1]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang — BUỔI 1]]. Trục kia: [[GIAOTRINH/hoc-vien/chuyen-de-01/index|CĐ 1 — thể chế, phân cấp]].
+
