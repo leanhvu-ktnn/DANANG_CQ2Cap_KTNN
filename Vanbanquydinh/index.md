@@ -135,7 +135,13 @@ Xã/phường: `Tinh.Da_Nang.Xa_*` — [[KLG/concepts/khai-niem/chinh-quyen-2-ca
 
 ## Thống kê
 
-Copy được **64** (trong đó ngoài INF: **3**); stub **0** / 64 số hiệu.
+Catalog **chốt 64/64**. Trong đó **3** ngoài INF (toàn văn nguồn công khai — identity khóa học, không thay bằng số hiệu khác):
+
+- [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/index|27-NQ/TW]] — CCTL (21/5/2018). Thực hiện 2026: [[Vanbanquydinh/TW/Thong_tu/2025/133-2025-TT-BTC/DieudiemDanchieu/Dieu-04|TT 133 Điều 4]], không thay số hiệu nghị quyết.
+- [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/index|57-NQ/TW]] — KHCN / ĐMST / CĐS (22/12/2024).
+- [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/index|14/NQ-HĐND]] — HĐLĐ GDĐT 12/8/2025. **Không** lấy `14/2025/NQ-HĐND` INF (di dời nhà / lệ phí GPXD).
+
+Không còn mục chờ nạp.
 
 ## Ontology (thực thể / quan hệ / quy trình)
 
