@@ -53,7 +53,7 @@ Chính quyền 2 cấp tại Đà Nẵng (thẩm quyền xã / TP, không phải
 
 ## Liên kết
 
-- Hub: [[index|Hub gói — lối vào nhu cầu]] — lối vào theo nhu cầu.
-- Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — chuỗi khái niệm → tiếp cận → việc.
+- Hub: [[hub-goi|Hub gói — lối vào nhu cầu]] — lối vào theo nhu cầu (không dùng `[[index]]`: trùng tên với trang này).
+- Tìm hiểu: [[TIMHIEU/index|Tìm hiểu]] — chuỗi khái niệm → tiếp cận → việc.
 - Tiếp cận: [[TIMHIEU/tiep-can-ktnn/index|Cách tiếp cận KTNN]] — bốn câu hỏi, bằng chứng, rủi ro.
 - Việc: [[TIMHIEU/hang-ngay/index|Việc hàng ngày]] — ký chi, lập DT, quyết toán, tiếp đoàn, 2 cấp.

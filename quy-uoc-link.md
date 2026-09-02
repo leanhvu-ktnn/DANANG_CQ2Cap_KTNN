@@ -8,7 +8,9 @@ tags: [Obsidian, wikilink, WISDOM, Da_Nang]
 
 # Quy ước wikilink Obsidian
 
-Áp dụng cho mọi note Wisdom/hub trong gói này: [[index]], [[TIMHIEU/index|TIMHIEU]], [[GIAOTRINH/index|GIAOTRINH]], [[TAILIEU/index|TAILIEU]], [[Vanbanquydinh/index|Vanbanquydinh]].
+Áp dụng cho mọi note Wisdom/hub trong gói này: [[hub-goi|Hub gói]], [[TIMHIEU/index|TIMHIEU]], [[GIAOTRINH/index|GIAOTRINH]], [[TAILIEU/index|TAILIEU]], [[Vanbanquydinh/index|Vanbanquydinh]].
+
+**Không** `[[index]]` trần — hàng trăm file tên `index.md`; từ một `index.md` con, Obsidian hay nhảy về chính trang đang mở. Hub gốc có alias `hub-goi`.
 
 **Vault root** = thư mục gói (file này). Máy đọc *Open folder as vault* đúng thư mục clone — không phải root repo VBPL.
 
@@ -27,7 +29,7 @@ tags: [Obsidian, wikilink, WISDOM, Da_Nang]
 
 ## Prefix được phép
 
-`index` · `TIMHIEU/` · `GIAOTRINH/` · `TAILIEU/` · `Vanbanquydinh/` · `quy-uoc-link`
+`hub-goi` · `TIMHIEU/` · `GIAOTRINH/` · `TAILIEU/` · `Vanbanquydinh/` · `quy-uoc-link`
 
 File trùng tên (`Thucthe.md`, `Quanhe.md`, `quytrinh.md`) — **full path**, không `[[Thucthe]]` trần. Xem [[TAILIEU/ontology|ontology]].
 

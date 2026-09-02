@@ -2,6 +2,8 @@
 okf_version: "0.2"
 type: index
 title: "Đà Nẵng — NSNN và cách tiếp cận KTNN (công chức 2 cấp)"
+aliases:
+  - hub-goi
 updated: 2026-09-02
 tags: [WISDOM, Da_Nang, NSNN, KTNN, Obsidian]
 apDungDiaBan: Da_Nang
