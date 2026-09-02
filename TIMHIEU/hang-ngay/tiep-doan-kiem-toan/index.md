@@ -9,7 +9,7 @@ apDungDiaBan: Da_Nang
 
 # Khi tiếp đoàn kiểm toán
 
-Luật: [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]]. Đơn vị có nghĩa vụ cung cấp; không có nghĩa vụ “thuyết phục”.
+Luật: [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]]. Đơn vị có nghĩa vụ cung cấp; không có nghĩa vụ “thuyết phục”.
 
 ## Trước khi đoàn vào
 

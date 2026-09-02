@@ -21,6 +21,8 @@ Không phải catalog hiệu lực. Số hiệu / Điều **theo cách viết tr
 
 **64 số hiệu** (61 dẫn số + 3 luật khóa từ tên). `TT-BTС` (OCR) = **57/2025/TT-BTC**, **133/2025/TT-BTC**.
 
+Wisdom bổ sung (không nằm trong HV/CN, đã copy INF+RAW): [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13]] · [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]] · [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14]] · [[Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN]].
+
 ## 1. Luật và văn bản hợp nhất
 
 | Số hiệu | Nội dung | Nguồn | Điều đã tách (tên dưới) |

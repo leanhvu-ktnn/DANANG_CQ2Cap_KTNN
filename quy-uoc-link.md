@@ -40,7 +40,6 @@ Không link leftover ở gốc gói: `khai-niem/`, `hang-ngay/`, `tiep-can-ktnn/
 | Cần | Dùng |
 |-----|------|
 | Văn bản đã copy | `[[Vanbanquydinh/…/index\|số hiệu]]` |
-| Số hiệu chưa copy | `[[Vanbanquydinh/_chua-co/index#…\|số hiệu]]` |
 | Cơ quan | `[[TIMHIEU/co-quan/index#…\|nhãn]]` |
 | 2 cấp / sáp nhập QN→ĐN | `[[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index\|2 cấp]]` |
 | TTHC dân sự | Câu chữ + trang 2 cấp — không giả catalog |
@@ -54,4 +53,4 @@ Không link leftover ở gốc gói: `khai-niem/`, `hang-ngay/`, `tiep-can-ktnn/
 
 - Hub: [[index]]
 - Cơ quan: [[TIMHIEU/co-quan/index|co-quan]]
-- Chưa copy: [[Vanbanquydinh/_chua-co/index|_chua-co]]
+- Văn bản: [[Vanbanquydinh/index|Vanbanquydinh]]

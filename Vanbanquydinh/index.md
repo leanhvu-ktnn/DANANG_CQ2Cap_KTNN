@@ -8,7 +8,7 @@ tags: [Vanbanquydinh, Da_Nang, NSNN]
 
 # Văn bản quy định dẫn chiếu
 
-Mỗi số hiệu trong [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc]] = một thư mục. Metadata từ INF; toàn văn copy RAW vào `toan-van`. Không lấy văn bản cùng số của tỉnh khác. Văn bản có Điều được HV/CN nêu: thư mục con `DieudiemDanchieu` (một file / Điều; `index.md` liệt kê hết).
+Mỗi số hiệu trong [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc]] = một thư mục (64 HV/CN). Wisdom còn dẫn 4 số ngoài danh mục — đã copy INF+RAW: [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13]] · [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]] · [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14]] · [[Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN]]. Metadata từ INF; toàn văn copy RAW vào `toan-van`. Không lấy văn bản cùng số của tỉnh khác. Văn bản có Điều được HV/CN nêu: thư mục con `DieudiemDanchieu` (một file / Điều; `index.md` liệt kê hết).
 
 Gốc gói: [[index]]. Ngoài INF (nghị quyết Đảng / số hiệu thiếu năm): không lấy văn bản cùng số tỉnh khác. Không đọc hết catalog KTNN trước khi làm việc. Kiểm tra `tinh_trang_hieu_luc` trên trang văn bản trước khi trích.
 
@@ -18,9 +18,9 @@ Gốc gói: [[index]]. Ngoài INF (nghị quyết Đảng / số hiệu thiếu 
 
 - NSNN (từ 01/01/2026) — [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|89/2025/QH15]] · VBHN [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index|89/VBHN-VPQH]]
 - Tổ chức CQĐP — [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|72/2025/QH15]]
-- NSNN (luật trước) — [[Vanbanquydinh/_chua-co/index#83/2015/QH13|83/2015/QH13]]
-- Kiểm toán nhà nước — [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]]
-- Sửa Luật KTNN — [[Vanbanquydinh/_chua-co/index#55/2019/QH14|55/2019/QH14]]
+- NSNN (luật trước) — [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13]]
+- Kiểm toán nhà nước — [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]]
+- Sửa Luật KTNN — [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14]]
 - Đầu tư công — [[Vanbanquydinh/TW/Luat/2024/58-2024-QH15/index|58/2024/QH15]]
 - Đấu thầu — [[Vanbanquydinh/TW/Luat/2023/22-2023-QH15/index|22/2023/QH15]]
 - Xây dựng (từ 01/7/2026) — [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/index|135/2025/QH15]]
@@ -28,7 +28,7 @@ Gốc gói: [[index]]. Ngoài INF (nghị quyết Đảng / số hiệu thiếu 
 - Kế toán — [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index|88/2015/QH13]]
 - Sửa ĐT / ĐT công / … — [[Vanbanquydinh/TW/Luat/2025/90-2025-QH15/index|90/2025/QH15]]
 - Chi tiết Luật NSNN — [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/index|73/2026/NĐ-CP]]
-- TT KTNN — [[Vanbanquydinh/_chua-co/index#01/2026/TT-KTNN|01/2026/TT-KTNN]]
+- TT KTNN — [[Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN]]
 
 ### Trục Đà Nẵng (từ TAILIEU)
 
@@ -69,6 +69,9 @@ Xã/phường: `Tinh.Da_Nang.Xa_*` — [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-
 - [[Vanbanquydinh/TW/Luat/2023/22-2023-QH15/index|22/2023/QH15]] — INF+RAW
 - [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index|88/2015/QH13]] — INF+RAW
 - [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/index|135/2025/QH15]] — INF+RAW
+- [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13]] — INF+RAW (Wisdom; ngoài 64 HV/CN)
+- [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]] — INF+RAW (Wisdom; ngoài 64 HV/CN)
+- [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14]] — INF+RAW (Wisdom; ngoài 64 HV/CN)
 
 ## Nghị quyết Quốc hội / Trung ương
 
@@ -114,6 +117,7 @@ Xã/phường: `Tinh.Da_Nang.Xa_*` — [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-
 - [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|157/2025/TT-BTC]] — INF+RAW
 - [[Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/index|26/2026/TT-BTC]] — INF+RAW
 - [[Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/index|66/2026/TT-BTC]] — INF+RAW
+- [[Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN]] — INF+RAW (Wisdom; ngoài 64 HV/CN)
 
 ## Quyết định
 

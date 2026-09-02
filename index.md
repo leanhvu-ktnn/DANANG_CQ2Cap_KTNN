@@ -66,7 +66,7 @@ SSOT: [[quy-uoc-link]]. Path từ **gốc gói**. Không đuôi `.md`. Không `W
 - Giáo trình (hai trục): [[GIAOTRINH/index|GIAOTRINH]]
 - Tài liệu: [[TAILIEU/index|TAILIEU]] (`.md` + file gốc)
 - Văn bản dẫn chiếu: [[Vanbanquydinh/index|Vanbanquydinh]] (bản đồ căn cứ + metadata + toàn văn + `DieudiemDanchieu`)
-- Cơ quan: [[TIMHIEU/co-quan/index|co-quan]] · số hiệu chưa copy: [[Vanbanquydinh/_chua-co/index|_chua-co]]
+- Cơ quan: [[TIMHIEU/co-quan/index|co-quan]]
 
 ### Copy
 

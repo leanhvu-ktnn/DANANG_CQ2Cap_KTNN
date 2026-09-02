@@ -13,7 +13,7 @@ apDungDiaBan: Da_Nang
 
 ## KTNN
 
-Kiểm toán Nhà nước — `TW.Chinh_phu.Kiem_Toan_Nha_Nuoc`. Đơn vị TP / xã là **đơn vị được kiểm toán**. Khái niệm: [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|KTNN]] · việc: [[TIMHIEU/hang-ngay/tiep-doan-kiem-toan/index|tiếp đoàn]]. Luật khung chưa copy vào gói: [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]].
+Kiểm toán Nhà nước — `TW.Chinh_phu.Kiem_Toan_Nha_Nuoc`. Đơn vị TP / xã là **đơn vị được kiểm toán**. Khái niệm: [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|KTNN]] · việc: [[TIMHIEU/hang-ngay/tiep-doan-kiem-toan/index|tiếp đoàn]]. Luật: [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]].
 
 ## HĐND
 

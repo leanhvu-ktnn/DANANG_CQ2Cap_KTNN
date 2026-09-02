@@ -11,7 +11,7 @@ apDungDiaBan: Da_Nang
 
 KTNN kiểm toán việc quản lý, sử dụng NSNN, tiền và tài sản công — độc lập, chỉ tuân theo pháp luật. Công chức Đà Nẵng là **đơn vị được kiểm toán** (hoặc đầu mối cung cấp hồ sơ), không phải kiểm toán viên.
 
-Luật: [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]] · sửa: [[Vanbanquydinh/_chua-co/index#55/2019/QH14|55/2019/QH14]]. Cơ quan: [[TIMHIEU/co-quan/index#KTNN|KTNN]].
+Luật: [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13]] · sửa: [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14]]. Cơ quan: [[TIMHIEU/co-quan/index#KTNN|KTNN]].
 
 ## Ba loại nội dung (để khỏi lạc đề)
 

@@ -11,7 +11,7 @@ apDungDiaBan: Da_Nang
 
 NSNN là kế hoạch thu–chi của Nhà nước trong một năm, do cơ quan dân cử quyết định, cơ quan hành chính tổ chức thực hiện. Công chức không “sở hữu” quỹ — chỉ được dùng trong **dự toán đã giao**, đúng **nội dung / định mức / thẩm quyền**.
 
-Luật hiện hành (từ 01/01/2026): [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|89/2025/QH15]]. Luật trước trong lược đồ: [[Vanbanquydinh/_chua-co/index#83/2015/QH13|83/2015/QH13]].
+Luật hiện hành (từ 01/01/2026): [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|89/2025/QH15]]. Luật trước trong lược đồ: [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13]].
 
 ## Khi đọc một khoản chi, tách 3 lớp
 
