@@ -9,7 +9,7 @@ apDungDiaBan: Da_Nang
 
 # Khi tiếp đoàn kiểm toán
 
-Luật: [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2015/81-2015-QH13/index|81/2015/QH13]]. Đơn vị có nghĩa vụ cung cấp; không có nghĩa vụ “thuyết phục”.
+Luật: [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]]. Đơn vị có nghĩa vụ cung cấp; không có nghĩa vụ “thuyết phục”.
 
 ## Trước khi đoàn vào
 
@@ -32,4 +32,4 @@ Luật: [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2015/81-2015-QH13/index|81/20
 ## Liên kết
 
 - Hub: [[TIMHIEU/hang-ngay/index|hang-ngay]]
-- KTNN: [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|khái niệm KTNN]] · [[INF/COQUAN_DONVI/TW/Chinh_phu/Kiem_Toan_Nha_Nuoc/index|cơ quan]]
+- KTNN: [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|khái niệm KTNN]] · [[TIMHIEU/co-quan/index#KTNN|cơ quan]]

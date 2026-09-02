@@ -17,7 +17,7 @@ Bằng chứng kiểm toán = tài liệu **gốc, kịp thời, nhất quán** 
 2. Quyết định / hợp đồng / danh sách đối tượng (câu 1–2).
 3. Chứng từ thanh toán + xác nhận kho bạc (nếu chi qua KB).
 4. Nghiệm thu / biên bản giao nhận / bảng kê (nếu có khối lượng).
-5. Hạch toán: đúng tiểu mục, đúng tài khoản — [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2015/88-2015-QH13/index|Luật Kế toán]].
+5. Hạch toán: đúng tiểu mục, đúng tài khoản — [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index|Luật Kế toán]].
 
 ## Làm hàng ngày (đừng chờ đoàn)
 

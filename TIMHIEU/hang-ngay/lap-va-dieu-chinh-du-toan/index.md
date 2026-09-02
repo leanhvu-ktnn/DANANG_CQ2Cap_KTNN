@@ -16,7 +16,7 @@ Pha **lập** trên [[TIMHIEU/khai-niem/chu-ky-ngan-sach/index|chu kỳ]]. KTNN 
 1. Liệt kê việc theo chức năng — xã: TTHC + nhiệm vụ giao; sở: nhiệm vụ ngành.
 2. Mỗi dòng: căn cứ chế độ + ước số + không nhồi việc ngoài thẩm quyền.
 3. Tách thường xuyên / đầu tư / chương trình mục tiêu (nếu được giao).
-4. Gửi đúng đầu mối: xã → UBND TP / [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/So_Tai_Chinh/index|Sở Tài chính]] theo hướng dẫn năm.
+4. Gửi đúng đầu mối: xã → [[TIMHIEU/co-quan/index#UBND|UBND TP]] / [[TIMHIEU/co-quan/index#Sở Tài chính|Sở Tài chính]] theo hướng dẫn năm.
 
 ## Điều chỉnh
 

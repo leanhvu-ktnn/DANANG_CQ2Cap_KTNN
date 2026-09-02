@@ -19,7 +19,7 @@ Không phải từ điển luật. Mỗi trang = *cần nắm gì để làm vi�
 * [[TIMHIEU/khai-niem/tai-san-cong/index|Tài sản công]]
 * [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|Kiểm toán Nhà nước]]
 
-Định nghĩa pháp lý chính quyền 2 cấp (Knowledge): [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]].
+Chính quyền 2 cấp tại Đà Nẵng: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp]].
 
 ## Liên kết
 

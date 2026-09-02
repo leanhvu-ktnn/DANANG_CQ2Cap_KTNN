@@ -20,7 +20,7 @@ apDungDiaBan: Da_Nang
 
 Khớp 3 sổ: đơn vị — kho bạc — (nếu có) cấp trên. Chênh phải có giải trình *gắn chứng từ*, không “làm tròn”.
 
-Báo cáo đúng mẫu, đúng thời hạn hướng dẫn năm của Sở / Bộ. Luật kế toán: [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2015/88-2015-QH13/index|88/2015/QH13]].
+Báo cáo đúng mẫu, đúng thời hạn hướng dẫn năm của Sở / Bộ. Luật kế toán: [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index|88/2015/QH13]].
 
 KTNN đọc quyết toán để chọn mẫu chi. Bộ hồ sơ chi năm phải *lấy ra được trong ngày*.
 

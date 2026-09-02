@@ -26,7 +26,7 @@ Trước khi chi: [[TIMHIEU/hang-ngay/truoc-khi-chi/index|bốn cửa]]. Tóm t�
 3. Đúng trình tự (mua sắm, đầu tư, hỗ trợ)?
 4. Chứng từ gốc khớp số, ngày, người ký?
 
-Chi thường xuyên ≠ chi đầu tư. Hỗ trợ TTHC (trợ cấp, mai táng…) đi theo quy trình KLG, không “chi nội bộ”: [[KLG/concepts/main/da-nang/index|TTHC Đà Nẵng]].
+Chi thường xuyên ≠ chi đầu tư. Hỗ trợ dân (trợ cấp, mai táng…) làm đúng TTHC, không “chi nội bộ” — xem thẩm quyền trên [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]] (catalog TTHC không nằm trong gói).
 
 ## Liên kết
 

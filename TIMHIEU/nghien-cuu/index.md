@@ -39,4 +39,4 @@ Ontology (lớp nghiên cứu, không nhét vào lối đọc giáo trình): [[T
 
 - Hub: [[index|DANANG_CQ2cap_Kiemtoan]] · [[TIMHIEU/index|TIMHIEU]] · Giáo trình: [[GIAOTRINH/index|GIAOTRINH]]
 - Lớp: [[TIMHIEU/nghien-cuu/index|nghien-cuu]]
-- KLG miền: [[KLG/concepts/main/da-nang/index|da-nang]] · [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]]
+- 2 cấp · cơ quan: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]] · [[TIMHIEU/co-quan/index|co-quan]]

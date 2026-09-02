@@ -18,9 +18,9 @@ Gốc gói: [[index]]. Ngoài INF (nghị quyết Đảng / số hiệu thiếu 
 
 - NSNN (từ 01/01/2026) — [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|89/2025/QH15]] · VBHN [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index|89/VBHN-VPQH]]
 - Tổ chức CQĐP — [[Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|72/2025/QH15]]
-- NSNN (luật trước) — [[INF/van-ban/VANBAN_QUYPHAM/QUOC_HOI_-_CHU_TICH_NUOC/Luat/2015/83-2015-QH13/index|83/2015/QH13]]
-- Kiểm toán nhà nước — [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2015/81-2015-QH13/index|81/2015/QH13]]
-- Sửa Luật KTNN — [[INF/van-ban/VANBAN_QUYPHAM/Quoc_hoi/Luat/2019/55-2019-QH14/index|55/2019/QH14]]
+- NSNN (luật trước) — [[Vanbanquydinh/_chua-co/index#83/2015/QH13|83/2015/QH13]]
+- Kiểm toán nhà nước — [[Vanbanquydinh/_chua-co/index#81/2015/QH13|81/2015/QH13]]
+- Sửa Luật KTNN — [[Vanbanquydinh/_chua-co/index#55/2019/QH14|55/2019/QH14]]
 - Đầu tư công — [[Vanbanquydinh/TW/Luat/2024/58-2024-QH15/index|58/2024/QH15]]
 - Đấu thầu — [[Vanbanquydinh/TW/Luat/2023/22-2023-QH15/index|22/2023/QH15]]
 - Xây dựng (từ 01/7/2026) — [[Vanbanquydinh/TW/Luat/2025/135-2025-QH15/index|135/2025/QH15]]
@@ -28,7 +28,7 @@ Gốc gói: [[index]]. Ngoài INF (nghị quyết Đảng / số hiệu thiếu 
 - Kế toán — [[Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index|88/2015/QH13]]
 - Sửa ĐT / ĐT công / … — [[Vanbanquydinh/TW/Luat/2025/90-2025-QH15/index|90/2025/QH15]]
 - Chi tiết Luật NSNN — [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/index|73/2026/NĐ-CP]]
-- TT KTNN — [[INF/van-ban/VANBAN_QUYPHAM/Kiem_toan_nha_nuoc/Thongtu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN]]
+- TT KTNN — [[Vanbanquydinh/_chua-co/index#01/2026/TT-KTNN|01/2026/TT-KTNN]]
 
 ### Trục Đà Nẵng (từ TAILIEU)
 
@@ -44,12 +44,12 @@ CCTL / KHCN: [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/index|27-NQ/TW]] · 
 
 ### Cơ quan
 
-- KTNN — [[INF/COQUAN_DONVI/TW/Chinh_phu/Kiem_Toan_Nha_Nuoc/index|KTNN]] (`TW.Chinh_phu.Kiem_Toan_Nha_Nuoc`)
-- HĐND TP — [[INF/COQUAN_DONVI/Tinh/Da_Nang/HDND/index|HĐND]] (`Tinh.Da_Nang.HDND`)
-- UBND TP — [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/index|UBND]] (`Tinh.Da_Nang.UBND`)
-- Sở Tài chính — [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/So_Tai_Chinh/index|Sở Tài chính]] (`Tinh.Da_Nang.So_Tai_Chinh`)
+- KTNN — [[TIMHIEU/co-quan/index#KTNN|KTNN]] (`TW.Chinh_phu.Kiem_Toan_Nha_Nuoc`)
+- HĐND TP — [[TIMHIEU/co-quan/index#HĐND|HĐND]] (`Tinh.Da_Nang.HDND`)
+- UBND TP — [[TIMHIEU/co-quan/index#UBND|UBND]] (`Tinh.Da_Nang.UBND`)
+- Sở Tài chính — [[TIMHIEU/co-quan/index#Sở Tài chính|Sở Tài chính]] (`Tinh.Da_Nang.So_Tai_Chinh`)
 
-Xã/phường: `Tinh.Da_Nang.Xa_*` — [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]]. Cây cơ quan (corpus vault): [[INF/COQUAN_DONVI/Tinh/Da_Nang/index|Da_Nang]].
+Xã/phường: `Tinh.Da_Nang.Xa_*` — [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp]]. Cây cơ quan: [[TIMHIEU/co-quan/index#Đà Nẵng|Đà Nẵng]].
 
 ## Luật và văn bản hợp nhất
 

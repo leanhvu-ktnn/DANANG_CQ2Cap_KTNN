@@ -22,4 +22,4 @@ Xương sống: [[TIMHIEU/tiep-can-ktnn/bon-cau-hoi/index|bốn câu hỏi]].
 ## Liên kết
 
 - Hub: [[index|DANANG_CQ2cap_Kiemtoan]] · [[TIMHIEU/index|TIMHIEU]]
-- TTHC (việc dân): [[KLG/concepts/main/da-nang/index|da-nang]]
+- Việc dân / TTHC: xem thẩm quyền trên [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]] (catalog TTHC không nằm trong gói)

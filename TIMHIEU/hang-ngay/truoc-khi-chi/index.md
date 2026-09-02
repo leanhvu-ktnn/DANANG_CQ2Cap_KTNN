@@ -30,7 +30,7 @@ Không ký / không chuyển kho bạc nếu chưa qua bốn cửa. Trùng [[TIM
 
 Bộ tối thiểu: [[TIMHIEU/tiep-can-ktnn/bang-chung-ho-so/index|bằng chứng]]. Thiếu nghiệm thu / danh sách đối tượng → dừng.
 
-Hỗ trợ dân (NCC, bảo trợ…): làm đúng TTHC, không chi “nội bộ cho nhanh” — [[KLG/concepts/main/da-nang/index|TTHC xã / tỉnh]].
+Hỗ trợ dân (NCC, bảo trợ…): làm đúng TTHC, không chi “nội bộ cho nhanh” — xem thẩm quyền trên [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]] (catalog TTHC không nằm trong gói).
 
 ## Liên kết
 

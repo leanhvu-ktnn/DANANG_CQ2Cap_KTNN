@@ -20,7 +20,7 @@ apDungDiaBan: Da_Nang
 | Chuyên môn (địa chính, LĐTBXH…) | Thuyết minh *việc* đúng chế độ | Tự ứng tiền ngoài hạn mức |
 | Kho bạc / Sở Tài chính | Kiểm soát chi theo quy định | Thay đơn vị lập hồ sơ gốc |
 
-Cây đơn vị TP: [[INF/COQUAN_DONVI/Tinh/Da_Nang/index|Da_Nang]]. Xã: `Tinh.Da_Nang.Xa_*` dưới [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/index|UBND]].
+Cây đơn vị TP: [[TIMHIEU/co-quan/index#Đà Nẵng|Đà Nẵng]]. Xã: `Tinh.Da_Nang.Xa_*` dưới [[TIMHIEU/co-quan/index#UBND|UBND]].
 
 ## Khi KTNN hỏi
 

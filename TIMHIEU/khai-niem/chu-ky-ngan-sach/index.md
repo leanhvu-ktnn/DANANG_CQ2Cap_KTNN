@@ -21,7 +21,7 @@ Niên độ: chi năm nào thì chứng từ và hạn mức năm đó — trừ
 
 ## Áp dụng Đà Nẵng 2 cấp
 
-Không còn “huyện duyệt rồi xã làm”. Xã là đơn vị NS trực thuộc TP; việc vượt thẩm quyền xã đi [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/So_Tai_Chinh/index|Sở Tài chính]] / UBND TP. Chi tiết: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]].
+Không còn “huyện duyệt rồi xã làm”. Xã là đơn vị NS trực thuộc TP; việc vượt thẩm quyền xã đi [[TIMHIEU/co-quan/index#Sở Tài chính|Sở Tài chính]] / [[TIMHIEU/co-quan/index#UBND|UBND TP]]. Chi tiết: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]].
 
 ## Liên kết
 

@@ -9,7 +9,7 @@ apDungDiaBan: Da_Nang
 
 # Chính quyền 2 cấp tại Đà Nẵng
 
-Từ 01/07/2025 không còn cấp huyện. Xã/phường/đặc khu trực thuộc TP. Knowledge: [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]] · sáp nhập: [[KLG/concepts/khai-niem/sap-nhap-quang-nam-da-nang/index|QN→ĐN]] · wiki bộ máy: [[KLG/concepts/wiki/he-thong-co-quan-da-nang/index|cơ quan Đà Nẵng]].
+Từ 01/07/2025 không còn cấp huyện. Xã/phường/đặc khu trực thuộc TP. Sáp nhập QN→ĐN: tài sản / công nợ đơn vị cũ phải có biên bản bàn giao. Bộ máy: [[TIMHIEU/co-quan/index|cơ quan]].
 
 ## Hậu quả với NSNN (công chức)
 
@@ -19,11 +19,11 @@ Từ 01/07/2025 không còn cấp huyện. Xã/phường/đặc khu trực thu�
 | Việc “cấp huyện” | Một phần về xã, một phần về Sở / UBND TP | Đối chiếu TTHC + phân cấp năm nay |
 | Địa bàn Quảng Nam | Cùng TP Đà Nẵng | VB QN còn hiệu lực đến khi thay — `địa bàn` |
 
-94 xã: `Tinh.Da_Nang.Xa_*` dưới [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/index|UBND]]. Đầu mối tài chính TP: [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/So_Tai_Chinh/index|Sở Tài chính]]. HĐND quyết NS: [[INF/COQUAN_DONVI/Tinh/Da_Nang/HDND/index|HĐND]].
+94 xã: `Tinh.Da_Nang.Xa_*` dưới [[TIMHIEU/co-quan/index#UBND|UBND]]. Đầu mối tài chính TP: [[TIMHIEU/co-quan/index#Sở Tài chính|Sở Tài chính]]. HĐND quyết NS: [[TIMHIEU/co-quan/index#HĐND|HĐND]].
 
 ## Ưu tiên khi không chắc thẩm quyền
 
-1. Việc dân / TTHC: [[KLG/concepts/main/da-nang/index|da-nang]] — xem `capThucHien` Xã hay Tỉnh.
+1. Việc dân / TTHC: xem việc thuộc xã hay TP (catalog TTHC không nằm trong gói).
 2. Việc chi / dự toán: hỏi Sở trước khi xã tự quyết việc từng là của huyện.
 3. Không dùng con dấu / mẫu biểu huyện. Tài sản, công nợ đơn vị giải thể: biên bản bàn giao.
 
@@ -32,4 +32,4 @@ Rủi ro: [[TIMHIEU/tiep-can-ktnn/rui-ro-thuong-gap/index|rủi ro thường g�
 ## Liên kết
 
 - Hub: [[TIMHIEU/hang-ngay/index|hang-ngay]]
-- Cây TP: [[INF/COQUAN_DONVI/Tinh/Da_Nang/index|Da_Nang]]
+- Cây TP: [[TIMHIEU/co-quan/index#Đà Nẵng|Đà Nẵng]]

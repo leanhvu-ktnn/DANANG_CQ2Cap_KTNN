@@ -11,7 +11,7 @@ apDungDiaBan: Da_Nang
 
 Hệ thống **Obsidian** cho công chức TP Đà Nẵng (chính quyền 2 cấp): hiểu văn bản / quy định **ngân sách nhà nước**, rồi áp dụng **cách nghĩ của Kiểm toán Nhà nước** vào việc hàng ngày — lập dự toán, chi, thanh toán, quản lý tài sản, tiếp đoàn kiểm toán.
 
-Gói: Wisdom (đây) + [[GIAOTRINH/index|GIAOTRINH]] + [[TAILIEU/index|TAILIEU]] + [[Vanbanquydinh/index|Vanbanquydinh]] + [[TIMHIEU/index|TIMHIEU]]. Knowledge (`[[KLG/…]]`) ở **vault cha**, không copy vào gói. Trang này = *khi nào hỏi gì*.
+Gói: Wisdom (đây) + [[GIAOTRINH/index|GIAOTRINH]] + [[TAILIEU/index|TAILIEU]] + [[Vanbanquydinh/index|Vanbanquydinh]] + [[TIMHIEU/index|TIMHIEU]]. Wikilink chỉ trong gói — [[quy-uoc-link]]. Trang này = *khi nào hỏi gì*.
 
 ## Cách dùng
 
@@ -33,7 +33,7 @@ Bắt đầu việc: [[TIMHIEU/tiep-can-ktnn/bon-cau-hoi/index|bốn câu hỏi]
 
 1. Trang Wisdom = thứ tự *hỏi*. Pháp lý khóa học = [[Vanbanquydinh/index|Vanbanquydinh]] (toàn văn + điều dẫn chiếu).
 2. Graph nối khái niệm → việc hàng ngày.
-3. TTHC dân sự: [[KLG/concepts/main/da-nang/index|da-nang]].
+3. Việc dân / TTHC: xem thẩm quyền xã hay TP trên [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]] (catalog TTHC không nằm trong gói).
 
 ## Đọc thế nào (thứ tự khóa)
 
@@ -48,9 +48,9 @@ Nghiên cứu seed (**Go**): [[TIMHIEU/nghien-cuu/index|nghien-cuu]].
 
 ## Ba vai trò (không trộn)
 
-- **Wisdom (đây)** — phán đoán / thứ tự hỏi. Không copy điều luật.
-- **Knowledge** — [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]] · [[KLG/concepts/main/da-nang/index|TTHC Đà Nẵng]]
-- **Văn bản khóa học** — metadata + toàn văn + điều dẫn chiếu: [[Vanbanquydinh/index|Vanbanquydinh]]
+- **Wisdom (đây)** — phán đoán / thứ tự hỏi. Không copy điều luật. 2 cấp: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]].
+- **Cơ quan** — [[TIMHIEU/co-quan/index|co-quan]] (KTNN, HĐND, UBND, Sở Tài chính).
+- **Văn bản khóa học** — metadata + toàn văn + điều dẫn chiếu: [[Vanbanquydinh/index|Vanbanquydinh]].
 
 ## Đóng gói
 
@@ -60,14 +60,13 @@ Gói **không** mang lớp `INF/` hay `RAW/` (corpus vault cha). Văn bản dẫ
 
 ### Wikilink
 
-Path từ **gốc gói** (file này). Không `WISDOM/…`.
+SSOT: [[quy-uoc-link]]. Path từ **gốc gói**. Không đuôi `.md`. Không `WISDOM/…`. Không `[[INF/]]` / `[[RAW/]]` / `[[KLG/]]`.
 
 - Wisdom: [[index]] · tìm hiểu: [[TIMHIEU/index|TIMHIEU]] ([[TIMHIEU/khai-niem/index|khai-niem]] · [[TIMHIEU/tiep-can-ktnn/index|tiep-can]] · [[TIMHIEU/hang-ngay/index|hang-ngay]] · [[TIMHIEU/nghien-cuu/index|nghien-cuu]])
-- Giáo trình (hai trục): [[GIAOTRINH/index|GIAOTRINH]] — không copy `KLG/` vào gói
+- Giáo trình (hai trục): [[GIAOTRINH/index|GIAOTRINH]]
 - Tài liệu: [[TAILIEU/index|TAILIEU]] (`.md` + file gốc)
 - Văn bản dẫn chiếu: [[Vanbanquydinh/index|Vanbanquydinh]] (bản đồ căn cứ + metadata + toàn văn + `DieudiemDanchieu`)
-
-Khi gói còn nằm trong vault VBPL, `[[KLG/…]]` / `[[INF/…]]` / `[[RAW/…]]` trỏ **corpus cha**. Mở gói độc lập thì các link đó không còn (gói không copy tầng Knowledge).
+- Cơ quan: [[TIMHIEU/co-quan/index|co-quan]] · số hiệu chưa copy: [[Vanbanquydinh/_chua-co/index|_chua-co]]
 
 ### Copy
 
@@ -86,6 +85,7 @@ Máy đọc: clone/pull repo private, *Open folder as vault* đúng thư mục c
 
 ## Liên kết
 
+- Quy ước: [[quy-uoc-link]]
 - Tìm hiểu: [[TIMHIEU/index|TIMHIEU]]
-- 2 cấp · sáp nhập: [[KLG/concepts/khai-niem/chinh-quyen-2-cap/index|2 cấp]] · [[KLG/concepts/khai-niem/sap-nhap-quang-nam-da-nang/index|QN→ĐN]]
-- Cơ quan: [[INF/COQUAN_DONVI/TW/Chinh_phu/Kiem_Toan_Nha_Nuoc/index|KTNN]] · [[INF/COQUAN_DONVI/Tinh/Da_Nang/UBND/So_Tai_Chinh/index|Sở Tài chính]] · [[INF/COQUAN_DONVI/Tinh/Da_Nang/index|Đà Nẵng]]
+- 2 cấp · sáp nhập: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|2 cấp Đà Nẵng]]
+- Cơ quan: [[TIMHIEU/co-quan/index#KTNN|KTNN]] · [[TIMHIEU/co-quan/index#Sở Tài chính|Sở Tài chính]] · [[TIMHIEU/co-quan/index#Đà Nẵng|Đà Nẵng]]
