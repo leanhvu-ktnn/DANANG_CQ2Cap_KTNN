@@ -30,7 +30,7 @@ Hai file dưới đây là **cặp bắt buộc** trên mọi hub gói. Phụ l�
 - [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026|Cẩm nang quản lý ngân sách xã]] — trình tự buổi, phân cấp–chi–quyết toán xã.
 - [[TAILIEU/Tài liệu in cho học viên|Tài liệu in cho học viên]] — góc KTNN, 05 chuyên đề, sổ tay tự kiểm.
 
-Lối vào khóa (hai trục, không gộp): [[GIAOTRINH/index|Giáo trình — hai trục]] — [[GIAOTRINH/cam-nang/index|Cẩm nang — 4 buổi]] · [[GIAOTRINH/hoc-vien/index|Học viên — 05 chuyên đề]] (bước 0: [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý biên soạn]]).
+Lối vào khóa (hai trục, không gộp): [[GIAOTRINH/00-index|Giáo trình — hai trục]] — [[GIAOTRINH/cam-nang/00-index|Cẩm nang — 4 buổi]] · [[GIAOTRINH/hoc-vien/00-index|Học viên — 05 chuyên đề]] (bước 0: [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý biên soạn]]).
 
 ### Phụ lục và lớp nghiên cứu (đọc sau)
 
@@ -58,5 +58,5 @@ File gốc vẫn trong thư mục này; không xóa khi cập nhật `.md`.
 ## Liên kết
 
 - Hub gói: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa theo việc; không cuộn hết file gốc.
-- Giáo trình: [[GIAOTRINH/index|Giáo trình — hai trục]] — nhảy đúng buổi / CĐ thay vì tìm heading trong 5.600 dòng.
+- Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — nhảy đúng buổi / CĐ thay vì tìm heading trong 5.600 dòng.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — thứ tự hỏi trước khi mở file gốc.

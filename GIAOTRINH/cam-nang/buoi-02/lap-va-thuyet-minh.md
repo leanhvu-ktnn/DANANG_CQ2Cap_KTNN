@@ -14,7 +14,7 @@ buoi: 2
 
 ## Tinh thần
 
-Lập đúng trách nhiệm từng cấp rồi thảo luận, quyết định. Số không có người chịu trách nhiệm = tờ trình chưa đủ. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Lập đúng trách nhiệm từng cấp rồi thảo luận, quyết định. Số không có người chịu trách nhiệm = tờ trình chưa đủ. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -74,4 +74,4 @@ Còn bất đồng → UBND cùng cấp quyết.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 3–4. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/index|Buổi 2]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 3–4. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2]].

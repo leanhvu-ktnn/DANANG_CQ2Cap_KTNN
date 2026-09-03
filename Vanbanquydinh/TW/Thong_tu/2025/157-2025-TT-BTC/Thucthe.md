@@ -18,6 +18,12 @@ Tài khoản KBNN. TBox: [[TAILIEU/ontology|ontology]]. Cùng thư mục: [[Vanb
 - definedIn: [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-04|TT 157/2025 Điều 4]] k2.a
 - mentionedIn: TT 157 Điều 9 k1
 
+### E:TaiKhoanTienGuiKBNN
+- rdf:type: KhaiNiemChuyenMon
+- rdfs:label: Tài khoản tiền gửi tại KBNN
+- skos:definition: "Tài khoản số dư Có tại KBNN, khác tài khoản dự toán (theo dõi DT) và tài khoản có tính chất tiền gửi (tạm thu, tạm giữ). Không nhận tiền tự nguyện / thôn vào TK dự toán."
+- definedIn: [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-04|TT 157/2025 Điều 4]]; [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/DieudiemDanchieu/Dieu-09|Điều 9]]
+
 ## Liên kết
 
 - [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/quytrinh|quytrinh]]

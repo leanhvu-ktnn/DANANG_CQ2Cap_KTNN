@@ -14,7 +14,7 @@ buoi: 2
 
 ## Tinh thần
 
-Điều chỉnh chỉ khi luật cho phép — không «chi trước hợp thức hóa sau». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Điều chỉnh chỉ khi luật cho phép — không «chi trước hợp thức hóa sau». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -87,4 +87,4 @@ Việc thuộc NS tỉnh: xã báo STC, không tự lấy nguồn xã.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 7–8. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/index|Buổi 2]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 7–8. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2]].

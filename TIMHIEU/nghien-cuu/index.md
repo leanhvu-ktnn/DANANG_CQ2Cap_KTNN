@@ -52,7 +52,7 @@ DANANG_CQ2cap_Kiemtoan/     ← gốc vault khi copy
   TIMHIEU/                  khai-niem · tiep-can-ktnn · hang-ngay · nghien-cuu
 ```
 
-Ontology (lớp nghiên cứu, không nhét vào lối đọc giáo trình): [[TAILIEU/ontology|Ontology TBox]]. Thực thể / quan hệ / quy trình nằm **trong từng thư mục** [[Vanbanquydinh/index|Văn bản quy định dẫn chiếu]] — ví dụ [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thực thể Luật 89 (ontology)]].
+Ontology (lớp nghiên cứu, không nhét vào lối đọc giáo trình): [[TAILIEU/ontology|Ontology TBox]]. Thực thể / quan hệ / quy trình nằm **trong từng thư mục** [[Vanbanquydinh/index|Văn bản quy định dẫn chiếu]] — ví dụ [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thực thể Luật 89 (ontology)]]. So với 4 buổi cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]] (người dùng đủ; ABox trục 4 buổi đã điền).
 
 ## Vận dụng
 
@@ -73,8 +73,9 @@ Quyết định phạm vi: bảng Go. Catalog số hiệu: [[TAILIEU/danh-muc-va
 
 ## Liên kết
 
-- Hub: [[index|Hub gói — lối vào nhu cầu]] — lối vào học viên (không phải trang biên soạn).
+- Hub: [[hub-goi|Hub gói — lối vào nhu cầu]] — lối vào học viên (không phải trang biên soạn).
+- Ontology vs cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]] — đủ cho người dùng; TBox + ABox trục 4 buổi đã điền.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — chuỗi áp dụng sau khi Go.
-- Giáo trình: [[GIAOTRINH/index|Giáo trình — hai trục]] — cửa buổi / CĐ từ nguồn seed TAILIEU.
+- Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — cửa buổi / CĐ từ nguồn seed TAILIEU.
 - 2 cấp: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]] — thẩm quyền xã / TP.
 - Cơ quan: [[TIMHIEU/co-quan/index|Cơ quan (KTNN · HĐND · UBND · Sở Tài chính)]] — heading trong gói, không `[[INF/]]`.

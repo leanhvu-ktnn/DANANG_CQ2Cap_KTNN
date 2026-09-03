@@ -62,7 +62,7 @@ Tình huống. Mỗi trang = thứ tự làm, không phải giáo trình. Hub: [
 
 ### 4. Vì sao gói này — nghiên cứu (lớp seed)
 
-Kết luận **Go** — vì sao gói này, không copy toàn văn luật, không đổ bài KTNN hàng loạt. [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]].
+Kết luận **Go** — vì sao gói này, không copy toàn văn luật, không đổ bài KTNN hàng loạt. [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]]. So với 4 buổi cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]].
 
 Ontology (TBox, không nhét vào lối đọc giáo trình): [[TAILIEU/ontology|Ontology TBox]].
 
@@ -85,6 +85,6 @@ Ontology (TBox, không nhét vào lối đọc giáo trình): [[TAILIEU/ontology
 ## Liên kết
 
 - Hub: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa theo việc; đóng gói vault.
-- Giáo trình: [[GIAOTRINH/index|Giáo trình — hai trục]] — 4 buổi cẩm nang ↔ 05 CĐ học viên.
+- Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — 4 buổi cẩm nang ↔ 05 CĐ học viên.
 - Cơ quan: [[TIMHIEU/co-quan/index|Cơ quan (KTNN · HĐND · UBND · Sở Tài chính)]] — heading từng cơ quan, không cây INF.
 - 2 cấp / việc dân: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]] — thẩm quyền xã / TP (catalog TTHC không trong gói).

@@ -14,7 +14,7 @@ buoi: 2
 
 ## Tinh thần
 
-Không lập DT khi thiếu một trong các căn cứ luật. Số không gắn việc và chế độ = KTNN đọc là «xin thêm». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Không lập DT khi thiếu một trong các căn cứ luật. Số không gắn việc và chế độ = KTNN đọc là «xin thêm». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -71,4 +71,4 @@ Thực tế xã hay thiếu:
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 1–2. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/index|Buổi 2]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 1–2. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2]].

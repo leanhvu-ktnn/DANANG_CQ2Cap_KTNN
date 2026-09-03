@@ -13,7 +13,7 @@ buoi: 1
 
 ## Tinh thần
 
-Xác định đúng «ngân sách nhà nước» và chỗ của cấp xã trước khi bàn phân cấp. Không còn «huyện duyệt rồi xã làm». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]] — làm đúng từ đầu.
+Xác định đúng «ngân sách nhà nước» và chỗ của cấp xã trước khi bàn phân cấp. Không còn «huyện duyệt rồi xã làm». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]] — làm đúng từ đầu.
 
 ## Nội dung chương trình đem lại
 
@@ -67,4 +67,4 @@ Không «trình huyện» như trước sáp nhập.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 1. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/index|Buổi 1]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 1. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1]].

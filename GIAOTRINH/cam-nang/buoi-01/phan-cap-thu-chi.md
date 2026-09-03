@@ -14,7 +14,7 @@ buoi: 1
 
 ## Tinh thần
 
-Cẩm nang dựng khung luật rồi mới đến nghị quyết thành phố. Không dán bảng tỷ lệ — mở Điều trên Vanbanquydinh. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Cẩm nang dựng khung luật rồi mới đến nghị quyết thành phố. Không dán bảng tỷ lệ — mở Điều trên Vanbanquydinh. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 

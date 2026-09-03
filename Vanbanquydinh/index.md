@@ -175,13 +175,13 @@ Không còn mục chờ nạp.
 
 ## Ontology (thực thể / quan hệ / quy trình)
 
-TBox: [[TAILIEU/ontology|Ontology TBox]]. ABox **trong từng thư mục số hiệu** (cùng chỗ với `toan-van.md`): `Thucthe.md` · `Quanhe.md` · `quytrinh.md`. Wikilink full path — ví dụ [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thực thể Luật 89 (ontology)]].
+TBox: [[TAILIEU/ontology|Ontology TBox]]. ABox **trong từng thư mục số hiệu** (cùng chỗ với `toan-van.md`): `Thucthe.md` · `Quanhe.md` · `quytrinh.md`. Wikilink full path — ví dụ [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thực thể Luật 89 (ontology)]]. So với 4 buổi cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]] (wiki đủ cho người dùng; ABox trục 4 buổi đã điền).
 
 ## Liên kết
 
 - Hub: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa việc trước khi mở catalog.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — chuỗi hỏi trước khi trích Điều.
 - Khái niệm: [[TIMHIEU/khai-niem/index|Khái niệm căn bản]] — gắn số hiệu với việc (thu, chi, TSC…).
-- Nghiên cứu: [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]] — vì sao copy 64+4, không đổ catalog KTNN.
-- Giáo trình: [[GIAOTRINH/index|Giáo trình — hai trục]] — buổi / CĐ đã dẫn số hiệu.
+- Nghiên cứu: [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]] — vì sao copy 64+4, không đổ catalog KTNN. Ontology vs cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]].
+- Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — buổi / CĐ đã dẫn số hiệu.
 - Tài liệu: [[TAILIEU/index|Tài liệu tập huấn]] — file gốc cẩm nang + học viên.

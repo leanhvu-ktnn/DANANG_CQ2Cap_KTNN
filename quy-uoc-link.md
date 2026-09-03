@@ -8,9 +8,9 @@ tags: [Obsidian, wikilink, WISDOM, Da_Nang]
 
 # Quy ước wikilink Obsidian
 
-Áp dụng cho mọi note Wisdom/hub trong gói này: [[hub-goi|Hub gói]], [[TIMHIEU/index|TIMHIEU]], [[GIAOTRINH/index|GIAOTRINH]], [[TAILIEU/index|TAILIEU]], [[Vanbanquydinh/index|Vanbanquydinh]].
+Áp dụng cho mọi note Wisdom/hub trong gói này: [[hub-goi|Hub gói]], [[TIMHIEU/index|TIMHIEU]], [[GIAOTRINH/00-index|GIAOTRINH]], [[TAILIEU/index|TAILIEU]], [[Vanbanquydinh/index|Vanbanquydinh]].
 
-**Không** `[[index]]` trần — hàng trăm file tên `index.md`; từ một `index.md` con, Obsidian hay nhảy về chính trang đang mở. Hub gốc có alias `hub-goi`.
+**Không** `[[index]]` / `[[00-index]]` trần — nhiều folder note trùng tên; từ một trang con, Obsidian hay nhảy về chính trang đang mở. Hub gốc có alias `hub-goi`.
 
 **Vault root** = thư mục gói (file này). Máy đọc *Open folder as vault* đúng thư mục clone — không phải root repo VBPL.
 
@@ -26,8 +26,9 @@ tags: [Obsidian, wikilink, WISDOM, Da_Nang]
 - **Không** ghi đuôi `.md` trong wikilink.
 - **Không** dùng `../`.
 - **Không** prefix `WISDOM/DANANG_CQ2cap_Kiemtoan/`.
-- **Không** thư mục chỉ có 1 file `.md` — gộp thành `tên.md` (không `tên/index.md`). Đã áp dụng `GIAOTRINH/cam-nang/`.
-- Trong `GIAOTRINH/cam-nang`: mọi số hiệu / Điều đã có trong `Vanbanquydinh/` phải wikilink **ngay chỗ nhắc** (kể cả «Nắm để làm» / «Kỹ năng»), không để plain text. Không có Dieudiem → `.../index`. CV chưa catalog giữ chữ.
+- **Không** thư mục chỉ có 1 file `.md` — gộp thành `tên.md` (không `tên/index.md` / `tên/00-index.md`). Đã áp dụng `GIAOTRINH/cam-nang/` và `GIAOTRINH/hoc-vien/`.
+- Trong `GIAOTRINH/cam-nang` và `GIAOTRINH/hoc-vien`: mọi số hiệu / Điều đã có trong `Vanbanquydinh/` phải wikilink **ngay chỗ nhắc** (kể cả «Nắm để làm» / «Kỹ năng»), không để plain text. Không có Dieudiem → `.../index`. CV chưa catalog giữ chữ.
+- Trong `GIAOTRINH`, folder note là `00-index` (sắp xếp trước `00-triet-ly`, `01-…`, `buoi-01`, `cam-nang`); `Vanbanquydinh` / `TIMHIEU` / `TAILIEU` giữ `index`.
 
 ## Prefix được phép
 

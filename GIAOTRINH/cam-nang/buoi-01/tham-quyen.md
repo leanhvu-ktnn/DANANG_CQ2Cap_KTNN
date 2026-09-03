@@ -14,7 +14,7 @@ buoi: 1
 
 ## Tinh thần
 
-Phân định ai quyết định, ai tổ chức, ai tham mưu. Chủ tịch không «chịu mọi khoản chi». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]] — làm đúng thẩm quyền.
+Phân định ai quyết định, ai tổ chức, ai tham mưu. Chủ tịch không «chịu mọi khoản chi». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]] — làm đúng thẩm quyền.
 
 ## Nội dung chương trình đem lại
 
@@ -82,4 +82,4 @@ KBNN kiểm soát hồ sơ khi thanh toán.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 3. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/index|Buổi 1]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 3. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1]].

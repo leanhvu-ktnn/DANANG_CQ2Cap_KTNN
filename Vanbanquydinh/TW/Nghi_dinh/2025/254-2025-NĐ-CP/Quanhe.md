@@ -23,6 +23,12 @@ Thanh toán vốn ĐTC. TBox: [[TAILIEU/ontology|ontology]]. Cùng thư mục: [
 - source: NĐ 254 Điều 4 k1; [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-09|Điều 9]]; [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-10|Điều 10]]
 - diễn giải: Vốn ĐTC không chi tiền mặt ngoài KBNN.
 
+### R:HoSoThanhToanVonDT-mustSatisfy-Dieu8
+- triple: E:ChuDauTu --mustSatisfy--> E:VonDauTuCong
+- constraint: Hồ sơ pháp lý gửi lần đầu (KH ĐTC năm, QĐ/VB giao nhiệm vụ hoặc QĐ phê duyệt DA, bảng thông tin HĐ / DT / BT-TĐC). Mỗi lần tạm ứng / thanh toán: giấy đề nghị + chứng từ theo khoản 2–3. Không lấy mẫu chi TX NĐ 347 thay bộ này.
+- source: [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/DieudiemDanchieu/Dieu-08|NĐ 254 Điều 8]]
+- diễn giải: Thiếu thành phần Điều 8 = KBNN không giải ngân. Mở Điều, không nhớ miệng mẫu.
+
 ## Liên kết
 
 - [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/quytrinh|quytrinh]]

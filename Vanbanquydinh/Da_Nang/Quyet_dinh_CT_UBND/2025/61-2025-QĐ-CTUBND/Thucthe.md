@@ -36,8 +36,6 @@ Phân cấp TSC Đà Nẵng. TBox: [[TAILIEU/ontology|ontology]]. Cùng thư m�
 - skos:definition: "Thẩm quyền quyết định điều chuyển TSC (kể cả sang cơ quan Đảng; giữa các cơ quan cùng/khác cấp quản lý)."
 - definedIn: Luật 15 Điều 42; [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-10|QĐ 61 Điều 10]]
 
-### C3. Đấu thầu / đầu tư công / xây dựng
-
 ## Liên kết
 
 - [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/Thucthe|Thucthe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/Quanhe|Quanhe]] · [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/quytrinh|quytrinh]]

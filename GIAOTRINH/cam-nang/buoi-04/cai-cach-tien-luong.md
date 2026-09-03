@@ -14,7 +14,7 @@ buoi: 4
 
 ## Tinh thần
 
-Cẩm nang: nguồn CCTL là nhiệm vụ đột phá tài chính — không phải dự phòng tự do. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]]. Không lấy tình huống CĐ 5.
+Cẩm nang: nguồn CCTL là nhiệm vụ đột phá tài chính — không phải dự phòng tự do. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]]. Không lấy tình huống CĐ 5.
 
 ## Nội dung chương trình đem lại
 
@@ -80,6 +80,6 @@ Phương án tăng thu trước 28/02: ưu tiên bổ sung quỹ CCTL ([[Vanbanq
 
 [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 6.
 
-Trục kia (tình huống, không gộp): [[GIAOTRINH/hoc-vien/chuyen-de-05/index|CĐ 5 — CCTL, quỹ lương]].
+Trục kia (tình huống, không gộp): [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05|CĐ 5 — CCTL, quỹ lương]].
 
-Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/index|Buổi 4]].
+Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]].

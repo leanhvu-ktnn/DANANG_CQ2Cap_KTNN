@@ -14,7 +14,7 @@ buoi: 3
 
 ## Tinh thần
 
-Cửa riêng — không gộp vào mục lục/mã. Làm đúng TTHC mới được thanh toán. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Cửa riêng — không gộp vào mục lục/mã. Làm đúng TTHC mới được thanh toán. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -76,4 +76,4 @@ Tạm ứng chưa đủ thủ tục hết chỉnh lý → xử lý [[Vanbanquydi
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 8. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 8. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3]].

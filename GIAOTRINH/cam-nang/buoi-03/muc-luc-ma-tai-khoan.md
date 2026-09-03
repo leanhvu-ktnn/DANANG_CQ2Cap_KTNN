@@ -14,7 +14,7 @@ buoi: 3
 
 ## Tinh thần
 
-Sai mã / mục lục = sai cả chuỗi báo cáo. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Sai mã / mục lục = sai cả chuỗi báo cáo. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -99,4 +99,4 @@ Chuyển nguồn chỉ sau khi đối chiếu khớp.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 5–7. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 5–7. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3]].

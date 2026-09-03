@@ -14,7 +14,7 @@ buoi: 3
 
 ## Tinh thần
 
-Thẩm quyền TSC cấp xã = phụ lục [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]], không suy từ giá trị. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Thẩm quyền TSC cấp xã = phụ lục [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]], không suy từ giá trị. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -102,4 +102,4 @@ Không đoán «dưới X triệu là xã».
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 9–14. [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]] mục [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]]. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 9–14. [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]] mục [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]]. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3]].

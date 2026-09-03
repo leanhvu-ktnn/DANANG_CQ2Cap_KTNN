@@ -32,10 +32,10 @@ KTNN đi từ **rủi ro** → **bằng chứng** → **kết luận theo luật
 
 | Câu hỏi | Gắn buổi cẩm nang | Gắn CĐ học viên |
 |---------|-------------------|-----------------|
-| Việc gì? | [[GIAOTRINH/cam-nang/buoi-01/index|Buổi 1 — phân cấp, thẩm quyền]] — phạm vi thu–chi | [[GIAOTRINH/hoc-vien/chuyen-de-01/index|CĐ 1 — thể chế, phân cấp]] |
+| Việc gì? | [[GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1 — phân cấp, thẩm quyền]] — phạm vi thu–chi | [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01|CĐ 1 — thể chế, phân cấp]] |
 | Ai được quyết? | Buổi 1 — thẩm quyền | CĐ 1 · sổ tay ma trận thẩm quyền |
 | Căn cứ nào? | Đúng buổi theo việc (2 lập DT · 3 chi · 4 quyết toán) | CĐ 2–5 tương ứng |
-| Bằng chứng nào? | [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3 — điều hành, TSC, thanh toán]] — hồ sơ thanh toán | Sổ tay + [[GIAOTRINH/hoc-vien/ban-do-kiem-toan/index|Bản đồ kiểm toán — 7 giai đoạn]] |
+| Bằng chứng nào? | [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3 — điều hành, TSC, thanh toán]] — hồ sơ thanh toán | Sổ tay + [[GIAOTRINH/hoc-vien/03-ban-do-kiem-toan|Bản đồ kiểm toán — 7 giai đoạn]] |
 
 Câu 1–2 sai → *trái thẩm quyền / ngoài dự toán*. Câu 3 sai → *không đúng quy định*. Câu 4 yếu → *không đủ cơ sở*, dù việc “có thật”.
 
@@ -60,4 +60,4 @@ Luật KTNN [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13 — Lu�
 - Hub: [[index|Hub gói — lối vào nhu cầu]] — lối vào theo nhu cầu.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — chuỗi nắm → nghĩ → làm.
 - Việc: [[TIMHIEU/hang-ngay/index|Việc hàng ngày]] — áp dụng bốn câu hỏi vào chi / DT / quyết toán / tiếp đoàn.
-- Giáo trình: [[GIAOTRINH/hoc-vien/index|Học viên — 05 chuyên đề]] — góc KTNN, sổ tay tự kiểm (không gộp buổi cẩm nang).
+- Giáo trình: [[GIAOTRINH/hoc-vien/00-index|Học viên — 05 chuyên đề]] — góc KTNN, sổ tay tự kiểm (không gộp buổi cẩm nang).

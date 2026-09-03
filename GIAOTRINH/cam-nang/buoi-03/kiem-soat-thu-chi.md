@@ -14,7 +14,7 @@ buoi: 3
 
 ## Tinh thần
 
-Chấp hành DT theo điều kiện thu–chi; không giữ thu để chi trái quy định. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Chấp hành DT theo điều kiện thu–chi; không giữ thu để chi trái quy định. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -114,4 +114,4 @@ Báo cáo:
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 1–4. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 1–4. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3]].

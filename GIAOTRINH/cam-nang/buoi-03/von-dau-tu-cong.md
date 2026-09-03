@@ -14,7 +14,7 @@ buoi: 3
 
 ## Tinh thần
 
-Thanh toán khối lượng = bốn lớp căn cứ, không «gấp nên ký». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Thanh toán khối lượng = bốn lớp căn cứ, không «gấp nên ký». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -86,4 +86,4 @@ Vẫn phải đủ 4 lớp căn cứ trước khi TT.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 15. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/index|Buổi 3]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 3|Cẩm nang BUỔI 3]] mục 15. Hub buổi: [[GIAOTRINH/cam-nang/buoi-03/00-index|Buổi 3]].

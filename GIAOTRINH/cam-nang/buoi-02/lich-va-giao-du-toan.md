@@ -13,7 +13,7 @@ buoi: 2
 
 ## Tinh thần
 
-Đúng hạn mới «làm đúng». Trễ hạn = chuỗi tỉnh–xã–đơn vị đứt, dù số đúng. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Đúng hạn mới «làm đúng». Trễ hạn = chuỗi tỉnh–xã–đơn vị đứt, dù số đúng. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -78,4 +78,4 @@ Giao bổ sung: hoàn thành phân bổ trong **10 ngày làm việc**, báo HĐ
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 5–6. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/index|Buổi 2]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 2|Cẩm nang BUỔI 2]] mục 5–6. Hub buổi: [[GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2]].

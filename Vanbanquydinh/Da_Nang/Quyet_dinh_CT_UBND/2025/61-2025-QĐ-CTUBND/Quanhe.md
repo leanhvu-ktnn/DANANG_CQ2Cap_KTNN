@@ -23,6 +23,18 @@ Phân cấp TSC Đà Nẵng. TBox: [[TAILIEU/ontology|ontology]]. Cùng thư m�
 - source: [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-07|QĐ 61 Điều 7]]
 - diễn giải: Phân cấp khai thác TSC cấp xã tại Đà Nẵng.
 
+### R:NhaDat-khac-MayMoc-phanCapTSC
+- triple: E:ChuTichUBNDThanhPhoDaNang --hasAuthority--> E:TruSoLamViec
+- constraint: Trụ sở / cơ sở SN / xe ô tô (Điều 4 k1) ≠ TSC khác (máy móc, trang thiết bị — Điều 4 k2). Trụ sở: Chủ tịch TP giao hiện vật, không phân biệt cấp. Xe: Chủ tịch từng cấp. TSC khác: Sở TC / CQCM TP / Chủ tịch xã theo phạm vi quản lý. Không lấy thẩm quyền nhà đất áp cho máy móc.
+- source: [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-04|QĐ 61 Điều 4]] k1–k2; [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-03|Điều 3]]
+- diễn giải: Buổi 3 — nhà đất ≠ máy móc. Mở đúng khoản trước khi trình ký.
+
+### R:GiaoTSCKhac-hasAuthority-CQCM-ChuTichXa
+- triple: E:ChuTichUBNDXa --hasAuthority--> E:TaiSanCong
+- constraint: TSC không phải trụ sở / cơ sở SN / xe: Chủ tịch xã giao cho cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý. Sở TC giao cho CQCM TP, SNCL trực thuộc UBND TP và UBND xã.
+- source: [[Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-04|QĐ 61 Điều 4]] k2
+- diễn giải: Máy móc, trang thiết bị cấp xã — cửa Chủ tịch xã, không chờ Chủ tịch TP.
+
 ### R:SoTaiChinh-thamMuu-UBNDTinh
 - triple: E:SoTaiChinh --hasDuty--> E:NganSachNhaNuoc
 - constraint: Tham mưu QLNN về NSNN, ĐTC, đấu thầu, TSC cho UBND cấp tỉnh.

@@ -14,7 +14,7 @@ buoi: 4
 
 ## Tinh thần
 
-Khóa sổ khi đã rõ nguyên nhân chênh lệch — không «khóa để kịp hạn». [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Khóa sổ khi đã rõ nguyên nhân chênh lệch — không «khóa để kịp hạn». [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -88,4 +88,4 @@ Hết chỉnh lý còn dư mà không được chuyển nguồn → nộp trả.
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 1–3. Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/index|Buổi 4]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 1–3. Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]].

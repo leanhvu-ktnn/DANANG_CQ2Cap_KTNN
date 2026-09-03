@@ -14,7 +14,7 @@ buoi: 1
 
 ## Tinh thần
 
-Công khai là nghĩa vụ giải trình với HĐND và Nhân dân — không phải bước trang trí. Khoản thôn / ủy thác không trộn vào quỹ NS xã. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]].
+Công khai là nghĩa vụ giải trình với HĐND và Nhân dân — không phải bước trang trí. Khoản thôn / ủy thác không trộn vào quỹ NS xã. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
 
@@ -74,4 +74,4 @@ Không ghi vào thu–chi NS rồi «quên tách».
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 4–5. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/index|Buổi 1]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 1|Cẩm nang BUỔI 1]] mục 4–5. Hub buổi: [[GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1]].

@@ -93,6 +93,12 @@ Luật NSNN. TBox: [[TAILIEU/ontology|ontology]]. Cùng thư mục: [[Vanbanquyd
 
 ## 3. Lập, giao, điều chỉnh dự toán
 
+### R:DuToan-mustSatisfy-BayCanCuDieu44
+- triple: E:DonViDuToanCapI --mustSatisfy--> E:DuToan
+- constraint: Lập DT hằng năm phải đủ bảy căn cứ — (1) nhiệm vụ KT-XH, QP-AN, đối ngoại, bình đẳng giới; (2) chức năng, nhiệm vụ cơ quan/đơn vị; (3) thuế, phí, lệ phí, khoản thu NS + định mức phân bổ, chế độ, tiêu chuẩn, định mức chi; (4) phân cấp nguồn thu–nhiệm vụ chi, tỷ lệ % phân chia, mức bổ sung cân đối cấp trên cho cấp dưới; (5) văn bản hướng dẫn xây dựng KH KT-XH và DT năm sau; (6) KH tài chính 05 năm, KH đầu tư công trung hạn nguồn NSNN; (7) tình hình thực hiện NS năm trước. Thiếu một căn cứ = DT chưa đủ cơ sở.
+- source: [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-44|Luật 89 Điều 44]] k1–k7
+- diễn giải: Không lập DT chỉ từ «số năm trước ± %». Mở Điều 44 khi kiểm hồ sơ thuyết minh.
+
 ### R:QuocHoi-quyetDinh-DuToanNSNN
 - triple: E:QuocHoi --quyetDinh--> E:DuToan
 - constraint: Trước ngày 10/11 quyết định DT NSNN và phân bổ NSTW năm sau.

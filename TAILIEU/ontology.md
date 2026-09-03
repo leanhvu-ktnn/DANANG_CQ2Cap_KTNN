@@ -16,7 +16,7 @@ Mỗi số hiệu = một thư mục; trong đó:
 - `Quanhe.md` — triple / quy tắc (`R:`)
 - `quytrinh.md` — trình tự, thời hạn (`P:`)
 
-Wikilink **full path** (64 file cùng tên — không dùng `[[Thucthe]]` trần). Hub gói: [[index|DANANG_CQ2cap_Kiemtoan]] · Nghiên cứu: [[TIMHIEU/nghien-cuu/index|nghien-cuu]] · Danh mục: [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc]].
+Wikilink **full path** (64 file cùng tên — không dùng `[[Thucthe]]` trần). Hub gói: [[hub-goi|DANANG_CQ2cap_Kiemtoan]] · Nghiên cứu: [[TIMHIEU/nghien-cuu/index|nghien-cuu]] · So với cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|ontology vs 4 buổi]] · Danh mục: [[TAILIEU/danh-muc-van-ban-dan-chieu|danh-muc]].
 
 Canonical Luật NSNN = [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|89/2025/QH15]] ([[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Thucthe|Thucthe]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/Quanhe|Quanhe]] · [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/quytrinh|quytrinh]]). [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index|89/VBHN-VPQH]] = `owl:sameAs` (bản hợp nhất cùng số Điều — file ontology là con trỏ, không nhân đôi ID).
 
@@ -68,6 +68,11 @@ flowchart TD
 | `hasDeadline` | Buoc → Literal | Thời hạn |
 | `governs` | VanBan\|Dieu → Entity\|QuyTrinh | Văn bản/Điều điều chỉnh |
 | `pheChuan` / `quyetDinh` / `giaoDuToan` | (xem Quanhe của VB) | Predicate nghiệp vụ |
+| `khongDuoc` | Entity → Entity | Cấm / ngoài thẩm quyền |
+| `kiemTra` | ToChuc → KhaiNiemChuyenMon | Kiểm hồ sơ (KBNN / TC), không duyệt chi thay |
+| `giaiNgan` | ToChuc → KhaiNiemChuyenMon | Cửa vốn ĐT qua kho |
+| `phanCapThuChi` | ToChuc → KhaiNiemChuyenMon | Phân cấp nguồn thu–nhiệm vụ chi |
+| `baoDam` | KhaiNiemChuyenMon → KhaiNiemChuyenMon | Nhiệm vụ chi thuộc cấp nào do cấp đó bảo đảm |
 
 ### Quy ước ID
 
@@ -85,11 +90,18 @@ Không dán toàn Điều. `skos:definition` = một câu.
 
 ### Bộ lọc
 
-Ghi: từ *Giải thích từ ngữ*; người/tổ chức có nhiệm vụ–quyền hạn–trách nhiệm; khái niệm là đối tượng của Điều/khoản định nghĩa hoặc quy tắc; mỗi VB ít nhất thực thể lõi.
+Ghi (nghiệp vụ, không chỉ glossary):
 
-Không ghi: danh từ tình cờ (*năm*, *pháp luật*); lặp cùng chủ ngữ trong cùng Điều; nguyên chương.
+- *Giải thích từ ngữ*; người/tổ chức có nhiệm vụ–quyền hạn–trách nhiệm–cấm.
+- Khái niệm là đối tượng của Điều/khoản định nghĩa **hoặc** quy tắc công chức phải dừng / làm / gửi trước hạn.
+- `R:` có `constraint` hành động được + `source` Dieudiem; `P:` khi có `hasDeadline` hoặc chuỗi cửa.
+- Overlay 4 buổi cẩm nang để biết *cần block nào* — căn cứ vẫn là Dieudiem / `toan-van`.
+
+Không ghi: danh từ tình cờ (*năm*, *pháp luật*); lặp cùng chủ ngữ trong cùng Điều; nguyên chương / phụ lục; bảng tỷ lệ–định mức–mã nguồn; stub «Chưa tách…»; heading nhóm trống (`### C3.`).
 
 Lớp ngoại vi (Đất đai, Xây dựng, …): *Giải thích từ ngữ* + actor/quy trình giao NSNN–TSC–chi.
+
+Extract lần sau: skill Cursor `extract-ontology-danang` (`.cursor/skills/extract-ontology-danang/` trong repo VBPL) — một số hiệu / lần, không đổ catalog.
 
 ## Mục lục 64 văn bản
 
@@ -163,5 +175,6 @@ Mỗi dòng = thư mục số hiệu (cùng chỗ với `toan-van.md` / `index.m
 ## Liên kết
 
 - Hub VB: [[Vanbanquydinh/index|Vanbanquydinh]] · TAILIEU: [[TAILIEU/index|TAILIEU]]
+- So với 4 buổi cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]] (TBox + ABox trục 4 buổi đã điền; ~50 số còn boilerplate). Extract ABox: skill `extract-ontology-danang`.
 - [[TIMHIEU/khai-niem/index|khai-niem]] (trang áp dụng, không phải catalog ontology)
 - Tìm hiểu: [[TIMHIEU/index|TIMHIEU]]

@@ -14,7 +14,7 @@ buoi: 4
 
 ## Tinh thần
 
-QT = số khớp KBNN + thuyết minh kết quả. [[GIAOTRINH/hoc-vien/triet-ly/index|Triết lý]] — giải trình.
+QT = số khớp KBNN + thuyết minh kết quả. [[GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]] — giải trình.
 
 ## Nội dung chương trình đem lại
 
@@ -89,4 +89,4 @@ Kết dư NS xã: hạch toán vào **thu năm sau** ([[Vanbanquydinh/TW/Luat/20
 
 ## Đọc đủ
 
-[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 4–5. Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/index|Buổi 4]].
+[[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 4–5. Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]].
