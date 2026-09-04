@@ -70,7 +70,7 @@ Vẫn cần KH lựa chọn thầu, vốn, dự toán gói — thiếu một tro
 Trừ gói ≤50 triệu ([[04-Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/Dieu-80|Điều 80]]): thủ trưởng tự chịu trách nhiệm, đủ hóa đơn, đúng ĐM, biên bản nghiệm thu nội bộ.
 
 Kiểm kê cuối năm; TSC cố định tính hao mòn.
-Chênh lệch sổ–hiện vật phải giải trình trước khóa sổ — nối [[01-GIAOTRINH/cam-nang/buoi-04/khoa-so-va-xu-ly-cuoi-nam|Buổi 4 khóa sổ]].
+Chênh lệch sổ–hiện vật phải giải trình trước khóa sổ — nối [[01-GIAOTRINH/cam-nang/buoi-04/01-khoa-so-va-xu-ly-cuoi-nam|Buổi 4 khóa sổ]].
 Khai thác / bán / thanh lý / tiêu hủy / mất–hủy hoại: mở đúng Điều [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]] (phụ lục).
 Không đoán «dưới X triệu là xã».
 

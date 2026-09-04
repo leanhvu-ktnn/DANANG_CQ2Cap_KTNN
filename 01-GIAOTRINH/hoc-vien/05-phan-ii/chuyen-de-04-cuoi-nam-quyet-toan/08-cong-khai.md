@@ -38,4 +38,4 @@ Lập kế hoạch công khai ngay khi có nghị quyết phê chuẩn. Không c
 
 [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index|CĐ 4]] · tiếp [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/09-goc-nhin-theo-vi-tri|mục 9]].
 [[02-TAILIEU/Tài liệu in cho học viên#CHUYÊN ĐỀ 4|Chuyên đề 4 trên TAILIEU]].
-[[01-GIAOTRINH/cam-nang/buoi-04/quyet-toan|Buổi 4 quyết toán]] — cùng chủ đề, không gộp trục.
+[[01-GIAOTRINH/cam-nang/buoi-04/02-quyet-toan|Buổi 4 quyết toán]] — cùng chủ đề, không gộp trục.

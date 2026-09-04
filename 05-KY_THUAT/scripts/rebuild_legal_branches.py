@@ -168,10 +168,10 @@ def write_branch(name: str, records: list[dict[str, object]]) -> None:
     lines.extend([
         "## Liên kết",
         "",
-        "- [[Vanbanquydinh/index|Bản đồ văn bản quy định]]",
-        "- [[Vanbanquydinh/NSNN/index|Nhánh NSNN]]",
-        "- [[Vanbanquydinh/TSC/index|Nhánh TSC]]",
-        "- [[Vanbanquydinh/Chinh_quyen_2_cap/index|Nhánh Chính quyền 2 cấp]]",
+        "- [[04-Vanbanquydinh/index|Bản đồ văn bản quy định]]",
+        "- [[04-Vanbanquydinh/NSNN/index|Nhánh NSNN]]",
+        "- [[04-Vanbanquydinh/TSC/index|Nhánh TSC]]",
+        "- [[04-Vanbanquydinh/Chinh_quyen_2_cap/index|Nhánh Chính quyền 2 cấp]]",
         "- [[hub-goi|Hub gói]]",
         "",
     ])

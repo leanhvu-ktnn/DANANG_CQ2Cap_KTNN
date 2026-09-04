@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01-GIAOTRINH/cam-nang/buoi-01/04-cong-khai-va-hoat-dong-khac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "04-cong-khai-va-hoat-dong-khac"
             }
           }
         ]
@@ -190,6 +190,29 @@
   },
   "active": "793fe820d994ede2",
   "lastOpenFiles": [
+    "01-GIAOTRINH/cam-nang/buoi-01/03-tham-quyen.md",
+    "01-GIAOTRINH/cam-nang/buoi-01/02-phan-cap-thu-chi.md",
+    "01-GIAOTRINH/cam-nang/buoi-01/01-ngan-sach-cap-xa.md",
+    "02-TAILIEU/Tài liệu in cho học viên.md",
+    "01-GIAOTRINH/cam-nang/buoi-04/03-cai-cach-tien-luong.md",
+    "01-GIAOTRINH/cam-nang/buoi-04/02-quyet-toan.md",
+    "01-GIAOTRINH/cam-nang/buoi-04/01-khoa-so-va-xu-ly-cuoi-nam.md",
+    "01-GIAOTRINH/cam-nang/buoi-03/05-von-dau-tu-cong.md",
+    "01-GIAOTRINH/cam-nang/buoi-03/04-tai-san-cong.md",
+    "01-GIAOTRINH/cam-nang/buoi-03/03-thu-tuc-kbnn.md",
+    "01-GIAOTRINH/cam-nang/buoi-03/02-muc-luc-ma-tai-khoan.md",
+    "01-GIAOTRINH/cam-nang/buoi-03/01-kiem-soat-thu-chi.md",
+    "01-GIAOTRINH/cam-nang/buoi-02/04-dieu-chinh.md",
+    "01-GIAOTRINH/cam-nang/buoi-02/03-lich-va-giao-du-toan.md",
+    "01-GIAOTRINH/cam-nang/buoi-02/02-lap-va-thuyet-minh.md",
+    "01-GIAOTRINH/cam-nang/buoi-02/01-can-cu-va-yeu-cau.md",
+    "01-GIAOTRINH/cam-nang/buoi-01/04-cong-khai-va-hoat-dong-khac.md",
+    "02-TAILIEU/danh-muc-van-ban-dan-chieu.md",
+    "02-TAILIEU/CHINH-SACH-CHIA-SE.md",
+    "02-TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026.md",
+    "03-TIMHIEU/ngan-sach-nha-nuoc/chu-ky-ngan-sach.md",
+    "index.md",
+    "03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/khai-niem-ngan-sach.md",
     "05-KY_THUAT/schemas/README.md",
     "05-KY_THUAT/reports/bao-cao-kiem-tra.md",
@@ -201,30 +224,7 @@
     "05-KY_THUAT/schemas",
     "05-KY_THUAT/reports",
     "05-KY_THUAT/scripts",
-    "05-KY_THUAT/Dexuat.md",
-    "05-KY_THUAT/quy-uoc-link.md",
-    "05-KY_THUAT/CHANGELOG.md",
-    "05-KY_THUAT/HUONG-DAN-BAO-TRI.md",
     "05-KY_THUAT",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/index.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-75.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-74.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-71.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-73.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-72.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-70.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-69.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-58.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-68.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-67.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-66.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-65.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-55.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-61.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-12.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-54.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-57.md",
-    "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu/Dieu-56.md",
     "04-Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/DieudiemDanchieu"
   ]
 }

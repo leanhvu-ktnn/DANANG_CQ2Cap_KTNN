@@ -62,7 +62,7 @@ Không «trình huyện» như trước sáp nhập.
    - thuộc NS xã?
    - ai quyết?
    - đúng phân cấp [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index|NQ 15]] chưa?
-   Nếu không chắc → [[01-GIAOTRINH/cam-nang/buoi-01/phan-cap-thu-chi|§2 phân cấp]].
+   Nếu không chắc → [[01-GIAOTRINH/cam-nang/buoi-01/02-phan-cap-thu-chi|§2 phân cấp]].
 3. Không dùng văn bản / tỷ lệ xã cũ trước sáp nhập.
 
 ## Đọc đủ

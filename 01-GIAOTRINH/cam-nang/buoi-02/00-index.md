@@ -18,10 +18,10 @@ Cẩm nang: hướng dẫn lập, thuyết minh, phân bổ dự toán thu–chi
 
 ## Nội dung chương trình đem lại
 
-- [[01-GIAOTRINH/cam-nang/buoi-02/can-cu-va-yeu-cau|§1–2 Căn cứ và yêu cầu lập DT]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-44|Điều 44. Căn cứ lập dự toán ngân sách nhà nước hằng năm]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-45|Điều 45. Yêu cầu lập dự toán ngân sách nhà nước hằng năm]]
-- [[01-GIAOTRINH/cam-nang/buoi-02/lap-va-thuyet-minh|§3–4 Lập tại đơn vị / xã; thảo luận, quyết định]]
-- [[01-GIAOTRINH/cam-nang/buoi-02/lich-va-giao-du-toan|§5–6 Thời gian (QĐ 71) và giao DT]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-51|Điều 51. Phân bổ và giao dự toán ngân sách nhà nước]]
-- [[01-GIAOTRINH/cam-nang/buoi-02/dieu-chinh|§7–8 Điều chỉnh; tăng thu / chưa phân bổ]]
+- [[01-GIAOTRINH/cam-nang/buoi-02/01-can-cu-va-yeu-cau|§1–2 Căn cứ và yêu cầu lập DT]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-44|Điều 44. Căn cứ lập dự toán ngân sách nhà nước hằng năm]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-45|Điều 45. Yêu cầu lập dự toán ngân sách nhà nước hằng năm]]
+- [[01-GIAOTRINH/cam-nang/buoi-02/02-lap-va-thuyet-minh|§3–4 Lập tại đơn vị / xã; thảo luận, quyết định]]
+- [[01-GIAOTRINH/cam-nang/buoi-02/03-lich-va-giao-du-toan|§5–6 Thời gian (QĐ 71) và giao DT]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-51|Điều 51. Phân bổ và giao dự toán ngân sách nhà nước]]
+- [[01-GIAOTRINH/cam-nang/buoi-02/04-dieu-chinh|§7–8 Điều chỉnh; tăng thu / chưa phân bổ]]
 
 ## Nắm để làm
 

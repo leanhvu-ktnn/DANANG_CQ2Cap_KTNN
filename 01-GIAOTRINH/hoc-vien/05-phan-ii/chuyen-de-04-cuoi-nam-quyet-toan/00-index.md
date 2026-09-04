@@ -79,4 +79,4 @@ Góc KTNN: chuyển nguồn không đủ điều kiện; QT lệch KBNN; thiếu
 Phần II: [[01-GIAOTRINH/hoc-vien/05-phan-ii/00-index|hub Phần II]].
 CĐ trước: [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]].
 CĐ tiếp: [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/00-index|CĐ 5]].
-Trục cẩm nang (cùng chủ đề, không gộp): [[01-GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]] · [[01-GIAOTRINH/cam-nang/buoi-04/quyet-toan|Buổi 4 quyết toán]].
+Trục cẩm nang (cùng chủ đề, không gộp): [[01-GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]] · [[01-GIAOTRINH/cam-nang/buoi-04/02-quyet-toan|Buổi 4 quyết toán]].

@@ -18,9 +18,9 @@ Cẩm nang: kế toán QT; khóa sổ; chuyển nguồn; yêu cầu và trình t
 
 ## Nội dung chương trình đem lại
 
-- [[01-GIAOTRINH/cam-nang/buoi-04/khoa-so-va-xu-ly-cuoi-nam|§1–3 Kế toán QT; khóa sổ; chuyển nguồn]]
-- [[01-GIAOTRINH/cam-nang/buoi-04/quyet-toan|§4–5 Yêu cầu và trình tự quyết toán]]
-- [[01-GIAOTRINH/cam-nang/buoi-04/cai-cach-tien-luong|§6 Nguồn cải cách tiền lương]]
+- [[01-GIAOTRINH/cam-nang/buoi-04/01-khoa-so-va-xu-ly-cuoi-nam|§1–3 Kế toán QT; khóa sổ; chuyển nguồn]]
+- [[01-GIAOTRINH/cam-nang/buoi-04/02-quyet-toan|§4–5 Yêu cầu và trình tự quyết toán]]
+- [[01-GIAOTRINH/cam-nang/buoi-04/03-cai-cach-tien-luong|§6 Nguồn cải cách tiền lương]]
 
 Căn cứ trục: [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-65|Điều 65. Kế toán, quyết toán ngân sách nhà nước]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-66|Điều 66. Xử lý thu, chi ngân sách nhà nước cuối năm]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-67|Điều 67. Yêu cầu quyết toán ngân sách nhà nước]] · [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-30|Điều 30. Khóa sổ kế toán và xử lý thu, chi ngân sách nhà nước cuối năm]] · [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-31|Điều 31. Chuyển nguồn ngân sách từ năm trước sang năm sau]]
 

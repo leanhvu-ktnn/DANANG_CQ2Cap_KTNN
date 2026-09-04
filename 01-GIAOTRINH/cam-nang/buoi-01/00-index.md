@@ -21,10 +21,10 @@ Luyện **làm đúng** vị trí ngân sách cấp xã trong hệ thống hai c
 
 ## Nội dung chương trình đem lại
 
-- [[01-GIAOTRINH/cam-nang/buoi-01/ngan-sach-cap-xa|§1 Khái niệm ngân sách cấp xã]]
-- [[01-GIAOTRINH/cam-nang/buoi-01/phan-cap-thu-chi|§2.1–2.6 Phạm vi thu–chi, phân cấp Đà Nẵng, định mức]]
-- [[01-GIAOTRINH/cam-nang/buoi-01/tham-quyen|§3.1–3.5 Thẩm quyền HĐND, UBND, Chủ tịch, Phòng KT, đơn vị]]
-- [[01-GIAOTRINH/cam-nang/buoi-01/cong-khai-va-hoat-dong-khac|§4–5 Công khai và hoạt động tài chính khác]]
+- [[01-GIAOTRINH/cam-nang/buoi-01/01-ngan-sach-cap-xa|§1 Khái niệm ngân sách cấp xã]]
+- [[01-GIAOTRINH/cam-nang/buoi-01/02-phan-cap-thu-chi|§2.1–2.6 Phạm vi thu–chi, phân cấp Đà Nẵng, định mức]]
+- [[01-GIAOTRINH/cam-nang/buoi-01/03-tham-quyen|§3.1–3.5 Thẩm quyền HĐND, UBND, Chủ tịch, Phòng KT, đơn vị]]
+- [[01-GIAOTRINH/cam-nang/buoi-01/04-cong-khai-va-hoat-dong-khac|§4–5 Công khai và hoạt động tài chính khác]]
 
 Căn cứ trục: [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-06|Điều 6. Hệ thống ngân sách nhà nước]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-38|Điều 38. Nguồn thu của ngân sách địa phương]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-39|Điều 39. Nhiệm vụ chi của ngân sách địa phương]] · [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6. Nhiệm vụ chi của ngân sách cấp xã]]
 
