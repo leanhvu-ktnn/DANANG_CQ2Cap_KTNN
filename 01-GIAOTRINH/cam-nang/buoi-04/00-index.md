@@ -37,6 +37,12 @@ Tờ trình HĐND có thuyết minh, không chỉ bảng.
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-67|Điều 67 Luật 89]] — QT khớp KBNN; xã không QT chi > thu; có thuyết minh.
 - [[04-Vanbanquydinh/TW/Thong_tu/2025/133-2025-TT-BTC/DieudiemDanchieu/Dieu-04|Điều 4 TT 133]] — nguồn CCTL 2026; không phải dự phòng tự do.
 
+
+## Khái niệm nghiệp vụ cần tra cứu
+
+- **Kết dư ngân sách cấp xã:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
+- **Dự toán chi còn lại của cấp ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 14 Điều 4 Luật 89]]
+
 ## Kỹ năng
 
 Phân loại từng khoản dư (chuyển / hủy / nộp trả) trước khi khóa sổ; QT có thuyết minh, không chỉ bảng số.

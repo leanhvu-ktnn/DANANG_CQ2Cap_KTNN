@@ -42,6 +42,14 @@ Xong buổi mới sang lập DT (Buổi 2).
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-38|Điều 38 Luật 89]]–[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-39|Điều 39]] — khung thu / chi địa phương; xã chỉ hưởng / chi phần HĐND tỉnh đã phân.
 - [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6 NQ 15]] — danh mục nhiệm vụ chi xã Đà Nẵng. Việc không có trong [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6]] → không lập DT xã.
 
+
+## Khái niệm nghiệp vụ cần tra cứu
+
+- **Ngân sách địa phương:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 19 Điều 4 Luật 89]]
+- **Ngân sách cấp xã (kết dư):** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
+- **Phân cấp quản lý ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 20 Điều 4 Luật 89]]
+- **Cơ quan tài chính & Cơ quan thu ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 9, 10 Điều 4 Luật 89]]
+
 ## Kỹ năng
 
 Xác định cấp xã là một cấp ngân sách (tỉnh–xã); mở đúng nghị quyết phân cấp Đà Nẵng đang hiệu lực — không suy diễn xã cũ.

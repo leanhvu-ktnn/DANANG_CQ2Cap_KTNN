@@ -39,6 +39,14 @@ Tách cửa TX ([[04-Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/index|NĐ 3
 - [[04-Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index|TT 130]] + [[04-Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/index|TT 185]] + [[04-Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|TT 157]] — mục lục hiện hành; một mã ĐVQHNS; đóng mã sau sáp nhập; đối chiếu TK.
 - [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-03|QĐ 61 (phụ lục)]] — thẩm quyền TSC xã; nhà đất ≠ máy móc.
 
+
+## Khái niệm nghiệp vụ cần tra cứu
+
+- **Chi thường xuyên:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 5 Điều 4 Luật 89]]
+- **Chi đầu tư phát triển:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 3 Điều 4 Luật 89]]
+- **Quỹ tài chính nhà nước ngoài ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 23 Điều 4 Luật 89]]
+- **Tài sản công & Tài sản chuyên dùng:** [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Khoản 1, 6 Điều 3 Luật 15]]
+
 ## Kỹ năng
 
 Dừng hồ sơ thiếu điều kiện chi; mở đúng mục lục / mã / TTHC KBNN — không gộp mất §8.

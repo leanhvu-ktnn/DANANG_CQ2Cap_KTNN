@@ -36,6 +36,14 @@ Không chi ngoài DT rồi «hợp thức».
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-15|Điều 15 NĐ 73]] + [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/index|QĐ 71]] — HĐND xã quyết ≤10 ngày sau HĐND tỉnh; giao đơn vị trước 31/12; lập–gửi Đà Nẵng: 05/6 đơn vị, 15/6 xã → STC.
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-54|Điều 54 Luật 89]]–[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-55|Điều 55]] — UBND xã chỉnh một số trường hợp, báo HĐND; chỉnh DT đơn vị xong trước 15/12.
 
+
+## Khái niệm nghiệp vụ cần tra cứu
+
+- **Ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 17 Điều 4 Luật 89]]
+- **Quỹ ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 22 Điều 4 Luật 89]]
+- **Dự phòng ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 8 Điều 4 Luật 89]]
+- **Số bổ sung cân đối & Số bổ sung có mục tiêu:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 24, 25 Điều 4 Luật 89]]
+
 ## Kỹ năng
 
 Bảo vệ DT trước HĐND bằng căn cứ + số liệu, không một câu «nhu cầu chi tăng».
