@@ -24,7 +24,8 @@ nganh: null
 linh_vuc: null
 chuc_danh: null
 nguoi_ky: Trần Thanh Mẫn
-tinh_trang_hieu_luc: null
+tinh_trang_hieu_luc: khong_xac_dinh
+hieu_luc_can_hau_kiem: true
 ngay_co_hieu_luc: '2025-01-01'
 ngay_het_hieu_luc: null
 ngay_cap_nhat: null

@@ -31,7 +31,7 @@ Hướng dẫn dành cho giảng viên — không thuộc ba nhóm PHẢI GIẢN
 
 ## Nắm để làm
 
-Không đảo tiết 2 và 4 (thực hành bám IV.3 rồi VI). Chấm chéo trước chấm chính — Phụ lục 2 TAILIEU (chưa catalog).
+Không đảo tiết 2 và 4 (thực hành bám IV.3 rồi VI). Chấm chéo trước chấm chính — xem trạng thái [[TAILIEU/phu-luc-thuc-hanh/index|Phụ lục 2]].
 
 ## Đọc đủ
 

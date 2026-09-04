@@ -80,6 +80,6 @@ Phương án tăng thu trước 28/02: ưu tiên bổ sung quỹ CCTL ([[Vanbanq
 
 [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026#BUỔI 4|Cẩm nang BUỔI 4]] mục 6.
 
-Trục kia (tình huống, không gộp): [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05|CĐ 5 — CCTL, quỹ lương]].
+Trục kia (tình huống, không gộp): [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/00-index|CĐ 5 — CCTL, quỹ lương]].
 
 Hub buổi: [[GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]].

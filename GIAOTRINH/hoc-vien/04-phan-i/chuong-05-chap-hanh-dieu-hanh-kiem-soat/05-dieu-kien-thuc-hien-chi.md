@@ -57,4 +57,4 @@ In bốn lớp cạnh chỗ ký. Dừng — không «ký trước, bổ sung sau
 
 [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/00-index|Chương 5]] · tiếp [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/06-du-ho-so-khac-dung-ban-chat|mục 6]].
 [[TAILIEU/Tài liệu in cho học viên#CHƯƠNG 5|Chương 5 trên TAILIEU]].
-[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]] cụm A.2 · [[GIAOTRINH/hoc-vien/06-phan-iii/11-so-15-phut|sổ 15 phút]].
+[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]] cụm A.2 · [[GIAOTRINH/hoc-vien/06-phan-iii/11-so-15-phut|sổ 15 phút]].

@@ -1,6 +1,8 @@
 ---
 okf_version: "0.2"
 type: legal_instance
+tinh_trang_hieu_luc: khong_xac_dinh
+hieu_luc_can_hau_kiem: true
 title: 14/NQ-HĐND
 so_hieu: 14/NQ-HĐND
 so_hieu_chuan: 14/NQ-HĐND

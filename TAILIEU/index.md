@@ -21,7 +21,7 @@ Hai file dưới đây là **cặp bắt buộc** trên mọi hub gói. Phụ l�
 - Cần danh sách tham gia tập huấn hoặc TBox ontology.
 - Wiki đã đủ thứ tự hỏi — cần đối chiếu đoạn gốc (bảng tỷ lệ, tình huống, sổ tay).
 
-**Đọc file gốc khi nào:** khi cần bảng / tình huống / sổ tay nguyên văn, hoặc khi giảng đúng heading nguồn. Việc hàng ngày và thứ tự hỏi ở [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] / [[index|Hub gói — lối vào nhu cầu]] — không thay bằng cuộn hết `.md`.
+**Đọc file gốc khi nào:** khi cần bảng / tình huống / sổ tay nguyên văn, hoặc khi giảng đúng heading nguồn. Việc hàng ngày và thứ tự hỏi ở [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] / [[hub-goi|Hub gói — lối vào nhu cầu]] — không thay bằng cuộn hết `.md`.
 
 ## Bản đồ nội dung
 
@@ -35,8 +35,10 @@ Lối vào khóa (hai trục, không gộp): [[GIAOTRINH/00-index|Giáo trình �
 ### Phụ lục và lớp nghiên cứu (đọc sau)
 
 - [[TAILIEU/PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi)|Danh sách tham gia tập huấn]] — phụ lục PDF (bảng theo trang).
+- [[TAILIEU/phu-luc-thuc-hanh/index|Phụ lục và công cụ thực hành]] — chỉ rõ phần dùng được và phần còn chờ bộ hồ sơ/đáp án chi tiết.
 - [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]] — số hiệu dẫn chiếu.
 - [[TAILIEU/ontology|Ontology TBox]] — TBox; không nhét vào lối đọc giáo trình.
+- [[TAILIEU/CHINH-SACH-CHIA-SE|Chính sách chia sẻ]] — loại dữ liệu cá nhân khỏi bản công khai.
 
 File gốc vẫn trong thư mục này; không xóa khi cập nhật `.md`.
 
@@ -57,6 +59,6 @@ File gốc vẫn trong thư mục này; không xóa khi cập nhật `.md`.
 
 ## Liên kết
 
-- Hub gói: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa theo việc; không cuộn hết file gốc.
+- Hub gói: [[hub-goi|Hub gói — lối vào nhu cầu]] — chọn cửa theo việc; không cuộn hết file gốc.
 - Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — nhảy đúng buổi / CĐ thay vì tìm heading trong 5.600 dòng.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — thứ tự hỏi trước khi mở file gốc.

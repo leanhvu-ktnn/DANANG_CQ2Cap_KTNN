@@ -33,7 +33,7 @@ Phụ lục dùng chung:
 - [[GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-03-phieu-giao-nhiem-vu|Phụ lục 3 — Phiếu giao nhiệm vụ]]
 - [[GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ lục 4 — Tiêu chí chấm]]
 
-Phụ lục 1–2 TAILIEU (bộ số liệu 21 tình huống, đáp án GV) là file kèm — chưa catalog. Không bịa số liệu.
+[[TAILIEU/phu-luc-thuc-hanh/index|Phụ lục 1–2]] đã có phần mô tả/hướng dẫn chung; bộ hồ sơ số liệu và đáp án chi tiết vẫn chờ nguồn. Không bịa số liệu.
 
 ## Nắm để làm
 

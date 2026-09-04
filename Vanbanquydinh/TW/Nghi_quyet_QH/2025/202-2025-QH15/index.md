@@ -1,6 +1,7 @@
 ---
 okf_version: '0.2'
 type: legal_instance
+van_ban_id: 202/2025/QH15|2025-06-12|QUOC HOI
 title: 202/2025/QH15
 so_hieu: 202/2025/QH15
 ngay_ban_hanh: '2025-06-12'

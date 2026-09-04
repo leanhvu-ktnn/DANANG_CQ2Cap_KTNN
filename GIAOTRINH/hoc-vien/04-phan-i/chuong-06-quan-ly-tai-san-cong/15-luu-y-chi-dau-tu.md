@@ -14,7 +14,7 @@ chuyen_de: 0
 
 ## Tinh thần
 
-Phạm vi phục vụ [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]] — không thay chương trình đào tạo chuyên sâu về đầu tư công, xây dựng hoặc đấu thầu. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]].
+Phạm vi phục vụ [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]] — không thay chương trình đào tạo chuyên sâu về đầu tư công, xây dựng hoặc đấu thầu. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]].
 
 ## Nội dung chương trình đem lại
 

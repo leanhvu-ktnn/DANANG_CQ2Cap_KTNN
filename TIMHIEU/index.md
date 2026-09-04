@@ -1,90 +1,39 @@
 ---
 okf_version: "0.2"
 type: index
-title: "Tìm hiểu — khái niệm, tiếp cận KTNN, việc hàng ngày, nghiên cứu"
-updated: 2026-09-02
-tags: [WISDOM, TIMHIEU, Da_Nang, NSNN, KTNN]
+title: "Tìm hiểu kiến thức cho Công chức Đà Nẵng"
+updated: 2026-09-04
+tags: [WISDOM, TIMHIEU, Da_Nang]
 apDungDiaBan: Da_Nang
 ---
 
-# Tìm hiểu
+# Cẩm nang Công chức Đà Nẵng
 
-## Đối tượng và mục đích
+Chào mừng bạn đến với chuyên trang tìm hiểu kiến thức nghiệp vụ dành riêng cho công chức, viên chức thành phố Đà Nẵng. Thay vì những khái niệm luật pháp khô khan, chuyên trang này tập trung vào 5 nhóm vấn đề sát sườn nhất với công việc hàng ngày của bạn, đặc biệt là khi thành phố áp dụng mô hình chính quyền 2 cấp từ năm 2025.
 
-Công chức xã / đơn vị dự toán TP cần *nắm → nghĩ → làm* trước khi mở luật. Trang này trả lời: *đang thiếu mắt xích nào trong chuỗi* — không phải mục lục giáo trình.
+Bạn có thể tra cứu nhanh chóng theo 5 chủ đề cốt lõi dưới đây:
 
-Pháp lý khóa học: [[Vanbanquydinh/index|Văn bản quy định dẫn chiếu]]. Hub gói: [[index|Hub gói — lối vào nhu cầu]].
+## 1. [[TIMHIEU/chinh-quyen-2-cap/index|Sự thay đổi thành Chính quyền 2 cấp]]
+- Tìm hiểu mô hình chính quyền không còn HĐND, UBND cấp quận/huyện.
+- Sơ đồ tổ chức mới và sự sáp nhập tỉnh Quảng Nam vào Đà Nẵng.
+- Tra cứu danh bạ [[TIMHIEU/chinh-quyen-2-cap/co-quan/index|Hệ thống cơ quan, Phường/Xã hiện hành]].
 
-## Khi nào mở trang này
+## 2. [[TIMHIEU/dich-vu-cong-truc-tuyen/index|Dịch vụ Công trực tuyến]]
+- Hướng dẫn các thủ tục hành chính, quy trình tiếp nhận và trả kết quả.
+- Tích hợp dữ liệu liên thông, chuyển đổi số trong phục vụ người dân.
 
-- Chưa phân biệt khái niệm (NSNN, đơn vị dự toán, TSC…) với việc đang làm.
-- Cần cách nghĩ KTNN *trước* khi ký — không đợi đoàn đến.
-- Có việc cụ thể (chi, dự toán, quyết toán, tiếp đoàn, 2 cấp) nhưng chưa biết cửa nào.
-- Muốn hiểu vì sao gói này tồn tại (lớp seed / Go) — không copy toàn văn luật.
+## 3. [[TIMHIEU/vi-tri-viec-lam/index|Vị trí việc làm của Công chức]]
+- Xác định rõ nhiệm vụ, quyền hạn và trách nhiệm theo từng vị trí việc làm.
+- Quy định về tinh giản biên chế và đánh giá năng lực.
 
-## Bản đồ nội dung
+## 4. [[TIMHIEU/ngan-sach-nha-nuoc/index|Ngân sách Nhà nước (NSNN)]]
+- Hướng dẫn lập, phân bổ và quyết toán dự toán ngân sách trong mô hình mới.
+- Lưu ý thẩm quyền chi ngân sách cấp xã trực thuộc thẳng thành phố.
 
-Chuỗi cố định: **nắm** (khái niệm) → **nghĩ** (tiếp cận KTNN) → **làm** (việc hàng ngày). Nghiên cứu = lớp seed, không xen vào việc hôm nay.
+## 5. [[TIMHIEU/tai-san-cong/index|Tài sản Công (TSC)]]
+- Trình tự mua sắm, quản lý, sử dụng và thanh lý tài sản nhà nước.
+- Quy định về phân cấp thẩm quyền tài sản công cho Chủ tịch UBND các cấp.
 
-### 1. Nắm — khái niệm căn bản
+---
 
-Không phải từ điển luật. Mỗi trang = *cần nắm gì để làm việc* + wikilink căn cứ. Hub: [[TIMHIEU/khai-niem/index|Khái niệm căn bản]].
-
-- [[TIMHIEU/khai-niem/ngan-sach-nha-nuoc/index|Ngân sách nhà nước]] — phân biệt NSNN với quỹ ngoài NS trước mọi tờ trình thu–chi.
-- [[TIMHIEU/khai-niem/chu-ky-ngan-sach/index|Chu kỳ ngân sách]] — lập DT, điều chỉnh giữa năm, khóa sổ / quyết toán cuối năm.
-- [[TIMHIEU/khai-niem/don-vi-du-toan/index|Đơn vị dự toán]] — mình là cấp nào, được giao / đề nghị gì.
-- [[TIMHIEU/khai-niem/thu-chi/index|Thu và chi]] — nguồn thu / nhiệm vụ chi; trước khi ghi «được thu / được chi».
-- [[TIMHIEU/khai-niem/dau-tu-cong-va-mua-sam/index|Đầu tư công và mua sắm]] — dự án / gói thầu / mua sắm thường xuyên — chọn đúng luật.
-- [[TIMHIEU/khai-niem/tai-san-cong/index|Tài sản công]] — ghi tăng, sử dụng, thanh lý; phân cấp Chủ tịch UBND.
-- [[TIMHIEU/khai-niem/kiem-toan-nha-nuoc/index|Kiểm toán Nhà nước]] — góc rủi ro–bằng chứng, trước khi đoàn đến.
-
-Chính quyền 2 cấp tại Đà Nẵng: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]].
-
-### 2. Nghĩ — cách tiếp cận KTNN
-
-Áp dụng *trước* khi chi. KTNN đi từ **rủi ro** → **bằng chứng** → **kết luận theo luật**, không đi từ lời giải thích. Hub: [[TIMHIEU/tiep-can-ktnn/index|Cách tiếp cận KTNN]].
-
-- [[TIMHIEU/tiep-can-ktnn/bon-cau-hoi/index|Bốn câu hỏi trước khi ký]] — Việc gì / Ai được quyết / Căn cứ nào / Bằng chứng nào. Thiếu một dòng = chưa sẵn sàng ký.
-- [[TIMHIEU/tiep-can-ktnn/bang-chung-ho-so/index|Bằng chứng và hồ sơ]] — gốc, kịp thời, nhất quán với sổ. Lời nói không phải bằng chứng.
-- [[TIMHIEU/tiep-can-ktnn/rui-ro-thuong-gap/index|Rủi ro thường gặp]] — chỗ KTNN hay chọn mẫu ở xã / đơn vị / chủ đầu tư địa phương.
-
-Câu 1–2 sai → *trái thẩm quyền / ngoài dự toán*. Câu 3 sai → *không đúng quy định*. Câu 4 yếu → *không đủ cơ sở*, dù việc “có thật”.
-
-### 3. Làm — việc hàng ngày
-
-Tình huống. Mỗi trang = thứ tự làm, không phải giáo trình. Hub: [[TIMHIEU/hang-ngay/index|Việc hàng ngày]]. Xương sống: [[TIMHIEU/tiep-can-ktnn/bon-cau-hoi/index|Bốn câu hỏi trước khi ký]].
-
-- [[TIMHIEU/hang-ngay/truoc-khi-chi/index|Trước khi chi]] — thứ tự hỏi / dừng trước khi ký hoặc gửi KBNN.
-- [[TIMHIEU/hang-ngay/lap-va-dieu-chinh-du-toan/index|Lập và điều chỉnh dự toán]] — lịch, nguồn, không «ứng» ngoài dự toán.
-- [[TIMHIEU/hang-ngay/thanh-toan-quyet-toan/index|Thanh toán và quyết toán]] — hồ sơ thanh toán, khóa sổ, chuyển nguồn.
-- [[TIMHIEU/hang-ngay/tiep-doan-kiem-toan/index|Khi tiếp đoàn kiểm toán]] — thứ tự chuẩn bị hồ sơ, không giải thích miệng.
-- [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp tại Đà Nẵng]] — việc thuộc xã hay TP; sáp nhập QN→ĐN.
-
-### 4. Vì sao gói này — nghiên cứu (lớp seed)
-
-Kết luận **Go** — vì sao gói này, không copy toàn văn luật, không đổ bài KTNN hàng loạt. [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]]. So với 4 buổi cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]].
-
-Ontology (TBox, không nhét vào lối đọc giáo trình): [[TAILIEU/ontology|Ontology TBox]].
-
-## Vận dụng
-
-1. **Làm đúng** — không nhảy thẳng vào catalog luật; đi hết *nắm → nghĩ → làm* rồi mới mở Điều.
-2. **Tự kiểm** — bốn câu hỏi đủ bốn dòng trước khi ký / trình / gửi.
-3. **Phòng ngừa** — đối chiếu việc đang làm với [[TIMHIEU/tiep-can-ktnn/rui-ro-thuong-gap/index|Rủi ro thường gặp]].
-4. **Giải trình** — mỗi việc có path TIMHIEU + heading TAILIEU + Điều Vanbanquydinh.
-
-## Tài liệu chính
-
-- [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026|Cẩm nang quản lý ngân sách xã]] — trình tự buổi, phân cấp–chi–quyết toán xã.
-- [[TAILIEU/Tài liệu in cho học viên|Tài liệu in cho học viên]] — góc KTNN, 05 chuyên đề, sổ tay tự kiểm.
-
-## Căn cứ
-
-[[Vanbanquydinh/index#Bản đồ căn cứ|Bản đồ căn cứ — luật khung + Đà Nẵng]] · [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]].
-
-## Liên kết
-
-- Hub: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa theo việc; đóng gói vault.
-- Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — 4 buổi cẩm nang ↔ 05 CĐ học viên.
-- Cơ quan: [[TIMHIEU/co-quan/index|Cơ quan (KTNN · HĐND · UBND · Sở Tài chính)]] — heading từng cơ quan, không cây INF.
-- 2 cấp / việc dân: [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]] — thẩm quyền xã / TP (catalog TTHC không trong gói).
+*Mọi tài liệu mang tính chất tham khảo, hãy luôn đối chiếu với toàn văn văn bản pháp lý chính thức tại nhánh [[Vanbanquydinh/index|Văn bản quy định]] để ra quyết định chính xác nhất.*

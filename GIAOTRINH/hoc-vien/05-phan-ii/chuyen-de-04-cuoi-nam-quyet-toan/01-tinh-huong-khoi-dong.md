@@ -31,7 +31,7 @@ Ba câu hỏi phải trả lời trước khi khóa sổ:
 2. Căn cứ nào cho từng quyết định đó?
 3. Số liệu của tôi đã khớp với xác nhận của Kho bạc Nhà nước chưa?
 
-Ghi chú điều phối (giảng viên): 5 khoản này chính là hồ sơ HS-CĐ4-TH1. Học viên phân loại ngay đầu giờ theo hiểu biết hiện có; đối chiếu lại tại [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/13-thuc-hanh-tich-hop|Mục IX]]. Không bịa số tiền — Phụ lục 1 TAILIEU chưa catalog.
+Ghi chú điều phối (giảng viên): 5 khoản này chính là hồ sơ HS-CĐ4-TH1. Học viên phân loại ngay đầu giờ theo hiểu biết hiện có; đối chiếu lại tại [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/13-thuc-hanh-tich-hop|Mục IX]]. Không bịa số tiền — [[TAILIEU/phu-luc-thuc-hanh/index|bộ hồ sơ Phụ lục 1]] còn chờ nguồn.
 
 ## Nắm để làm
 

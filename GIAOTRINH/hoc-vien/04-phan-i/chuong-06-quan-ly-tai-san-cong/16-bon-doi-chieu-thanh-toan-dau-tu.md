@@ -44,4 +44,4 @@ Bốn đối chiếu trên phiếu thanh toán khối lượng. Đối chiếu 3
 
 [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]] · tiếp [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/17-goc-nhin-ktnn-bay-rui-ro|mục 17]].
 [[TAILIEU/Tài liệu in cho học viên#CHƯƠNG 6|Chương 6 trên TAILIEU]].
-[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]].
+[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]].

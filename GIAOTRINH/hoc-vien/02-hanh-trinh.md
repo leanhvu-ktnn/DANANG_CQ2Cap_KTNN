@@ -20,11 +20,11 @@ chuyen_de: 0
 
 Sau bước này, tôi biết:
 
-1. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01|CĐ 1]] — xã được hưởng nguồn thu nào, tỷ lệ điều tiết, ai chịu trách nhiệm gì
-2. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02|CĐ 2]] — rà soát nguồn thu, phân tích dữ liệu, bảo vệ DT trước HĐND
-3. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]] — kiểm soát hồ sơ chi và TSC trước khi ký, trước khi gửi KBNN
-4. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04|CĐ 4]] — phân loại số dư DT, đối chiếu KBNN, hoàn thiện QT đúng hạn
-5. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05|CĐ 5]] — nguồn quản lý riêng (CCTL), khép kín chu trình
+1. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/00-index|CĐ 1]] — xã được hưởng nguồn thu nào, tỷ lệ điều tiết, ai chịu trách nhiệm gì
+2. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/00-index|CĐ 2]] — rà soát nguồn thu, phân tích dữ liệu, bảo vệ DT trước HĐND
+3. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]] — kiểm soát hồ sơ chi và TSC trước khi ký, trước khi gửi KBNN
+4. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index|CĐ 4]] — phân loại số dư DT, đối chiếu KBNN, hoàn thiện QT đúng hạn
+5. [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/00-index|CĐ 5]] — nguồn quản lý riêng (CCTL), khép kín chu trình
 
 ## Nắm để làm
 

@@ -1,6 +1,7 @@
 ---
 okf_version: '0.2'
 type: legal_instance
+van_ban_id: 19/2025/QĐ-TTg|2025-06-30|THU TUONG CHINH PHU
 title: 19/2025/QĐ-TTg
 so_hieu: 19/2025/QĐ-TTg
 ngay_ban_hanh: '2025-06-30'

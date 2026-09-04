@@ -32,7 +32,7 @@ Bảng tra cứu khi điều hành, chi, chỉnh DT. [[GIAOTRINH/hoc-vien/04-pha
 
 Mở catalog:
 
-- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89]] — còn hiệu lực. Văn bản hợp nhất 89/VBHN-VPQH ngày 27/3/2026 **chưa catalog** trong gói — giữ số hiệu, đối chiếu khi có file.
+- [[Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89]] — còn hiệu lực; xem thêm [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index|89/VBHN-VPQH ngày 27/3/2026]] đã có trong catalog.
 - [[Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/index|NĐ 73/2026]] — còn hiệu lực.
 - [[Vanbanquydinh/TW/Nghi_dinh/2020/11-2020-NĐ-CP/index|NĐ 11/2020]] — còn hiệu lực một phần.
 - [[Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index|TT 130]] · [[Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/index|TT 132]] · [[Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|TT 157]].

@@ -1,0 +1,735 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-04",
+  "note": "Phân nhánh phục vụ tra cứu khóa học; không phải phân loại pháp lý chính thức.",
+  "records": [
+    {
+      "van_ban_id": "28/2022/NQ-HĐND|2022-07-14|HĐND THANH PHO ĐA NANG",
+      "so_hieu": "28/2022/NQ-HĐND",
+      "title": "số Về quy định mức khoán kinh phí hoạt động các tổ chức chính trị - xã hội",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/28-2022-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "29/2022/NQ-HĐND|2022-07-14|HĐND THANH PHO ĐA NANG",
+      "so_hieu": "29/2022/NQ-HĐND",
+      "title": "số Sửa đổi khoản 3 Điều 1 Nghị quyết số 153/2018/NQ-HĐND ngày 12 tháng 7",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2022/29-2022-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "14/NQ-HĐND|2025-08-12|HDND THANH PHO DA NANG",
+      "so_hieu": "14/NQ-HĐND",
+      "title": "Số lượng hợp đồng lao động thực hiện công việc chuyên môn, nghiệp vụ theo NĐ 111/2022/NĐ-CP tại ĐVSN GDĐT công lập năm học 2025-2026 (1.764 HĐ). Không nhầm với 14/2025/NQ-HĐND (di dời nhà / lệ phí GPXD).",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "15/2025/NQ-HĐND|2025-12-11|HĐND THANH PHO ĐA NANG",
+      "so_hieu": "15/2025/NQ-HĐND",
+      "title": "số 15/2025/NQ-HĐND Quy định phân cấp nguồn thu, nhiệm vụ chi giữa ngân sách",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "52/2025/NQ-HĐND|2025-12-11|HĐND THANH PHO ĐA NANG",
+      "so_hieu": "52/2025/NQ-HĐND",
+      "title": "số Quy định chi thu nhập tăng thêm cho cán bộ, công chức, viên chức thành",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/52-2025-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "79/2026/NQ-HĐND|2026-01-01|HDND THANH PHO ĐA NANG",
+      "so_hieu": "79/2026/NQ-HĐND",
+      "title": "31/07/2026 Nghị quyết số 79/2026/NQ-HĐND Quy định về nguyên tắc, tiêu chí,",
+      "path": "Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2026/79-2026-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "61/2025/QĐ-CTUBND|2025-10-10|THANH PHO ĐA NANG",
+      "so_hieu": "61/2025/QĐ-CTUBND",
+      "title": "Quyết định 61/2025/QĐ-CTUBND quy định về phân cấp thẩm quyền quyết định quản",
+      "path": "Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index.md",
+      "branches": [
+        "TSC",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "14/2026/QĐ-UBND|2026-02-13|UBND THANH PHO ĐA NANG",
+      "so_hieu": "14/2026/QĐ-UBND",
+      "title": "Phó Chủ tịch",
+      "path": "Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/index.md",
+      "branches": [
+        "TSC",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "71/2026/QĐ-UBND|2026-05-30|UBND THANH PHO ĐA NANG",
+      "so_hieu": "71/2026/QĐ-UBND",
+      "title": "Quy định thời gian lập, gửi dự toán ngân sách nhà nước; thời gian gửi báo",
+      "path": "Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "11/2018/NQ-HĐND|2018-07-19|HĐND TINH QUANG NAM",
+      "so_hieu": "11/2018/NQ-HĐND",
+      "title": "số Quy định mức bố trí kinh phí thực hiện Cuộc vận động “Toàn dân đoàn kết",
+      "path": "Vanbanquydinh/Quang_Nam_cu/Nghi_quyet_HDND/2018/11-2018-NQ-HĐND/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "81/2015/QH13|2015-06-24|QUOC HOI",
+      "so_hieu": "81/2015/QH13",
+      "title": "Kiểm toán nhà nước số",
+      "path": "Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "wisdom-bo-sung"
+    },
+    {
+      "van_ban_id": "83/2015/QH13|2015-06-25|QUOC HOI - CHU TICH NUOC",
+      "so_hieu": "83/2015/QH13",
+      "title": "Luật ngân sách nhà nước.",
+      "path": "Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "wisdom-bo-sung"
+    },
+    {
+      "van_ban_id": "88/2015/QH13|2015-11-20|QUOC HOI",
+      "so_hieu": "88/2015/QH13",
+      "title": "Kế toán số",
+      "path": "Vanbanquydinh/TW/Luat/2015/88-2015-QH13/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "15/2017/QH14|2017-06-21|QUOC HOI",
+      "so_hieu": "15/2017/QH14",
+      "title": "Quản lý, sử dụng tài sản công số",
+      "path": "Vanbanquydinh/TW/Luat/2017/15-2017-QH14/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "55/2019/QH14|2019-11-26|QUOC HOI",
+      "so_hieu": "55/2019/QH14",
+      "title": "sửa đổi, bổ sung một số điều của Luật kiểm toán nhà nước số",
+      "path": "Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "wisdom-bo-sung"
+    },
+    {
+      "van_ban_id": "64/2020/QH14|2020-06-18|QUOC HOI",
+      "so_hieu": "64/2020/QH14",
+      "title": "Đầu tư theo phương thức đối tác công tư số",
+      "path": "Vanbanquydinh/TW/Luat/2020/64-2020-QH14/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "07/2022/QH15|2022-06-16|QUOC HOI",
+      "so_hieu": "07/2022/QH15",
+      "title": "Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ số",
+      "path": "Vanbanquydinh/TW/Luat/2022/07-2022-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "22/2023/QH15|2023-06-23|QUOC HOI",
+      "so_hieu": "22/2023/QH15",
+      "title": "Đấu thầu số",
+      "path": "Vanbanquydinh/TW/Luat/2023/22-2023-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "24/2023/QH15|2023-11-24|QUOC HOI",
+      "so_hieu": "24/2023/QH15",
+      "title": "Viễn thông số",
+      "path": "Vanbanquydinh/TW/Luat/2023/24-2023-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "31/2024/QH15|2024-01-18|QUOC HOI",
+      "so_hieu": "31/2024/QH15",
+      "title": "Đất đai số",
+      "path": "Vanbanquydinh/TW/Luat/2024/31-2024-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "43/2024/QH15|2024-06-29|QUOC HOI",
+      "so_hieu": "43/2024/QH15",
+      "title": "Sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở",
+      "path": "Vanbanquydinh/TW/Luat/2024/43-2024-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "56/2024/QH15|2024-11-29|QUOC HOI",
+      "so_hieu": "56/2024/QH15",
+      "title": "luật Sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật",
+      "path": "Vanbanquydinh/TW/Luat/2024/56-2024-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "58/2024/QH15|2024-11-29|QUOC HOI",
+      "so_hieu": "58/2024/QH15",
+      "title": "Đầu tư công số",
+      "path": "Vanbanquydinh/TW/Luat/2024/58-2024-QH15/index.md",
+      "branches": [
+        "NSNN",
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "135/2025/QH15|2025-12-10|QUOC HOI",
+      "so_hieu": "135/2025/QH15",
+      "title": "Luật Xây dựng 2025",
+      "path": "Vanbanquydinh/TW/Luat/2025/135-2025-QH15/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "145/2025/QH15|2025-12-11|QUOC HOI",
+      "so_hieu": "145/2025/QH15",
+      "title": "DỰ TRỮ QUỐC GIA số",
+      "path": "Vanbanquydinh/TW/Luat/2025/145-2025-QH15/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "72/2025/QH15|2025-06-16|QUOC HOI",
+      "so_hieu": "72/2025/QH15",
+      "title": "luật Tổ chức chính quyền địa phương.",
+      "path": "Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "89/2025/QH15|2025-06-25|QUOC HOI",
+      "so_hieu": "89/2025/QH15",
+      "title": "Ngân sách nhà nước số",
+      "path": "Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "90/2025/QH15|2025-06-25|QUOC HOI",
+      "so_hieu": "90/2025/QH15",
+      "title": "Chủ tịch",
+      "path": "Vanbanquydinh/TW/Luat/2025/90-2025-QH15/index.md",
+      "branches": [
+        "NSNN",
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "11/2020/NĐ-CP|2020-01-20|CHINH PHU",
+      "so_hieu": "11/2020/NĐ-CP",
+      "title": "số Quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2020/11-2020-NĐ-CP/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "60/2021/NĐ-CP|2021-06-21|CHINH PHU",
+      "so_hieu": "60/2021/NĐ-CP",
+      "title": "số Quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2021/60-2021-NĐ-CP/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "111/2022/NĐ-CP|2022-12-30|CHINH PHU",
+      "so_hieu": "111/2022/NĐ-CP",
+      "title": "số Về hợp đồng đối với một số loại công việc trong cơ quan hành chính và",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2022/111-2022-NĐ-CP/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "73/2024/NĐ-CP|2024-06-30|CHINH PHU",
+      "so_hieu": "73/2024/NĐ-CP",
+      "title": "số Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức,",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2024/73-2024-NĐ-CP/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "111/2025/NĐ-CP|2025-05-22|CHINH PHU",
+      "so_hieu": "111/2025/NĐ-CP",
+      "title": "số sửa đổi, bổ sung một số điều của Nghị định số 60/2021/NĐ-CP ngày 21 tháng",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/111-2025-NĐ-CP/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "125/2025/NĐ-CP|2025-06-11|CHINH PHU",
+      "so_hieu": "125/2025/NĐ-CP",
+      "title": "số Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "127/2025/NĐ-CP|2025-06-11|CHINH PHU",
+      "so_hieu": "127/2025/NĐ-CP",
+      "title": "số Quy định về phân cấp thẩm quyền quản lý nhà nước trong lĩnh vực quản lý,",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/127-2025-NĐ-CP/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "150/2025/NĐ-CP|2025-06-12|CHINH PHU",
+      "so_hieu": "150/2025/NĐ-CP",
+      "title": "Nghị định 150/2025/NĐ-CP quy định tổ chức các cơ quan chuyên môn thuộc Ủy",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/150-2025-NĐ-CP/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "152/2025/NĐ-CP|2025-06-14|CHINH PHU",
+      "so_hieu": "152/2025/NĐ-CP",
+      "title": "số Quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng;",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/152-2025-NĐ-CP/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "173/2025/NĐ-CP|2025-06-30|CHINH PHU",
+      "so_hieu": "173/2025/NĐ-CP",
+      "title": "số Về hợp đồng thực hiện nhiệm vụ của công chức",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/173-2025-NĐ-CP/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "186/2025/NĐ-CP|2025-07-01|CHINH PHU",
+      "so_hieu": "186/2025/NĐ-CP",
+      "title": "số Quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "214/2025/NĐ-CP|2025-08-04|CHINH PHU",
+      "so_hieu": "214/2025/NĐ-CP",
+      "title": "số Quy định chỉ tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "254/2025/NĐ-CP|2025-09-26|CHINH PHU",
+      "so_hieu": "254/2025/NĐ-CP",
+      "title": "số Quy định về quản lý, thanh toán, quyết toán dự án sử dụng vốn đầu tư công",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/254-2025-NĐ-CP/index.md",
+      "branches": [
+        "NSNN",
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "286/2025/NĐ-CP|2025-11-03|CHINH PHU",
+      "so_hieu": "286/2025/NĐ-CP",
+      "title": "số Sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực quản lý,",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/286-2025-NĐ-CP/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "347/2025/NĐ-CP|2025-12-29|CHINH PHU",
+      "so_hieu": "347/2025/NĐ-CP",
+      "title": "số Quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "161/2026/NĐ-CP|2026-05-15|CHINH PHU",
+      "so_hieu": "161/2026/NĐ-CP",
+      "title": "Quy định mức lương cơ sở và chế độ tiền thưởng đối với cán bộ, công chức,",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2026/161-2026-NĐ-CP/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "73/2026/NĐ-CP|2026-03-10|CHINH PHU",
+      "so_hieu": "73/2026/NĐ-CP",
+      "title": "Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà",
+      "path": "Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "202/2025/QH15|2025-06-12|QUOC HOI",
+      "so_hieu": "202/2025/QH15",
+      "title": "Nghị quyết về việc sắp xếp đơn vị hành chính cấp tỉnh (hợp nhất tỉnh Quảng Nam vào thành phố Đà Nẵng)",
+      "path": "Vanbanquydinh/TW/Nghi_quyet_QH/2025/202-2025-QH15/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "bo-sung-chinh-quyen-2-cap"
+    },
+    {
+      "van_ban_id": "245/2025/QH15|2025-11-13|QUOC HOI",
+      "so_hieu": "245/2025/QH15",
+      "title": "số Về dự toán ngân sách nhà nước năm 2026",
+      "path": "Vanbanquydinh/TW/Nghi_quyet_QH/2025/245-2025-QH15/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "27-NQ/TW|2018-05-21|BCHTW",
+      "so_hieu": "27-NQ/TW",
+      "title": "Cải cách chính sách tiền lương đối với cán bộ, công chức, viên chức, lực lượng vũ trang và người lao động trong doanh nghiệp (Hội nghị lần thứ bảy BCHTW khóa XII)",
+      "path": "Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/index.md",
+      "branches": [
+        "NSNN",
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "57-NQ/TW|2024-12-22|BO CHINH TRI",
+      "so_hieu": "57-NQ/TW",
+      "title": "Đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia",
+      "path": "Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "1659/NQ-UBTVQH15|2025-06-16|UY BAN THUONG VU QUOC HOI",
+      "so_hieu": "1659/NQ-UBTVQH15",
+      "title": "Nghị quyết sắp xếp các đơn vị hành chính cấp xã của thành phố Đà Nẵng năm 2025 do Ủy ban Thường vụ Quốc hội ban hành",
+      "path": "Vanbanquydinh/TW/Nghi_quyet_UBTVQH/2025/1659-NQ-UBTVQH15/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "bo-sung-chinh-quyen-2-cap"
+    },
+    {
+      "van_ban_id": "15/2025/QĐ-TTG|2025-06-14|THU TUONG CHINH PHU",
+      "so_hieu": "15/2025/QĐ-TTg",
+      "title": "số Quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị",
+      "path": "Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "19/2025/QĐ-TTg|2025-06-30|THU TUONG CHINH PHU",
+      "so_hieu": "19/2025/QĐ-TTg",
+      "title": "Quyết định ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam (xác lập danh mục 94 ĐVHC cấp xã thuộc TP Đà Nẵng)",
+      "path": "Vanbanquydinh/TW/Quyet_dinh_TTg/2025/19-2025-QĐ-TTg/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "bo-sung-chinh-quyen-2-cap"
+    },
+    {
+      "van_ban_id": "10/2026/QĐ-TTG|2026-03-09|THU TUONG CHINH PHU",
+      "so_hieu": "10/2026/QĐ-TTg",
+      "title": "Quyết định 10/2026/QĐ-TTg sửa đổi Quyết định 15/2025/QĐ-TTg quy định tiêu",
+      "path": "Vanbanquydinh/TW/Quyet_dinh_TTg/2026/10-2026-QĐ-TTg/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "185/2015/TT-BTC|2015-11-17|BO TAI CHINH",
+      "so_hieu": "185/2015/TT-BTC",
+      "title": "số Hướng dẫn đăng ký, cấp và sử dụng mã số đơn vị có quan hệ với ngân sách",
+      "path": "Vanbanquydinh/TW/Thong_tu/2015/185-2015-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "324/2016/TT-BTC|2016-12-21|BO TAI CHINH",
+      "so_hieu": "324/2016/TT-BTC",
+      "title": "số Quy định Hệ thống Mục lục ngân sách nhà nước",
+      "path": "Vanbanquydinh/TW/Thong_tu/2016/324-2016-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "77/2017/TT-BTC|2017-07-28|BO TAI CHINH",
+      "so_hieu": "77/2017/TT-BTC",
+      "title": "hướng dẫn Chế độ kế toán Ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc",
+      "path": "Vanbanquydinh/TW/Thong_tu/2017/77-2017-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "19/2020/TT-BTC|2020-03-31|BO TAI CHINH",
+      "so_hieu": "19/2020/TT-BTC",
+      "title": "số Sửa đổi, bổ sung một số điều của Thông tư số 77/2017/TT-BTC ngày 28 tháng",
+      "path": "Vanbanquydinh/TW/Thong_tu/2020/19-2020-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "56/2022/TT-BTC|2022-09-16|BO TAI CHINH",
+      "so_hieu": "56/2022/TT-BTC",
+      "title": "số Hướng dẫn một số nội dung về cơ chế tự chủ tài chính của đơn vị sự nghiệp",
+      "path": "Vanbanquydinh/TW/Thong_tu/2022/56-2022-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "70/2024/TT-BTC|2024-10-01|BO TAI CHINH",
+      "so_hieu": "70/2024/TT-BTC",
+      "title": "số Quy định về quản lý, sử dụng các khoản thu từ hoạt động tư vấn, quản lý",
+      "path": "Vanbanquydinh/TW/Thong_tu/2024/70-2024-TT-BTC/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "130/2025/TT-BTC|2025-12-24|BO TAI CHINH",
+      "so_hieu": "130/2025/TT-BTC",
+      "title": "số Quy định Hệ thống Mục lục ngân sách nhà nước",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "132/2025/TT-BTC|2025-12-24|BO TAI CHINH",
+      "so_hieu": "132/2025/TT-BTC",
+      "title": "số Hướng dẫn tổ chức vận hành, khai thác Hệ thống thông tin quản lý Ngân",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "133/2025/TT-BTC|2025-12-24|BO TAI CHINH",
+      "so_hieu": "133/2025/TT-BTC",
+      "title": "Quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2026",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/133-2025-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "141/2025/TT-BTC|2025-12-31|BO TAI CHINH",
+      "so_hieu": "141/2025/TT-BTC",
+      "title": "Hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan,",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/index.md",
+      "branches": [
+        "TSC"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "157/2025/TT-BTC|2025-12-31|BO TAI CHINH",
+      "so_hieu": "157/2025/TT-BTC",
+      "title": "số Hướng dẫn đăng ký và sử dụng tài khoản tại Kho bạc Nhà nước",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "20/2025/TT-BYT|2025-06-23|BO Y TE",
+      "so_hieu": "20/2025/TT-BYT",
+      "title": "Thông tư 20/2025/TT-BYT hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/20-2025-TT-BYT/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "56/2025/TT-BTC|2025-06-25|BO TAI CHINH",
+      "so_hieu": "56/2025/TT-BTC",
+      "title": "số Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2026 và kế hoạch tài",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/56-2025-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "57/2025/TT-BTC|2025-06-25|BO TAI CHINH",
+      "so_hieu": "57/2025/TT-BTC",
+      "title": "số Hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tài chính thuộc Ủy ban",
+      "path": "Vanbanquydinh/TW/Thong_tu/2025/57-2025-TT-BTC/index.md",
+      "branches": [
+        "Chinh_quyen_2_cap"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "01/2026/TT-KTNN|2026-01-12|KIEM TOAN NHA NUOC",
+      "so_hieu": "01/2026/TT-KTNN",
+      "title": "Tổng Kiểm toán Nhà nước",
+      "path": "Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "wisdom-bo-sung"
+    },
+    {
+      "van_ban_id": "26/2026/TT-BTC|2026-03-25|BO TAI CHINH",
+      "so_hieu": "26/2026/TT-BTC",
+      "title": "số Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 73/2026/NĐ-CP",
+      "path": "Vanbanquydinh/TW/Thong_tu/2026/26-2026-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "66/2026/TT-BTC|2026-06-16|BO TAI CHINH",
+      "so_hieu": "66/2026/TT-BTC",
+      "title": "số Hướng dẫn xác định nhu cầu, nguồn và phương thức chi thực hiện mức lương",
+      "path": "Vanbanquydinh/TW/Thong_tu/2026/66-2026-TT-BTC/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    },
+    {
+      "van_ban_id": "89/VBHN-VPQH|2026-03-27|VAN PHONG QUOC HOI",
+      "so_hieu": "89/VBHN-VPQH",
+      "title": "Luật NGÂN SÁCH NHÀ NƯỚC số 89/2025/QH15",
+      "path": "Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index.md",
+      "branches": [
+        "NSNN"
+      ],
+      "scope_group": "catalog-khoa-hoc"
+    }
+  ]
+}

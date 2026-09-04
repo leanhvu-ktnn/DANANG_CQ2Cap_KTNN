@@ -31,7 +31,7 @@ Thang điểm: [[GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ l�
 
 Đầu ra Mục II: [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/02-muc-tieu-san-pham|mục 2]]. Căn cứ Phần I khi chấm bảng sai sót: [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/03-ban-do-tra-cuu-phan-i|mục 3]].
 
-Đáp án / hướng dẫn GV: Phụ lục 2 TAILIEU — file kèm, chưa catalog. Đối chiếu Mục VI khi chấm: [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/11-goc-ktnn-tam-rui-ro|mục 11]].
+Đáp án / hướng dẫn GV: [[TAILIEU/phu-luc-thuc-hanh/index|Phụ lục 2]] có hướng dẫn chung; đáp án chi tiết còn chờ nguồn. Đối chiếu Mục VI khi chấm: [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/11-goc-ktnn-tam-rui-ro|mục 11]].
 
 ## Nắm để làm
 

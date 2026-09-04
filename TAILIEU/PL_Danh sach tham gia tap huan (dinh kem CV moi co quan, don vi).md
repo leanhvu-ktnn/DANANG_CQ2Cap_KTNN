@@ -5,6 +5,9 @@ title: "PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi)"
 source: "PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi).pdf"
 format: pdf
 updated: 2026-09-01
+personal_data: true
+distribution: restricted
+distribution_note: "Chứa họ tên, chức vụ và cơ quan công tác; không đưa vào bản chia sẻ công khai."
 ---
 
 # PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi)
@@ -343,4 +346,3 @@ updated: 2026-09-01
 | 91 | Xã Đức Phú | Không đăng ký tham gia tập huấn |  |
 | 92 | Xã Tam Hải | Không đăng ký tham gia tập huấn |  |
 | 93 | Xã Phú Ninh | Không đăng ký tham gia tập huấn |  |
-

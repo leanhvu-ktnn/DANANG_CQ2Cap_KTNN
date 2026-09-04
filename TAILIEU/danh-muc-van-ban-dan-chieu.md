@@ -13,7 +13,7 @@ Trích **số hiệu** và **điều / khoản / điểm** từ 2 file `.md` (c�
 - [[TAILIEU/Tài liệu in cho học viên|Tài liệu in cho học viên]] (**HV**)
 - [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026|Cẩm nang 23.8.2026]] (**CN**)
 
-Bản copy INF + toàn văn: [[Vanbanquydinh/index|Vanbanquydinh]] (gồm bản đồ căn cứ). Gốc gói: [[index]] · Hub: [[TAILIEU/index|TAILIEU]].
+Bản copy INF + toàn văn: [[Vanbanquydinh/index|Vanbanquydinh]] (gồm bản đồ căn cứ). Gốc gói: [[hub-goi]] · Hub: [[TAILIEU/index|TAILIEU]].
 
 Không phải catalog hiệu lực. Số hiệu / Điều **theo cách viết trong file**. Kiểm tra `tinh_trang_hieu_luc` trước khi dùng.
 

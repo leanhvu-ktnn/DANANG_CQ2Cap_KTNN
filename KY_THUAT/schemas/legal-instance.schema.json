@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schemas/legal-instance.schema.json",
+  "title": "Hồ sơ văn bản pháp lý trong gói Đà Nẵng",
+  "type": "object",
+  "required": [
+    "type",
+    "van_ban_id",
+    "so_hieu",
+    "tinh_trang_hieu_luc"
+  ],
+  "properties": {
+    "okf_version": {
+      "type": "string"
+    },
+    "type": {
+      "const": "legal_instance"
+    },
+    "van_ban_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "so_hieu": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tinh_trang_hieu_luc": {
+      "enum": [
+        "Còn hiệu lực",
+        "Hết hiệu lực một phần",
+        "Hết hiệu lực toàn bộ",
+        "khong_xac_dinh"
+      ]
+    },
+    "hieu_luc_can_hau_kiem": {
+      "type": "boolean"
+    },
+    "verified_at": {
+      "type": "string",
+      "format": "date"
+    },
+    "verified_source": {
+      "type": "string"
+    },
+    "verification_note": {
+      "type": "string"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "tinh_trang_hieu_luc": {
+            "const": "khong_xac_dinh"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "hieu_luc_can_hau_kiem"
+        ],
+        "properties": {
+          "hieu_luc_can_hau_kiem": {
+            "const": true
+          }
+        }
+      }
+    }
+  ],
+  "additionalProperties": true
+}
+

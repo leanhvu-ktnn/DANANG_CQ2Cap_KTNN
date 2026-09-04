@@ -37,7 +37,7 @@ Ngày 10/10/2025, Chủ tịch UBND TP Đà Nẵng ban hành [[Vanbanquydinh/Da_
 
 Học viên Đà Nẵng: khi xử lý nghiệp vụ TSC, **không** chỉ mở Luật TSC và NĐ 186 — phải kiểm tra đồng thời thẩm quyền cụ thể đã phân cấp tại QĐ 61.
 
-Đây là VB địa phương trục của [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]] và [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]].
+Đây là VB địa phương trục của [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]] và [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]].
 
 ## Nắm để làm
 

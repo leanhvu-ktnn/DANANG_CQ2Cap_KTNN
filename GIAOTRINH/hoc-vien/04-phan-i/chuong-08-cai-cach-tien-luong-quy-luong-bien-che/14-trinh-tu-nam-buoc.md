@@ -49,4 +49,4 @@ Tờ trình dùng dư bắt đầu từ bước 1, không từ bước 4. CĐ 5 
 
 [[GIAOTRINH/hoc-vien/04-phan-i/chuong-08-cai-cach-tien-luong-quy-luong-bien-che/00-index|Chương 8]] · tiếp [[GIAOTRINH/hoc-vien/04-phan-i/chuong-08-cai-cach-tien-luong-quy-luong-bien-che/15-bang-nguon-nhu-cau-su-dung-con-lai|mục 15]].
 [[TAILIEU/Tài liệu in cho học viên#CHƯƠNG 8|Chương 8 trên TAILIEU]].
-[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05|CĐ 5]].
+[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/00-index|CĐ 5]].

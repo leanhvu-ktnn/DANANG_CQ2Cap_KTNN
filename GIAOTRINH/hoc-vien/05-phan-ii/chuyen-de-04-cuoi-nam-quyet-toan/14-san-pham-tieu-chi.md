@@ -29,7 +29,7 @@ PHẢI THỰC HÀNH. Năm sản phẩm = năm đầu ra Mục II. [[GIAOTRINH/ho
 
 Thang điểm: [[GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ lục 4]] — đạt tối thiểu 70/100 cho bài tổng hợp (đơn vị tổ chức lớp quyết định cụ thể).
 
-Đáp án / hướng dẫn GV: Phụ lục 2 TAILIEU — file kèm, chưa catalog. Đối chiếu Mục VI khi chấm.
+Đáp án / hướng dẫn GV: [[TAILIEU/phu-luc-thuc-hanh/index|Phụ lục 2]] có hướng dẫn chung; đáp án chi tiết còn chờ nguồn. Đối chiếu Mục VI khi chấm.
 
 ## Nắm để làm
 

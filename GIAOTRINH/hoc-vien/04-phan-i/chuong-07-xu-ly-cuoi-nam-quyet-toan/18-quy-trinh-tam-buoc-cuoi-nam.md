@@ -43,4 +43,4 @@ Lịch cuối năm: tám bước trên một trang. CĐ 4 năm bước là rút 
 
 [[GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/00-index|Chương 7]] · tiếp [[GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/19-goc-nhin-ktnn-bay-rui-ro|mục 19]].
 [[TAILIEU/Tài liệu in cho học viên#CHƯƠNG 7|Chương 7 trên TAILIEU]].
-[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04|CĐ 4]].
+[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index|CĐ 4]].

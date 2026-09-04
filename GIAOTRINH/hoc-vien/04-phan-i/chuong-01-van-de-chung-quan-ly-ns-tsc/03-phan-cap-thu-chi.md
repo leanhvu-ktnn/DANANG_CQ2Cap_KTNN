@@ -40,7 +40,7 @@ NQ này điều chỉnh đồng thời ba nhóm:
 2. Tỷ lệ phần trăm phân chia các khoản thu.
 3. Nguyên tắc, tiêu chí và định mức phân bổ DT chi TX của các cấp chính quyền thành phố.
 
-Đây là VB địa phương trục của [[GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/00-index|Chương 3]], [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01|CĐ 1]], [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02|CĐ 2]]. Chương 1 **chỉ xác lập nguyên tắc** — không diễn giải lại toàn bộ khoản thu và tỷ lệ (tránh trùng; không copy bảng tỷ lệ).
+Đây là VB địa phương trục của [[GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/00-index|Chương 3]], [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/00-index|CĐ 1]], [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/00-index|CĐ 2]]. Chương 1 **chỉ xác lập nguyên tắc** — không diễn giải lại toàn bộ khoản thu và tỷ lệ (tránh trùng; không copy bảng tỷ lệ).
 
 ## Nắm để làm
 

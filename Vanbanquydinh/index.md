@@ -2,17 +2,27 @@
 okf_version: "0.2"
 type: index
 title: "Văn bản quy định dẫn chiếu (copy INF + RAW)"
-updated: 2026-09-02
-tags: [Vanbanquydinh, Da_Nang, NSNN]
+updated: 2026-09-04
+tags: [Vanbanquydinh, Da_Nang, NSNN, TSC, chinh-quyen-2-cap]
 ---
 
 # Văn bản quy định dẫn chiếu
+
+## Ba nhánh tra cứu chính
+
+| Nhánh | Dùng khi cần | Số hồ sơ hiện tại |
+|---|---|---:|
+| [[Vanbanquydinh/NSNN/index|NSNN]] | Dự toán, chấp hành, kế toán, quyết toán, kiểm toán, nguồn và nhiệm vụ chi | 42 |
+| [[Vanbanquydinh/TSC/index|TSC]] | Đầu tư, mua sắm, quản lý, sử dụng, hao mòn và xử lý tài sản công | 22 |
+| [[Vanbanquydinh/Chinh_quyen_2_cap/index|Chính quyền 2 cấp]] | Tổ chức bộ máy, địa giới, phân định/phân cấp thẩm quyền và chuyển tiếp | 25 |
+
+Ba chỉ mục được sinh từ [[Vanbanquydinh/phan-nhanh.json|manifest phân nhánh]] bằng `scripts/rebuild_legal_branches.py`. Bản gốc của 71 hồ sơ vẫn ở nguyên thư mục số hiệu; một hồ sơ có thể xuất hiện ở nhiều nhánh.
 
 ## Đối tượng và mục đích
 
 Công chức xã / đơn vị dự toán TP cần *một Điều, một số hiệu* — không đọc hết catalog. Trang này trả lời: *mở nhóm nào trên bản đồ căn cứ, rồi vào thư mục số hiệu*.
 
-Mỗi số hiệu trong [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]] = một thư mục (64 HV/CN). Wisdom còn dẫn 4 số ngoài danh mục — đã copy INF+RAW: [[Vanbanquydinh/TW/Luat/2015/83-2015-QH13/index|83/2015/QH13 — Luật NSNN (trước)]] · [[Vanbanquydinh/TW/Luat/2015/81-2015-QH13/index|81/2015/QH13 — Luật KTNN]] · [[Vanbanquydinh/TW/Luat/2019/55-2019-QH14/index|55/2019/QH14 — sửa Luật KTNN]] · [[Vanbanquydinh/TW/Thong_tu/2026/01-2026-TT-KTNN/index|01/2026/TT-KTNN — Thông tư KTNN]]. Metadata từ INF; toàn văn copy RAW vào `toan-van`. Không lấy văn bản cùng số của tỉnh khác. Văn bản có Điều được HV/CN nêu: thư mục con `DieudiemDanchieu` (một file / Điều; `index.md` liệt kê hết).
+Phạm vi hiện có là **71 hồ sơ = 64 văn bản trong danh mục khóa học + 4 văn bản Wisdom bổ sung + 3 văn bản tổ chức chính quyền 2 cấp** (202/2025/QH15, 1659/NQ-UBTVQH15, 19/2025/QĐ-TTg). Metadata từ INF; toàn văn copy RAW vào `toan-van`. Không lấy văn bản cùng số của tỉnh khác. Văn bản có Điều được HV/CN nêu: thư mục con `DieudiemDanchieu` (một file / Điều; `index.md` liệt kê hết).
 
 ## Khi nào mở trang này
 
@@ -74,14 +84,14 @@ Xã/phường: `Tinh.Da_Nang.Xa_*` — [[TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-
 2. **Tự kiểm** — đọc `tinh_trang_hieu_luc` + Điều trong `DieudiemDanchieu` trước khi trích vào tờ trình.
 3. **Giải trình** — đưa path thư mục số hiệu + Điều; đối chiếu heading TAILIEU (buổi / CĐ) đã dẫn số đó.
 
-Gốc gói: [[index|Hub gói — lối vào nhu cầu]].
+Gốc gói: [[hub-goi|Hub gói — lối vào nhu cầu]].
 
 ## Tài liệu chính
 
 - [[TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026|Cẩm nang quản lý ngân sách xã]] — trình tự buổi, phân cấp–chi–quyết toán xã.
 - [[TAILIEU/Tài liệu in cho học viên|Tài liệu in cho học viên]] — góc KTNN, 05 chuyên đề, sổ tay tự kiểm.
 
-Số hiệu dưới đây = catalog 64 HV/CN + 4 số Wisdom. Danh mục nguồn: [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]].
+Số hiệu dưới đây gồm catalog 64 HV/CN + 4 số Wisdom; ba hồ sơ tổ chức chính quyền 2 cấp được đặt ở bản đồ và [[Vanbanquydinh/Chinh_quyen_2_cap/index|nhánh riêng]]. Tổng phạm vi: 71 hồ sơ. Danh mục nguồn: [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn bản dẫn chiếu]].
 
 ## Luật và văn bản hợp nhất
 
@@ -171,7 +181,7 @@ Số hiệu dưới đây = catalog 64 HV/CN + 4 số Wisdom. Danh mục nguồn
 
 ## Thống kê
 
-Catalog **chốt 64/64**. Trong đó **3** ngoài INF (toàn văn nguồn công khai — identity khóa học, không thay bằng số hiệu khác):
+Catalog khóa học **chốt 64/64**; toàn bộ kho pháp lý hiện có **71 hồ sơ = 64 catalog + 4 Wisdom + 3 chính quyền 2 cấp**. Trong 64 catalog có **3** ngoài INF (toàn văn nguồn công khai — identity khóa học, không thay bằng số hiệu khác):
 
 - [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/index|27-NQ/TW]] — CCTL (21/5/2018). Thực hiện 2026: [[Vanbanquydinh/TW/Thong_tu/2025/133-2025-TT-BTC/DieudiemDanchieu/Dieu-04|TT 133 Điều 4]], không thay số hiệu nghị quyết.
 - [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/index|57-NQ/TW]] — KHCN / ĐMST / CĐS (22/12/2024).
@@ -185,9 +195,9 @@ TBox: [[TAILIEU/ontology|Ontology TBox]]. ABox **trong từng thư mục số hi
 
 ## Liên kết
 
-- Hub: [[index|Hub gói — lối vào nhu cầu]] — chọn cửa việc trước khi mở catalog.
+- Hub: [[hub-goi|Hub gói — lối vào nhu cầu]] — chọn cửa việc trước khi mở catalog.
 - Tìm hiểu: [[TIMHIEU/index|Tìm hiểu — nắm → nghĩ → làm]] — chuỗi hỏi trước khi trích Điều.
 - Khái niệm: [[TIMHIEU/khai-niem/index|Khái niệm căn bản]] — gắn số hiệu với việc (thu, chi, TSC…).
-- Nghiên cứu: [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]] — vì sao copy 64+4, không đổ catalog KTNN. Ontology vs cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]].
+- Nghiên cứu: [[TIMHIEU/nghien-cuu/index|Nghiên cứu seed (Go)]] — phạm vi 64+4+3 và nguyên tắc không đổ catalog KTNN. Ontology vs cẩm nang: [[TIMHIEU/nghien-cuu/ontology-cam-nang|Vanbanquydinh + ontology so với cẩm nang]].
 - Giáo trình: [[GIAOTRINH/00-index|Giáo trình — hai trục]] — buổi / CĐ đã dẫn số hiệu.
 - Tài liệu: [[TAILIEU/index|Tài liệu tập huấn]] — file gốc cẩm nang + học viên.

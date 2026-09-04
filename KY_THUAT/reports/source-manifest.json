@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-04",
+  "algorithm": "sha256",
+  "records": [
+    {
+      "path": "TAILIEU/Cẩm nang quản lý ngân sách xã - 23.8.2026.docx",
+      "size_bytes": 120083,
+      "sha256": "bdc33bb5f74762e388d20e6d61d2856ff56c12fe330354c3944cd89df76c9e29"
+    },
+    {
+      "path": "TAILIEU/PL_Danh sach tham gia tap huan (dinh kem CV moi co quan, don vi).pdf",
+      "size_bytes": 296606,
+      "sha256": "439f33c85e8b75659dca30a1a8339cfa6905a6bcad5160fe7e3c5436b64b0e8c"
+    },
+    {
+      "path": "TAILIEU/Tài liệu in cho học viên.docx",
+      "size_bytes": 338373,
+      "sha256": "235075381f30d323931ef73f928580986e08b58421d9fcbbc05d513ab42f77c2"
+    },
+    {
+      "path": "Vanbanquydinh/TW/Luat/2015/83-2015-QH13/toan-van.pdf",
+      "size_bytes": 682818,
+      "sha256": "f8304ebe577c749b5978160d735a3abbd62f2811bf2fff3da53dac37be6bb532"
+    },
+    {
+      "path": "Vanbanquydinh/TW/Luat/2024/56-2024-QH15/toan-van.pdf",
+      "size_bytes": 1018411,
+      "sha256": "9152b4371d0c5fe588177c4ab55159f5b8880822434be351e7d1c76de4f0301f"
+    },
+    {
+      "path": "Vanbanquydinh/TW/Luat/2025/72-2025-QH15/toan-van.pdf",
+      "size_bytes": 526795,
+      "sha256": "da82939331f3a38f00d8ce9073e223586222b6ff02ac651f9b1e3b62319f84bf"
+    }
+  ]
+}

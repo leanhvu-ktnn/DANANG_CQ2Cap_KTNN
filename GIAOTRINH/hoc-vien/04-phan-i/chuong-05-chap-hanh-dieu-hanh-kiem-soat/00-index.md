@@ -73,7 +73,7 @@ Mở mục con khi đang điều hành, chi, đối chiếu hoặc chỉnh DT. D
 
 19. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/19-neu-chi-nho-nam-dieu|Nếu chỉ nhớ 5 điều]] — Năm câu chốt chương.
 
-20. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/20-can-cu-phap-ly-trong-tam|Căn cứ pháp lý trọng tâm]] — Bảng đủ TAILIEU + VBHN 89/VBHN-VPQH (chưa catalog).
+20. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/20-can-cu-phap-ly-trong-tam|Căn cứ pháp lý trọng tâm]] — Bảng đủ TAILIEU + [[Vanbanquydinh/TW/Van_ban_hop_nhat/2026/89-VBHN-VPQH/index|89/VBHN-VPQH]].
 
 ## Nắm để làm
 

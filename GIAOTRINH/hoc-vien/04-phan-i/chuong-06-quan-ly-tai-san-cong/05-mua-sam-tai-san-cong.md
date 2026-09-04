@@ -59,4 +59,4 @@ Chạy bảy câu bảng kiểm trước ký HĐ / trình mua. Thiếu «điều
 
 [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]] · tiếp [[GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/06-ghi-nhan-theo-doi-kiem-ke|mục 6]].
 [[TAILIEU/Tài liệu in cho học viên#CHƯƠNG 6|Chương 6 trên TAILIEU]].
-[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|CĐ 3]] cụm B.
+[[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|CĐ 3]] cụm B.

@@ -14,7 +14,7 @@ chuyen_de: 0
 
 ## Tinh thần
 
-Công cụ xuyên suốt Chương 5 và [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03|Chuyên đề 3]]. Ba chiều không khớp → dừng. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/00-index|Chương 5]].
+Công cụ xuyên suốt Chương 5 và [[GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|Chuyên đề 3]]. Ba chiều không khớp → dừng. [[GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/00-index|Chương 5]].
 
 ## Nội dung chương trình đem lại
 

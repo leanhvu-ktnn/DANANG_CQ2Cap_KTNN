@@ -24,7 +24,8 @@ nganh: null
 linh_vuc: null
 chuc_danh: Chủ nhiệm
 nguoi_ky: Lê Quang Mạnh
-tinh_trang_hieu_luc: null
+tinh_trang_hieu_luc: khong_xac_dinh
+hieu_luc_can_hau_kiem: true
 ngay_co_hieu_luc: null
 ngay_het_hieu_luc: null
 ngay_cap_nhat: '2026-06-11'

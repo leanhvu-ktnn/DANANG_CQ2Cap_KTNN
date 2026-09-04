@@ -1,6 +1,7 @@
 ---
 okf_version: '0.2'
 type: legal_instance
+van_ban_id: 1659/NQ-UBTVQH15|2025-06-16|UY BAN THUONG VU QUOC HOI
 title: 1659/NQ-UBTVQH15
 so_hieu: 1659/NQ-UBTVQH15
 ngay_ban_hanh: '2025-06-16'
