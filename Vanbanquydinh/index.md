@@ -51,6 +51,12 @@ Mỗi số hiệu trong [[TAILIEU/danh-muc-van-ban-dan-chieu|Danh mục văn b�
 - Định mức máy móc TP — [[Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/index|14/2026/QĐ-UBND — định mức máy móc]]
 - HĐLĐ GDĐT 2025–2026 — [[Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/14-NQ-HĐND/index|14/NQ-HĐND — HĐLĐ GDĐT]] (12/8/2025; không phải `14/2025/NQ-HĐND`)
 
+### Tổ chức bộ máy và địa giới Đà Nẵng (2 cấp)
+
+- Sáp nhập tỉnh Quảng Nam vào Đà Nẵng — [[Vanbanquydinh/TW/Nghi_quyet_QH/2025/202-2025-QH15/index|202/2025/QH15 — sáp nhập tỉnh]]
+- Danh mục 94 ĐVHC cấp xã TP Đà Nẵng — [[Vanbanquydinh/TW/Quyet_dinh_TTg/2025/19-2025-QĐ-TTg/index|19/2025/QĐ-TTg — danh mục ĐVHC]]
+- Sắp xếp ĐVHC cấp xã TP Đà Nẵng năm 2025 — [[Vanbanquydinh/TW/Nghi_quyet_UBTVQH/2025/1659-NQ-UBTVQH15/index|1659/NQ-UBTVQH15 — sắp xếp ĐVHC cấp xã]]
+
 CCTL / KHCN: [[Vanbanquydinh/TW/Nghi_quyet_TW/2018/27-NQ-TW/index|27-NQ/TW — CCTL]] · [[Vanbanquydinh/TW/Nghi_quyet_TW/2024/57-NQ-TW/index|57-NQ/TW — KHCN / ĐMST]].
 
 ### Cơ quan
