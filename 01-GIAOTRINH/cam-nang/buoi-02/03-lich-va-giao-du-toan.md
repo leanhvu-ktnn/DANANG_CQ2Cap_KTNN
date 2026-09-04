@@ -33,11 +33,11 @@ Hai lớp lịch.
 
 **[[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/71-2026-QĐ-UBND/index|QĐ 71]] Đà Nẵng** (lập / gửi — sớm hơn nhiều):
 
-- đơn vị dự toán cấp I xã gửi cơ quan tài chính xã chậm nhất **05/6**
+- đơn vị dự toán cấp I xã gửi [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] xã chậm nhất **05/6**
 - UBND xã gửi STC chậm nhất **15/6** (chi tiết ĐT / TX theo lĩnh vực, theo từng đơn vị)
 
 Giao DT: đơn vị dự toán cấp I phân bổ cho đơn vị sử dụng + đơn vị hạ tầng / ủy quyền chi — chi tiết lĩnh vực, nhiệm vụ.
-Gửi cơ quan tài chính + KBNN.
+Gửi [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] + KBNN.
 
 Phòng Kinh tế kiểm tra tổng mức + chi tiết lĩnh vực.
 Sai thì yêu cầu điều chỉnh chậm nhất **10 ngày làm việc**.

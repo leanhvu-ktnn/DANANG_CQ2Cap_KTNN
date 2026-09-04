@@ -19,7 +19,7 @@ Cửa riêng — không gộp vào mục lục/mã. Làm đúng TTHC mới đư�
 ## Nội dung chương trình đem lại
 
 - **§8** Thủ tục hành chính KBNN — [[04-Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/DieudiemDanchieu/Dieu-06|Điều 6. Thủ tục thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp; chi dự trữ quốc gia từ nguồn chi thường xuyên; các khoản viện trợ không hoàn lại bằng tiền do phía Việt Nam thực hiện bố trí từ nguồn chi thường xuyên và các khoản chi khác từ nguồn chi thường xuyên]] · [[04-Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/index|347/2025/NĐ-CP]]
-- Hồ sơ chi thường xuyên / CTMTQG từ nguồn sự nghiệp: đúng thành phần, đúng mẫu KBNN.
+- Hồ sơ [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|chi thường xuyên]] / CTMTQG từ nguồn sự nghiệp: đúng thành phần, đúng mẫu KBNN.
 
 ## Nắm để làm
 

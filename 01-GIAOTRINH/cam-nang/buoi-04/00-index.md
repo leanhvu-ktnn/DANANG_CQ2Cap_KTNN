@@ -40,8 +40,8 @@ Tờ trình HĐND có thuyết minh, không chỉ bảng.
 
 ## Khái niệm nghiệp vụ cần tra cứu
 
-- **Kết dư ngân sách cấp xã:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
-- **Dự toán chi còn lại của cấp ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 14 Điều 4 Luật 89]]
+- **Kết dư [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách cấp xã]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Dự toán chi còn lại]] của cấp ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 14 Điều 4 Luật 89]]
 
 ## Kỹ năng
 

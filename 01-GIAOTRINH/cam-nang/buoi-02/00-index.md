@@ -39,10 +39,10 @@ Không chi ngoài DT rồi «hợp thức».
 
 ## Khái niệm nghiệp vụ cần tra cứu
 
-- **Ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 17 Điều 4 Luật 89]]
-- **Quỹ ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 22 Điều 4 Luật 89]]
-- **Dự phòng ngân sách nhà nước:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 8 Điều 4 Luật 89]]
-- **Số bổ sung cân đối & Số bổ sung có mục tiêu:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 24, 25 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Ngân sách nhà nước]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 17 Điều 4 Luật 89]]
+- **Quỹ [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách nhà nước]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 22 Điều 4 Luật 89]]
+- **Dự phòng [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách nhà nước]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 8 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Số bổ sung cân đối]] & [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Số bổ sung có mục tiêu]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 24, 25 Điều 4 Luật 89]]
 
 ## Kỹ năng
 

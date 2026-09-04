@@ -14,9 +14,9 @@ buoi: 1
 
 ## Tinh thần
 
-Cẩm nang: phân cấp nguồn thu, nhiệm vụ chi ngân sách cấp xã; quy trình quản lý; thẩm quyền, trách nhiệm các chủ thể.
+Cẩm nang: phân cấp nguồn thu, nhiệm vụ chi [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách cấp xã]]; quy trình quản lý; thẩm quyền, trách nhiệm các chủ thể.
 
-Luyện **làm đúng** vị trí ngân sách cấp xã trong hệ thống hai cấp.
+Luyện **làm đúng** vị trí [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách cấp xã]] trong hệ thống hai cấp.
 [[01-GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]].
 
 ## Nội dung chương trình đem lại
@@ -45,10 +45,10 @@ Xong buổi mới sang lập DT (Buổi 2).
 
 ## Khái niệm nghiệp vụ cần tra cứu
 
-- **Ngân sách địa phương:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 19 Điều 4 Luật 89]]
-- **Ngân sách cấp xã (kết dư):** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
-- **Phân cấp quản lý ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 20 Điều 4 Luật 89]]
-- **Cơ quan tài chính & Cơ quan thu ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 9, 10 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Ngân sách địa phương]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 19 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Ngân sách cấp xã]] (kết dư):** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 16 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Phân cấp quản lý ngân sách]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 20 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Cơ quan tài chính]] & [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Cơ quan thu ngân sách]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 9, 10 Điều 4 Luật 89]]
 
 ## Kỹ năng
 

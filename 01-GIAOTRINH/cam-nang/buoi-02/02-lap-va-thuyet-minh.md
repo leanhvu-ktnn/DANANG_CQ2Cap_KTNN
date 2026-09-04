@@ -43,18 +43,18 @@ Thảo luận:
 - Phòng Kinh tế chủ trì với đơn vị cùng cấp.
 - Sở Tài chính chủ trì với UBND xã về thu trên địa bàn, chi NS xã, bổ sung cân đối / có mục tiêu.
 
-Khoản chưa đúng luật / chưa khớp khả năng NS: cơ quan tài chính yêu cầu điều chỉnh.
+Khoản chưa đúng luật / chưa khớp khả năng NS: [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] yêu cầu điều chỉnh.
 Còn bất đồng → UBND cùng cấp quyết.
 
 ## Điều đã dẫn — công chức nhớ gì
 
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-47|Điều 47 Luật 89]] — mỗi cấp / đơn vị chịu trách nhiệm phần mình lập.
   Không đổ «STC chưa giao số nên đơn vị không lập».
-- [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-12|Điều 12 NĐ 73]] — cơ quan thu (Thuế cơ sở) lập DT thu phạm vi quản lý, gửi cơ quan tài chính xã đúng hạn.
+- [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-12|Điều 12 NĐ 73]] — cơ quan thu (Thuế cơ sở) lập DT thu phạm vi quản lý, gửi [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] xã đúng hạn.
   Trước 15/6: chủ động nhắc Thuế cơ sở gửi DT thu địa bàn — thiếu số Thuế, tổng hợp xã không đủ căn cứ.
-  Đơn vị được giao thu phí / lệ phí / khoản khác: lập DT thu gửi cơ quan thuế *và* cơ quan tài chính cùng cấp.
+  Đơn vị được giao thu phí / lệ phí / khoản khác: lập DT thu gửi cơ quan thuế *và* [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] cùng cấp.
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-13|Điều 13 NĐ 73]] — chuỗi:
-  đơn vị sử dụng → đơn vị dự toán cấp trên (nếu không phải cấp I) → đơn vị dự toán cấp I → cơ quan tài chính cùng cấp.
+  đơn vị sử dụng → đơn vị dự toán cấp trên (nếu không phải cấp I) → đơn vị dự toán cấp I → [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] cùng cấp.
   Đơn vị hạ tầng / bảo trì: gửi cơ quan quản lý lĩnh vực để tổng hợp — không nộp thẳng STC.
   Lập phải đủ [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-44|Điều 44]] + khoản 2 [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-45|Điều 45]].
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-14|Điều 14 NĐ 73]] — xã: tài chính xã tổng hợp + lập DT cấp xã.

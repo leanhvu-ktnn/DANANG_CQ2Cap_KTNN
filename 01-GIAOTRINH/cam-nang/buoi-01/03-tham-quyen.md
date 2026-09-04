@@ -31,7 +31,7 @@ Cẩm nang vẽ một chuỗi:
 1. **HĐND** quyết định DT / phê chuẩn QT
 2. **UBND** tổ chức chấp hành, điều hành
 3. **Chủ tịch** điều hành hàng ngày, ký trong thẩm quyền đã phân
-4. **Phòng Kinh tế** (cơ quan tài chính xã) tham mưu, tổng hợp, kiểm tra
+4. **Phòng Kinh tế** ([[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] xã) tham mưu, tổng hợp, kiểm tra
 5. **đơn vị dự toán** lập số, chịu trách nhiệm số liệu và hồ sơ chi
 
 Trước khi ký một khoản: hỏi *ai được quyết khoản này*.
@@ -64,7 +64,7 @@ KBNN kiểm soát hồ sơ khi thanh toán.
   Một số việc phải họp UBND tập thể ([[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-40|Điều 40 Luật 72]]).
   Chủ tịch ký nhanh vẫn phải kiểm: việc này thuộc ủy quyền hay phải họp UBND?
   Một chữ ký Chủ tịch không đủ nếu thiếu nghị quyết / DT / thủ trưởng đơn vị.
-- [[04-Vanbanquydinh/TW/Thong_tu/2025/57-2025-TT-BTC/index|57/2025/TT-BTC]] — tổ chức, nhiệm vụ cơ quan tài chính cấp xã.
+- [[04-Vanbanquydinh/TW/Thong_tu/2025/57-2025-TT-BTC/index|57/2025/TT-BTC]] — tổ chức, nhiệm vụ [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] cấp xã.
   Phòng KT không chỉ «cộng số»:
   tổng hợp DT, thẩm tra QT vốn ĐT xã, thẩm định TSC trước khi Chủ tịch ký, phối hợp Thuế trên địa bàn.
   Không giữ quỹ ngoài kho.

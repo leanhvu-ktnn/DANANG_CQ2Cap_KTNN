@@ -13,7 +13,7 @@ buoi: 1
 
 ## Tinh thần
 
-Xác định đúng «ngân sách nhà nước» và chỗ của cấp xã trước khi bàn phân cấp. Không còn «huyện duyệt rồi xã làm». [[01-GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]] — làm đúng từ đầu.
+Xác định đúng «[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách nhà nước]]» và chỗ của cấp xã trước khi bàn phân cấp. Không còn «huyện duyệt rồi xã làm». [[01-GIAOTRINH/hoc-vien/00-triet-ly|Triết lý]] — làm đúng từ đầu.
 
 ## Nội dung chương trình đem lại
 
@@ -39,18 +39,18 @@ Không «trình huyện» như trước sáp nhập.
 ## Điều đã dẫn — công chức nhớ gì
 
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Điều 4 Luật 89]] — nhớ các nhóm từ:
-  - *chi thường xuyên* — bộ máy + nhiệm vụ thường xuyên
-  - *chi đầu tư phát triển* — ĐT công + chi ĐT khác
+  - *[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|chi thường xuyên]]* — bộ máy + nhiệm vụ thường xuyên
+  - *[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|chi đầu tư phát triển]]* — ĐT công + chi ĐT khác
   - *dự phòng* — khoản chưa phân bổ trong DT đã quyết định
   - *đơn vị dự toán* / *đơn vị sử dụng NS* — ai được giao số, ai chi trực tiếp
-  - *cơ quan tài chính cấp xã* — phòng tham mưu tài chính thuộc UBND xã
+  - *[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|cơ quan tài chính]] cấp xã* — phòng tham mưu tài chính thuộc UBND xã
   
   Trộn TX với ĐT hoặc gọi nhầm «dự phòng» = lập / chi sai nhóm.
   Khi ghi «chi sửa trụ sở»: xác định TX hay ĐT trước khi lập tờ trình.
   Ghi nhầm nhóm → KBNN / báo cáo sai cơ cấu.
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-06|Điều 6 Luật 89]] — khoản 1–2: NSNN = TW + địa phương; địa phương = tỉnh + xã.
   Không còn cấp huyện trong hệ thống NS.
-  Khi lập tờ trình, ghi đúng «ngân sách cấp xã» / «ngân sách thành phố».
+  Khi lập tờ trình, ghi đúng «[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|ngân sách cấp xã]]» / «ngân sách thành phố».
 - [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-21|Điều 21 Luật 72]] — HĐND xã quyết định việc thuộc thẩm quyền cấp xã (DT, phê chuẩn QT theo [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89]]).
   HĐND quyết DT / QT; UBND / Chủ tịch không thay HĐND quyết cơ cấu lĩnh vực đã nghị quyết.
   Không lấy thẩm quyền HĐND TP làm của xã.

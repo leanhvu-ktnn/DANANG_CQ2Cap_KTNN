@@ -26,7 +26,7 @@ Khóa sổ khi đã rõ nguyên nhân chênh lệch — không «khóa để k�
 
 Thu–chi hạch toán VNĐ, đầy đủ, đúng mục lục, đúng niên độ.
 
-Cơ quan tài chính được tạm đình chỉ chi đơn vị không báo cáo / QT đúng hạn.
+[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Cơ quan tài chính]] được tạm đình chỉ chi đơn vị không báo cáo / QT đúng hạn.
 KBNN tổ chức kế toán NS, tổng hợp số gửi tài chính.
 
 Khóa sổ cuối năm + lập BCKT.

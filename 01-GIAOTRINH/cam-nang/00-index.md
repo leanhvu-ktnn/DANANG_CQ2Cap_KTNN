@@ -16,7 +16,7 @@ buoi: 0
 
 Cẩm nang này là trục xương sống của hệ thống, được thiết kế đặc biệt dành cho Công chức xã/phường và đơn vị dự toán đang trực tiếp thực hiện nhiệm vụ thu, chi, lập và quyết toán ngân sách. 
 
-Mục tiêu tối thượng của Cẩm nang là giúp người học nắm bắt nhanh chóng và chính xác các **vấn đề cốt lõi nhất trong quản lý tài sản công và tài chính công** tại đơn vị, đảm bảo nguyên tắc: làm đúng ngay từ đầu, phòng ngừa rủi ro trước khi ký hồ sơ.
+Mục tiêu tối thượng của Cẩm nang là giúp người học nắm bắt nhanh chóng và chính xác các **vấn đề cốt lõi nhất trong quản lý [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|tài sản công]] và tài chính công** tại đơn vị, đảm bảo nguyên tắc: làm đúng ngay từ đầu, phòng ngừa rủi ro trước khi ký hồ sơ.
 
 ## Tính trung thực 100% so với Tài liệu gốc
 
@@ -26,7 +26,7 @@ Mục tiêu tối thượng của Cẩm nang là giúp người học nắm bắ
 
 ## Cấu trúc 4 Buổi học Cốt lõi
 
-Cẩm nang được thiết kế chính xác thành **4 buổi học**, phản ánh toàn bộ vòng đời của công tác quản lý tài chính và tài sản công:
+Cẩm nang được thiết kế chính xác thành **4 buổi học**, phản ánh toàn bộ vòng đời của công tác quản lý tài chính và [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|tài sản công]]:
 
 1. **[[01-GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1 — Phân cấp và Thẩm quyền]]:** Nắm vững thẩm quyền thu/chi, ai được quyền quyết định, đặc biệt khi áp dụng chính quyền 2 cấp.
 2. **[[01-GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2 — Lập và Phân bổ dự toán]]:** Cách lập, thuyết minh và bảo vệ dự toán đúng lịch, đúng nguồn, tuyệt đối không "ứng" ngoài dự toán.

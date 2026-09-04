@@ -42,10 +42,10 @@ Tách cửa TX ([[04-Vanbanquydinh/TW/Nghi_dinh/2025/347-2025-NĐ-CP/index|NĐ 3
 
 ## Khái niệm nghiệp vụ cần tra cứu
 
-- **Chi thường xuyên:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 5 Điều 4 Luật 89]]
-- **Chi đầu tư phát triển:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 3 Điều 4 Luật 89]]
-- **Quỹ tài chính nhà nước ngoài ngân sách:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 23 Điều 4 Luật 89]]
-- **Tài sản công & Tài sản chuyên dùng:** [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Khoản 1, 6 Điều 3 Luật 15]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Chi thường xuyên]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 5 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Chi đầu tư phát triển]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 3 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Quỹ tài chính nhà nước ngoài ngân sách]]:** [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-04|Khoản 23 Điều 4 Luật 89]]
+- **[[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Tài sản công]] & [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Tài sản chuyên dùng]]:** [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Khoản 1, 6 Điều 3 Luật 15]]
 
 ## Kỹ năng
 
