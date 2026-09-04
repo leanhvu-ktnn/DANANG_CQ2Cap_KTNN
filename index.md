@@ -9,13 +9,22 @@ apDungDiaBan: Da_Nang
 
 # Wiki Nghiệp vụ Công chức Đà Nẵng 
 
-Chào mừng bạn đến với Hệ thống Wiki tra cứu nghiệp vụ, được thiết kế chuyên biệt dành cho Công chức và Viên chức đang công tác tại thành phố Đà Nẵng. 
+Chào mừng bạn đến với Hệ thống Wiki tra cứu nghiệp vụ dành riêng cho Công chức và Viên chức đang công tác tại thành phố Đà Nẵng. 
 
-Hệ thống được xây dựng tối giản, trực quan, loại bỏ các lý thuyết luật pháp khô khan để giúp bạn trả lời nhanh các câu hỏi nghiệp vụ phát sinh hàng ngày trong quá trình làm việc, đặc biệt là trong bối cảnh Đà Nẵng đang chuyển mình sang **mô hình chính quyền địa phương 2 cấp**.
+Hệ thống này được xây dựng xuất phát từ khóa học tập huấn nghiệp vụ. Toàn bộ kiến thức lõi được tổ chức theo các tài liệu giảng dạy, đồng thời mở rộng thêm các vấn đề thực tiễn để phục vụ tra cứu hàng ngày. Đặc biệt, hệ thống được thiết kế tối ưu để bạn có thể **tìm kiếm và tra cứu các văn bản pháp lý một cách dễ dàng và nhanh chóng nhất.**
 
-## 5 Lĩnh vực Trọng tâm
+## 1. Nền tảng từ Khóa học (Giáo trình & Tài liệu)
 
-Vui lòng tra cứu theo 5 chuyên đề sát sườn nhất với bạn hiện nay:
+Hệ thống được xây dựng dựa trên nền tảng của khóa học, được chia thành hai phần chính:
+
+- **[[GIAOTRINH/00-index|Giáo trình]]:** Nơi chứa đựng cốt lõi của khóa học. Trong đó:
+  - **Trục Cẩm nang 4 buổi:** Là phần quan trọng nhất, chứa các quy trình và nghiệp vụ cốt lõi bắt buộc phải nắm vững.
+  - **Trục Tài liệu Học viên (05 Chuyên đề):** Là phần mở rộng dùng để tham khảo, giúp hình thành tư duy làm việc và tiếp cận theo góc nhìn của Kiểm toán Nhà nước.
+- **[[TAILIEU/index|Tài liệu]]:** Nơi lưu giữ lại toàn bộ các kết quả giảng dạy, biểu mẫu thực hành và phụ lục của khóa học trên.
+
+## 2. Tìm hiểu Mở rộng (5 Lĩnh vực Trọng tâm)
+
+Ngoài những kiến thức nền tảng của môn học, hệ thống còn cung cấp thêm các chuyên đề để bạn tìm hiểu sâu hơn về những vấn đề sát sườn nhất trong công việc hàng ngày, đặc biệt trong bối cảnh chuyển đổi sang mô hình **chính quyền địa phương 2 cấp**:
 
 1. **[[TIMHIEU/chinh-quyen-2-cap/index|Sự thay đổi thành Chính quyền 2 cấp]]**
    Tổ chức bộ máy mới, sự sáp nhập tỉnh Quảng Nam, và Hệ thống cơ quan, Phường/Xã hiện hành.
@@ -32,12 +41,8 @@ Vui lòng tra cứu theo 5 chuyên đề sát sườn nhất với bạn hiện 
 5. **[[TIMHIEU/tai-san-cong/index|Tài sản Công (TSC)]]**
    Quy trình mua sắm, điều chuyển và thanh lý tài sản nhà nước.
 
----
+## 3. Hệ thống Tra cứu Văn bản Pháp lý
 
-## Tài liệu Khóa học & Căn cứ Pháp lý
+Một trong những ưu tiên hàng đầu của hệ thống là khả năng tra cứu văn bản. Bạn không cần phải nhớ số hiệu hay ngày ban hành, hệ thống đã phân loại sẵn toàn bộ các quyết định, nghị quyết, thông tư tại:
 
-- **Căn cứ Pháp lý:** Nếu cần tra cứu văn bản gốc, toàn văn và các quyết định, bạn có thể xem tại nhánh **[[Vanbanquydinh/index|Văn bản quy định]]**.
-- **Giáo trình Tập huấn:** Bạn có thể xem slide và bài giảng tại **[[GIAOTRINH/00-index|Giáo trình]]** và **[[TAILIEU/index|Tài liệu tập huấn]]**.
-
-> [!NOTE]
-> Hệ thống đang trong quá trình liên tục được bồi đắp tri thức từ chính kinh nghiệm thực tiễn của các công chức trên địa bàn thành phố.
+👉 **[[Vanbanquydinh/index|Tra cứu Văn bản Quy định]]**
