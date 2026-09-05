@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+                "file": "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-index"
+              "title": "Dieu-23"
             }
           },
           {
@@ -204,11 +204,16 @@
   },
   "active": "793fe820d994ede2",
   "lastOpenFiles": [
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/11-ma-tran-trach-nhiem.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/04-can-doi-ns.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/03-phan-cap-thu-chi.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
+    "03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong.md",
+    "03-TIMHIEU/dich-vu-cong-truc-tuyen/index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
     "03-TIMHIEU/tai-san-cong/sua-chua-tai-san.md",
     "03-TIMHIEU/tai-san-cong/kiem-ke-tai-san.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/cong-khai-ngan-sach.md",
@@ -225,11 +230,6 @@
     "03-TIMHIEU/tai-san-cong/tieu-chuan-dinh-muc.md",
     "03-TIMHIEU/tai-san-cong/ban-tai-san.md",
     "03-TIMHIEU/tai-san-cong/khai-thac-tai-san.md",
-    "03-TIMHIEU/tai-san-cong/thanh-ly-tai-san.md",
-    "03-TIMHIEU/tai-san-cong/tru-so-lam-viec.md",
-    "03-TIMHIEU/tai-san-cong/tai-san-chuyen-dung.md",
-    "03-TIMHIEU/tai-san-cong/tai-san-cong.md",
-    "03-TIMHIEU/tai-san-cong/00-index.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",

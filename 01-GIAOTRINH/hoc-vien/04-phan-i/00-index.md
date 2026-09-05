@@ -12,13 +12,20 @@ chuyen_de: 0
 ---
 # Phần I — Bảng Điều Khiển Nền Tảng Pháp Lý
 
-## 3 Trụ cột sống còn của toàn hệ thống
-1. **Trụ cột 2 cấp (Không cấp Huyện):** Xã chịu trách nhiệm giải trình trực tiếp với Thành phố. Kế toán xã phải tự rà soát, không còn cấp huyện lọc lỗi hộ.
-2. **Trụ cột Dự toán (Quyền lực tối thượng):** Mọi khoản chi phải có trong dự toán. Bất kể lý do gì, chi ngoài dự toán = Xuất toán.
-3. **Trụ cột Phân cấp (Đúng người đúng việc):** Thu của cấp nào, cấp đó hưởng. Nhiệm vụ của cấp nào, ngân sách cấp đó chi. Không dùng tiền của Xã để chi cho việc của Thành phố.
+## 8 Trụ cột sống còn của toàn hệ thống
+Toàn bộ kiến thức của 8 chương được cô đọng lại thành 8 trụ cột mang tính nguyên tắc. Học viên bắt buộc phải nắm lòng các trụ cột này trước khi xử lý bất kỳ hồ sơ tài chính nào:
+
+1. **Trụ cột 2 cấp (Chương 1):** Xã chịu trách nhiệm giải trình trực tiếp với Thành phố. Kế toán xã phải tự rà soát số liệu, không còn cấp huyện lọc lỗi hộ.
+2. **Trụ cột Thẩm quyền (Chương 2):** Chủ tịch chịu trách nhiệm cao nhất về quản lý tài chính. Tuyệt đối không giao khoán trắng cho Kế toán, và Kế toán có quyền từ chối chi nếu sai nguyên tắc.
+3. **Trụ cột Phân cấp (Chương 3):** Đúng người đúng việc. Thu của cấp nào, cấp đó hưởng. Nhiệm vụ của cấp nào, ngân sách cấp đó chi. Không dùng tiền của Xã để chi cho việc của Thành phố.
+4. **Trụ cột Dự toán (Chương 4):** Mọi khoản chi phải có trong dự toán được HĐND giao. Chi ngoài dự toán = Xuất toán.
+5. **Trụ cột Kiểm soát (Chương 5):** Rút tiền phải qua 4 khiên chắn (Dự toán - Chế độ - Thẩm quyền - Hồ sơ). Kho bạc chỉ kiểm soát thanh toán, không thay thế kiểm soát nội bộ của UBND Xã.
+6. **Trụ cột Tài sản công (Chương 6):** Tài sản nhà nước phải gắn liền với trách nhiệm cá nhân. Phải quản lý theo định mức và cấm chia nhỏ gói thầu để lách luật.
+7. **Trụ cột Quyết toán (Chương 7):** Kết dư phải chuyển đúng nguồn, tiền hết nhiệm vụ phải nộp trả. Tuyệt đối cấm lập khống hồ sơ để chạy khối lượng cuối năm.
+8. **Trụ cột Quỹ lương (Chương 8):** Nguồn Cải cách tiền lương là "Bất khả xâm phạm". Dùng quỹ lương để chi cho sửa chữa hay hội nghị là sai phạm đặc biệt nghiêm trọng.
 
 ## Bức tranh toàn cảnh 8 Chương (Đọc để hình dung)
-Dưới đây là tóm tắt cốt lõi của 8 chương. Bạn hãy nhấp vào từng chương để xem bảng điều khiển siêu chi tiết (công thức & thông điệp lõi) của từng bài viết con bên trong.
+Dưới đây là link truy cập thẳng vào Bảng điều khiển siêu chi tiết của từng chương. Mỗi bảng điều khiển đã bóc tách chính xác 100% **Thông điệp lõi** và **Công thức sống còn** từ văn bản gốc, giúp bạn tra cứu "trúng đích" từng nghiệp vụ.
 
 | Chương | Điểm cốt lõi & Điều cần nhớ (Nhìn là hiểu) | Link tra cứu Dashboard chi tiết |
 | --- | --- | --- |
