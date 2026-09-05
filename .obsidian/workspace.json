@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/04-noi-dung-cot-loi.md",
+                "file": "01-GIAOTRINH/00-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-noi-dung-cot-loi"
+              "title": "00-index"
             }
           },
           {
@@ -218,8 +218,10 @@
   },
   "active": "793fe820d994ede2",
   "lastOpenFiles": [
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/03-ban-do-tra-cuu.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/00-index.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/04-noi-dung-cot-loi.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/03-ban-do-tra-cuu.md",
     "01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-04-tieu-chi-cham.md",
     "01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-03-phieu-giao-nhiem-vu.md",
     "01-GIAOTRINH/giang-vien/05-phan-ii",
@@ -244,8 +246,6 @@
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/11-ghi-chu-giang-vien.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/10-san-pham-tieu-chi.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/12-neu-chi-nho-5-dieu.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/10-san-pham-tieu-chi.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/12-neu-chi-nho-5-dieu.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
