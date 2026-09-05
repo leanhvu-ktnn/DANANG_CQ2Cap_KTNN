@@ -29,6 +29,12 @@ Căn cứ trực tiếp: [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Lu�
 
 Đối với phường, Điều 25 (mở [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Luật 72/index]] — chưa có file Dieudiem): UBND phường thực hiện nhiệm vụ, quyền hạn quy định tại Điều 22 và các nhiệm vụ, quyền hạn bổ sung phù hợp với đặc thù đô thị.
 
+> [!WARNING]
+> **Tuyệt đối không đánh đồng Xã và Phường:**
+> Mặc dù thường được gọi chung là "cấp xã", nhưng Xã là đơn vị hành chính nông thôn, còn Phường là đô thị. Học viên khi lập dự toán hoặc thẩm định chi ngân sách phải kiểm tra chéo với đặc thù địa bàn để tránh chi sai mục đích (ví dụ: Phường không chi phát triển nông nghiệp, Xã không chi chỉnh trang hạ tầng đô thị cao cấp). 
+> 
+> Xem phân tích chuyên sâu tại: [[03-TIMHIEU/chinh-quyen-2-cap/phan-biet-xa-phuong\|Phân biệt Xã và Phường trong Quản lý Tài chính]].
+
 Bên cạnh đó, Điều 14 (mở index Luật 72) quy định về ủy quyền: Chủ tịch UBND cấp xã có thể ủy quyền cho công chức thuộc UBND cấp mình thực hiện một hoặc một số nhiệm vụ, quyền hạn được giao theo quy định, trong phạm vi, thời hạn và điều kiện cụ thể, trừ trường hợp pháp luật không cho phép ủy quyền. Chi tiết kiểm tra: [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/07-uy-quyen|mục 7]].
 
 ### 1.2. Phân định thẩm quyền trong lĩnh vực tài chính

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23.md",
+                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/01-can-cu-phap-ly-phan-cap-thu-chi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dieu-23"
+              "title": "01-can-cu-phap-ly-phan-cap-thu-chi"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
+                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,15 +204,18 @@
   },
   "active": "793fe820d994ede2",
   "lastOpenFiles": [
+    "03-TIMHIEU/chinh-quyen-2-cap/phan-biet-xa-phuong.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+    "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/11-ma-tran-trach-nhiem.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/04-can-doi-ns.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/03-phan-cap-thu-chi.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong.md",
     "03-TIMHIEU/dich-vu-cong-truc-tuyen/index.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
     "03-TIMHIEU/tai-san-cong/sua-chua-tai-san.md",
     "03-TIMHIEU/tai-san-cong/kiem-ke-tai-san.md",
@@ -227,9 +230,6 @@
     "03-TIMHIEU/ngan-sach-nha-nuoc/so-bo-sung-ngan-sach.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/chi-thuong-xuyen-va-dau-tu.md",
-    "03-TIMHIEU/tai-san-cong/tieu-chuan-dinh-muc.md",
-    "03-TIMHIEU/tai-san-cong/ban-tai-san.md",
-    "03-TIMHIEU/tai-san-cong/khai-thac-tai-san.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
