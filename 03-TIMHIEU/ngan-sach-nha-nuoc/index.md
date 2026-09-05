@@ -2,7 +2,7 @@
 okf_version: "0.2"
 type: index
 title: "Góc Tìm hiểu: Ngân sách Nhà nước (NSNN)"
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [WISDOM, TIMHIEU, ngan_sach_nha_nuoc]
 apDungDiaBan: Da_Nang
 ---
@@ -19,17 +19,30 @@ Mời bạn bấm vào các chuyên đề dưới đây để nắm bắt các k
 ### 1. [[03-TIMHIEU/ngan-sach-nha-nuoc/khai-niem-ngan-sach|Ngân sách Nhà nước là gì?]]
 - Phân biệt Ngân sách nhà nước và Quỹ ngân sách nhà nước.
 - Nguồn tiền của NSNN từ đâu mà có? Vì sao các quỹ ngoài ngân sách không tuân theo luật NSNN?
-- *Liên kết Cẩm nang:* Bắt buộc đọc trước khi bước vào [[01-GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2: Lập và Phân bổ dự toán]].
 
-### 2. [[03-TIMHIEU/ngan-sach-nha-nuoc/chu-ky-ngan-sach|Chu kỳ Ngân sách (Một vòng đời)]]
-- Khái niệm về năm ngân sách.
-- 3 chặng đường: Lập dự toán ➔ Chấp hành dự toán ➔ Quyết toán ngân sách.
-- *Liên kết Cẩm nang:* Bức tranh toàn cảnh bao trùm toàn bộ từ [[01-GIAOTRINH/cam-nang/buoi-02/00-index|Buổi 2]] đến [[01-GIAOTRINH/cam-nang/buoi-04/00-index|Buổi 4]].
+### 2. [[03-TIMHIEU/ngan-sach-nha-nuoc/chi-thuong-xuyen-va-dau-tu|Chi Thường xuyên và Chi Đầu tư Phát triển]]
+- Phân biệt ranh giới giữa tiền "nuôi bộ máy" và tiền "xây dựng cơ bản".
+- Cảnh báo lỗi xuất toán kinh điển khi chi sai nguồn.
 
-### 3. [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|Phân cấp Quản lý NSNN (Đặc thù 2 cấp)]]
+### 3. [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán và Dự phòng Ngân sách]]
+- Giấy phép tiêu tiền (Dự toán) là gì? 
+- Quỹ khẩn cấp (Dự phòng) được dùng khi nào và ai có quyền quyết định?
+
+### 4. [[03-TIMHIEU/ngan-sach-nha-nuoc/so-bo-sung-ngan-sach|Số bổ sung Ngân sách (Cân đối & Có mục tiêu)]]
+- Tiền Thành phố "rót" xuống Xã/Phường gồm những loại nào?
+- Phân biệt tính chất tự do (cân đối) và trói buộc (có mục tiêu) để tránh bị thu hồi ngân sách.
+
+### 5. [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|Kết dư và Chuyển nguồn Ngân sách]]
+- Tiền thừa cuối năm (31/12) đi đâu?
+- Khi nào được chuyển nguồn sang năm sau, khi nào phải nộp trả cấp trên?
+
+### 6. [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|Phân cấp Quản lý NSNN (Đặc thù 2 cấp)]]
 - Nguyên tắc phân chia nguồn thu và nhiệm vụ chi giữa các cấp chính quyền.
 - Điều gì thay đổi khi phường/xã tại Đà Nẵng nộp thẳng ngân sách lên thành phố (mô hình 2 cấp)?
-- *Liên kết Cẩm nang:* Khớp nối trực tiếp với [[01-GIAOTRINH/cam-nang/buoi-01/00-index|Buổi 1: Phân cấp và Thẩm quyền]].
+
+### 7. [[03-TIMHIEU/ngan-sach-nha-nuoc/chu-ky-ngan-sach|Chu kỳ Ngân sách (Một vòng đời)]]
+- Khái niệm về năm ngân sách.
+- 3 chặng đường: Lập dự toán ➔ Chấp hành dự toán ➔ Quyết toán ngân sách.
 
 ---
 
