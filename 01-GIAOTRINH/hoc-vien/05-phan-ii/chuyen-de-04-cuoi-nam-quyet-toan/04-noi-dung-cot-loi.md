@@ -10,6 +10,7 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe4]
 
 1. Trình tự xử lý cuối năm - 5 bước
 Trình tự này cố định, không đảo bước. Đảo bước là nguyên nhân của phần lớn vướng mắc ở khâu [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]].
+
 | Bước | Việc phải làm | Không làm được nếu |
 | :--- | :--- | :--- |
 | Bước 1 - Rà soát nhiệm vụ | Xác định nhiệm vụ nào đã hoàn thành, đang dở dang, không còn thực hiện | - |
