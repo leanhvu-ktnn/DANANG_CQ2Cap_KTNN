@@ -35,8 +35,7 @@
               "title": "00-index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,12 +202,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b145cb808695d68",
+  "active": "793fe820d994ede2",
   "lastOpenFiles": [
-    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
     "03-TIMHIEU/tai-san-cong/sua-chua-tai-san.md",
     "03-TIMHIEU/tai-san-cong/kiem-ke-tai-san.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/cong-khai-ngan-sach.md",
@@ -218,7 +218,6 @@
     "03-TIMHIEU/vi-tri-viec-lam/pho-chu-tich.md",
     "03-TIMHIEU/vi-tri-viec-lam/chu-tich-ubnd.md",
     "03-TIMHIEU/vi-tri-viec-lam/00-index.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/so-bo-sung-ngan-sach.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong.md",
