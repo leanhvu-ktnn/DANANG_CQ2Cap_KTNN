@@ -54,3 +54,20 @@ Hướng dẫn cấp xã về quản lý trật tự xây dựng, cấp phép x�
 - Đơn vị quá khứ: [[03-TIMHIEU/co-quan/qua-khu/index|Cơ quan quá khứ]]
 - Nghiệp vụ 2 cấp: [[03-TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]]
 - Quy ước wikilink: [[quy-uoc-link|Quy ước wikilink]]
+
+## Sổ tay Nghiệp vụ: Giải quyết TTHC & Dịch vụ công
+
+Dưới đây là bảng phân rã nhiệm vụ chi tiết theo từng Vị trí việc làm (VTVL) tại cơ quan:
+
+### 1. Bộ phận Một cửa / Tổ chức, cá nhân
+
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014048-cap-giay-phep-thi-cong-cac-cong-trinh-sua-chua-cai|Cấp Giấy phép thi công các công trình sửa chữa, cải tạo nâng cấp đường …]] (DVC Toàn trình)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014049-cap-giay-phep-thi-cong-duong-ngang-dau-noi-vao-duo|Cấp Giấy phép thi công đường ngang đấu nối vào đường chính đang khai th…]] (DVC Một phần / Truyền thống)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014042-cap-giay-phep-thi-cong-lap-dat-cong-trinh|Cấp Giấy phép thi công lắp đặt công trình]] (DVC Toàn trình)
+- **Sau khi nhận hồ...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014051-cap-giay-phep-thi-cong-lap-dat-bang-quang-cao-tron|Cấp Giấy phép thi công lắp đặt bảng quảng cáo trong phạm vi đất dành ch…]] (DVC Một phần / Truyền thống)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014050-cap-giay-phep-thi-cong-xu-ly-su-co-dot-xuat-ve-ky-|Cấp Giấy phép thi công Xử lý sự cố đột xuất về kỹ thuật của các công tr…]] (DVC Một phần / Truyền thống)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014029-cap-giay-phep-cho-phuong-tien-van-tai-vao-duong-ca|Cấp Giấy phép cho phương tiện vận tải vào đường cấm; dừng, đỗ xe tại kh…]] (DVC Toàn trình)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014038-cap-giay-phep-cho-phuong-tien-van-tai-ra-vao-thanh|Cấp Giấy phép cho phương tiện vận tải ra vào thành phố Đà Nẵng (giờ cao…]] (DVC Một phần / Truyền thống)
+- **Sau khi cơ quan...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.013315-cap-giay-phep-xay-dung-co-thoi-han-doi-voi-cac-con|Cấp Giấy phép xây dựng có thời hạn đối với các công trình công cộng bao…]] (DVC Một phần / Truyền thống)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-xay-dung/1.014040-cap-giay-phep-cho-phuong-tien-van-tai-phuc-vu-giai|Cấp Giấy phép cho phương tiện vận tải phục vụ giải quyết sự cố]] (DVC Toàn trình)
+

@@ -54,3 +54,15 @@ Phối hợp quản lý các dự án viện trợ phi chính phủ nước ngo�
 - Đơn vị quá khứ: [[03-TIMHIEU/co-quan/qua-khu/index|Cơ quan quá khứ]]
 - Nghiệp vụ 2 cấp: [[03-TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]]
 - Quy ước wikilink: [[quy-uoc-link|Quy ước wikilink]]
+
+## Sổ tay Nghiệp vụ: Giải quyết TTHC & Dịch vụ công
+
+Dưới đây là bảng phân rã nhiệm vụ chi tiết theo từng Vị trí việc làm (VTVL) tại cơ quan:
+
+### 1. Bộ phận Một cửa / Tổ chức, cá nhân
+
+- **Bước 1: CBCCVC, NLĐ...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-ngoai-vu/1.010125-trinh-cap-phep-xuat-nhap-canh-cho-can-bo-cong-chuc|Trình cấp phép xuất nhập cảnh cho cán bộ, công chức, viên chức, người l…]] (DVC Một phần / Truyền thống)
+- **Bước 1: CBCCVC,NLĐ hoàn...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-ngoai-vu/1.010125-trinh-cap-phep-xuat-nhap-canh-cho-can-bo-cong-chuc|Trình cấp phép xuất nhập cảnh cho cán bộ, công chức, viên chức, người l…]] (DVC Một phần / Truyền thống)
+- **Bước 1: Các cơ...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-ngoai-vu/1.010126-trinh-khen-thuong-doi-ngoai-doi-voi-cac-to-chuc-va|Trình khen thưởng đối ngoại đối với các tổ chức và cá nhân nước ngoài, …]] (DVC Một phần / Truyền thống)
+- **Bước 1: Các cơ...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-ngoai-vu/1.010126-trinh-khen-thuong-doi-ngoai-doi-voi-cac-to-chuc-va|Trình khen thưởng đối ngoại đối với các tổ chức và cá nhân nước ngoài, …]] (DVC Một phần / Truyền thống)
+

@@ -54,3 +54,17 @@ Sở Nông nghiệp và Môi trường là cơ quan chuyên môn thuộc UBND th
 - Đơn vị quá khứ: [[03-TIMHIEU/co-quan/qua-khu/index|Cơ quan quá khứ]]
 - Nghiệp vụ 2 cấp: [[03-TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]]
 - Quy ước wikilink: [[quy-uoc-link|Quy ước wikilink]]
+
+## Sổ tay Nghiệp vụ: Giải quyết TTHC & Dịch vụ công
+
+Dưới đây là bảng phân rã nhiệm vụ chi tiết theo từng Vị trí việc làm (VTVL) tại cơ quan:
+
+### 1. Bộ phận Một cửa / Tổ chức, cá nhân
+
+- **Bước 1: Chủ tàu...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-nong-nghiep-va-ptnt/1.008647-ho-tro-ve-kinh-phi-bao-hiem-than-tau-thiet-bi-giam|Hỗ trợ về kinh phí bảo hiểm thân tàu; thiết bị giám sát hành trình lắp …]] (DVC Một phần / Truyền thống)
+- **Bước 1: Tổ chức,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-nong-nghiep-va-ptnt/1.012312-thuc-hien-chinh-sach-ho-tro-phat-trien-nong-nghiep|Thực hiện chính sách hỗ trợ phát triển nông nghiệp, nông thôn]] (DVC Một phần / Truyền thống)
+
+### 2. Chuyên viên thụ lý
+
+- **Bước 1: Sau khi...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-nong-nghiep-va-ptnt/1.012313-nghiem-thu-va-thanh-toan-kinh-phi-ho-tro-doi-tuong|Nghiệm thu và thanh toán kinh phí hỗ trợ đối tượng tham gia chính sách …]] (DVC Một phần / Truyền thống)
+

@@ -54,3 +54,13 @@ Hướng dẫn cấp xã về quản lý di tích lịch sử - văn hóa địa
 - Đơn vị quá khứ: [[03-TIMHIEU/co-quan/qua-khu/index|Cơ quan quá khứ]]
 - Nghiệp vụ 2 cấp: [[03-TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]]
 - Quy ước wikilink: [[quy-uoc-link|Quy ước wikilink]]
+
+## Sổ tay Nghiệp vụ: Giải quyết TTHC & Dịch vụ công
+
+Dưới đây là bảng phân rã nhiệm vụ chi tiết theo từng Vị trí việc làm (VTVL) tại cơ quan:
+
+### 1. Bộ phận Một cửa / Tổ chức, cá nhân
+
+- **Bước 1: Doanh nghiệp...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-van-hoa-va-the-thao/1.010105-xac-nhan-du-dieu-kien-nhap-khau-danh-muc-doi-voi-d|Xác nhận đủ điều kiện nhập khẩu danh mục đối với đồ chơi trẻ em, máy mó…]] (DVC Toàn trình)
+- **Bước 1: Sau khi...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-van-hoa-va-the-thao/1.010104-xac-nhan-du-dieu-kien-nhap-khau-may-tro-choi-dien-|Xác nhận đủ điều kiện nhập khẩu máy trò chơi điện tử có cài đặt chương …]] (DVC Toàn trình)
+

@@ -54,3 +54,12 @@ Chỉ đạo chuyên môn mạng lưới 94 trạm y tế xã/phường, đảm 
 - Đơn vị quá khứ: [[03-TIMHIEU/co-quan/qua-khu/index|Cơ quan quá khứ]]
 - Nghiệp vụ 2 cấp: [[03-TIMHIEU/hang-ngay/chinh-quyen-2-cap-da-nang/index|Chính quyền 2 cấp Đà Nẵng]]
 - Quy ước wikilink: [[quy-uoc-link|Quy ước wikilink]]
+
+## Sổ tay Nghiệp vụ: Giải quyết TTHC & Dịch vụ công
+
+Dưới đây là bảng phân rã nhiệm vụ chi tiết theo từng Vị trí việc làm (VTVL) tại cơ quan:
+
+### 1. Bộ phận Một cửa / Tổ chức, cá nhân
+
+- **- Bước 1: Cha,...**: [[03-TIMHIEU/thu-tuc-hanh-chinh-va-dvc/cap-so-ban-nganh/so-y-te/1.008999-chinh-sach-ho-tro-phau-thuat-tim-cho-tre-em-bi-ben|Chính sách hỗ trợ phẫu thuật tim cho trẻ em bị bệnh tim bẩm sinh]] (DVC Một phần / Truyền thống)
+
