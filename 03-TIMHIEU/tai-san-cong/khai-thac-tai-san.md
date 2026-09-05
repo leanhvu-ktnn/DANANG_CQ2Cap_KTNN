@@ -17,5 +17,5 @@ apDungDiaBan: Da_Nang
 
 **Dẫn chiếu pháp luật:**
 - [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Khoản 9 Điều 3 Luật 15/2017/QH14]]: Sử dụng tài sản công để liên doanh, liên kết.
-- Các quy định tại phân cấp [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|Quyết định 61/2025/QĐ-UBND]] của Đà Nẵng.
+- Các quy định tại phân cấp về khai thác tài sản công theo thẩm quyền Đà Nẵng: [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-07|Điều 7 Quyết định 61/2025/QĐ-UBND]].
 

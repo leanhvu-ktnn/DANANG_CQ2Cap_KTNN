@@ -16,5 +16,6 @@ Khi một tài sản công (như xe máy, máy tính) đã hết hạn sử dụ
 - Phải thành lập Hội đồng thanh lý, định giá và xử lý tài sản đúng quy trình. Lỗi phổ biến nhất là tự ý đem bán máy tính, điều hòa hỏng cho thợ thu mua phế liệu mà không lập biên bản thanh lý và không hạch toán giảm tài sản trên sổ sách.
 
 **Dẫn chiếu pháp luật:**
-- Quy định chi tiết tại [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-10|Điều 10 Luật 15/2017/QH14]] (Các hành vi bị nghiêm cấm) và các văn bản phân cấp của UBND TP Đà Nẵng.
+- Quy định chi tiết tại [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-10|Điều 10 Luật 15/2017/QH14]] (Các hành vi bị nghiêm cấm).
+- Phân cấp thẩm quyền quyết định thanh lý tài sản công tại Đà Nẵng: [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-13|Điều 13 Quyết định 61/2025/QĐ-UBND]].
 

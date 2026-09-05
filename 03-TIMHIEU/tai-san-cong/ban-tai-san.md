@@ -16,4 +16,5 @@ Quy trình đấu giá tài sản công cực kỳ phức tạp và liên quan �
 
 **Dẫn chiếu pháp luật:**
 - [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-03|Khoản 7, 8 Điều 3 Luật 15/2017/QH14]]: Giải thích Đấu giá tài sản công và Bán trực tiếp tài sản công.
+- Phân cấp thẩm quyền quyết định bán tài sản công tại Đà Nẵng: [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-11|Điều 11 Quyết định 61/2025/QĐ-UBND]].
 
