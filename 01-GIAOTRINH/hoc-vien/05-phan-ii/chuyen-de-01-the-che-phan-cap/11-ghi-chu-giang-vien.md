@@ -13,7 +13,7 @@ Tiết
 Nội dung
 Phương pháp
 Tiết 1 (45 phút)
-Tình huống khởi động; ba câu hỏi nền; cách đọc văn bản phân cấp - quy trình 4 bước (Mục I, II, III, IV.1, IV.2)
+Tình huống khởi động; ba câu hỏi nền; cách đọc văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] - quy trình 4 bước (Mục I, II, III, IV.1, IV.2)
 Nêu vấn đề, thảo luận nhóm
 Tiết 2 (45 phút)
 Ba nhóm khoản thu A/B/C (Mục IV.3) - 10 phút. THỰC HÀNH TH1 (20 phút) và TH2 (15 phút)

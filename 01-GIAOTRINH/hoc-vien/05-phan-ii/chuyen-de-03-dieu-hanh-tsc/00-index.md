@@ -1,15 +1,15 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 3 - ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ TÀI SẢN CÔNG"
+title: "Chuyên đề 3 - ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ [[03-TIMHIEU/tai-san-cong/tai-san-cong|TÀI SẢN CÔNG]]"
 updated: 2026-09-05
 tags: [GIAOTRINH, Da_Nang, ChuyenDe3]
 ---
 
 CHUYÊN ĐỀ 3
-ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ TÀI SẢN CÔNG
-Thời lượng: 05 tiết. Trục chính đã khóa: kiểm soát hồ sơ chi và tài sản công trong quá trình chấp hành ngân sách. Nội dung đầu tư xây dựng cơ bản chỉ lấy một số rủi ro trọng yếu ở khâu kiểm soát hồ sơ thanh toán khối lượng; không triển khai thành nội dung độc lập về đầu tư công, xây dựng, đấu thầu.
-Lưu ý thiết kế: đây là chuyên đề có khối lượng nghiệp vụ lớn nhất trong 05 chuyên đề. Để bảo đảm chiều sâu trong 05 tiết, nội dung được tổ chức thành hai cụm - Cụm A: kiểm soát hồ sơ chi; Cụm B: quản lý tài sản công. Mỗi cụm có phương pháp kiểm soát riêng, không dạy dàn trải theo từng nghiệp vụ rời rạc.
+ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ [[03-TIMHIEU/tai-san-cong/tai-san-cong|TÀI SẢN CÔNG]]
+Thời lượng: 05 tiết. Trục chính đã khóa: kiểm soát hồ sơ chi và [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]] trong quá trình chấp hành ngân sách. Nội dung đầu tư xây dựng cơ bản chỉ lấy một số rủi ro trọng yếu ở khâu kiểm soát hồ sơ thanh toán khối lượng; không triển khai thành nội dung độc lập về đầu tư công, xây dựng, đấu thầu.
+Lưu ý thiết kế: đây là chuyên đề có khối lượng nghiệp vụ lớn nhất trong 05 chuyên đề. Để bảo đảm chiều sâu trong 05 tiết, nội dung được tổ chức thành hai cụm - Cụm A: kiểm soát hồ sơ chi; Cụm B: quản lý [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]]. Mỗi cụm có phương pháp kiểm soát riêng, không dạy dàn trải theo từng nghiệp vụ rời rạc.
 Nhóm
 Loại nội dung
 Mục thuộc chuyên đề này

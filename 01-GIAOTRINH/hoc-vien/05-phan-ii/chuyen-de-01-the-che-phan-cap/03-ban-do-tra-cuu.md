@@ -11,7 +11,7 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe1]
 Chuyên đề không giảng lại quy định. Học viên mở đúng mục tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]] khi cần tra cứu.
 Nội dung cần tra
 Vị trí tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]]
-Nguyên tắc phân cấp nguồn thu, nhiệm vụ chi
+Nguyên tắc [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] nguồn thu, nhiệm vụ chi
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/00-index|Chương 3]], mục 1
 Các khoản thu cấp xã được hưởng 100%
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/00-index|Chương 3]], mục 2

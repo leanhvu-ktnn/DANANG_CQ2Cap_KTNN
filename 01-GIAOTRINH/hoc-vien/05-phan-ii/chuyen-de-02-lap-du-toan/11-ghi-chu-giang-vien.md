@@ -22,7 +22,7 @@ Tiết 3 (45 phút)
 Phân tích dữ liệu nhiều năm (Mục IV.3) - 15 phút. THỰC HÀNH TH2 (25 phút)
 Hướng dẫn kỹ thuật, làm việc nhóm
 Tiết 4 (45 phút)
-Thuyết minh dự toán (Mục IV.4) - 10 phút. THỰC HÀNH TH3 (15 phút) và TH4 (20 phút)
+Thuyết minh [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] (Mục IV.4) - 10 phút. THỰC HÀNH TH3 (15 phút) và TH4 (20 phút)
 Thực hành, chấm chéo
 Tiết 5 (45 phút)
 Góc nhìn theo vị trí và Góc nhìn KTNN (Mục V, VI) - 10 phút. Bài tổng hợp (30 phút). Chốt (5 phút)

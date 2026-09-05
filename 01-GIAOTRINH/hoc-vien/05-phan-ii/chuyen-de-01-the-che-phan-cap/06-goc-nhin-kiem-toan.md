@@ -9,16 +9,16 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe1]
 # Mục VI. Góc nhìn Kiểm toán nhà nước
 
 Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua thực tiễn kiểm toán, đã được ẩn danh. Đây không phải kết luận kiểm toán chính thức đối với bất kỳ đơn vị nào. Mỗi rủi ro trình bày theo bốn lớp: rủi ro - dấu hiệu nhận biết - cách kiểm tra - cách tự kiểm soát.
-Rủi ro 1. Hiểu sai phạm vi nguồn thu, nhiệm vụ chi được phân cấp
-Vì sao nội dung này cần được rà soát kỹ: đây là điểm xuất phát của cả chu trình. Xác định sai phạm vi được phân cấp ngay từ đầu năm làm sai lệch mọi khâu phía sau - dự toán, điều hành, quyết toán.
+Rủi ro 1. Hiểu sai phạm vi nguồn thu, nhiệm vụ chi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]]
+Vì sao nội dung này cần được rà soát kỹ: đây là điểm xuất phát của cả chu trình. Xác định sai phạm vi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] ngay từ đầu năm làm sai lệch mọi khâu phía sau - [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]], điều hành, [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]].
 Lớp
 Nội dung
 Dấu hiệu nhận biết
-Danh mục nguồn thu của đơn vị không trùng với danh mục tại nghị quyết phân cấp hiện hành; xuất hiện khoản thu không rõ căn cứ được hưởng.
+Danh mục nguồn thu của đơn vị không trùng với danh mục tại nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] hiện hành; xuất hiện khoản thu không rõ căn cứ được hưởng.
 Cách kiểm tra
-Đối chiếu danh mục nguồn thu đơn vị đang áp dụng với nghị quyết phân cấp đang có hiệu lực; kiểm tra từng khoản có thuộc phạm vi được phân cấp cho cấp xã hay không.
+Đối chiếu danh mục nguồn thu đơn vị đang áp dụng với nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] đang có hiệu lực; kiểm tra từng khoản có thuộc phạm vi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] cho cấp xã hay không.
 Cách tự kiểm soát trước
-Lập và cập nhật “Trang tra cứu phân cấp của đơn vị” (Mục IV.2); rà lại mỗi khi có văn bản phân cấp mới.
+Lập và cập nhật “Trang tra cứu [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] của đơn vị” (Mục IV.2); rà lại mỗi khi có văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] mới.
 
 Rủi ro 2. Tỷ lệ phân chia áp dụng không phù hợp với địa bàn
 Vì sao đây là rủi ro có khả năng lan truyền sang các khâu sau: tỷ lệ sai làm sai trực tiếp số tiền ngân sách xã được hưởng; nếu kéo dài nhiều kỳ, số phải điều chỉnh, hoàn trả giữa các cấp ngân sách có thể lớn và khó xử lý dứt điểm.
@@ -27,12 +27,12 @@ Nội dung
 Dấu hiệu nhận biết
 Số thực nhận biến động bất thường so với số thu phát sinh; số liệu Thuế - Kho bạc Nhà nước - tài chính cấp xã không khớp.
 Cách kiểm tra
-Đối chiếu theo chuỗi: nghị quyết phân cấp rồi đến dòng tỷ lệ của đúng địa bàn rồi đến tỷ lệ đang cấu hình trên hệ thống rồi đến số thực nhận.
+Đối chiếu theo chuỗi: nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] rồi đến dòng tỷ lệ của đúng địa bàn rồi đến tỷ lệ đang cấu hình trên hệ thống rồi đến số thực nhận.
 Cách tự kiểm soát trước
 Đối chiếu định kỳ với Kho bạc Nhà nước; lập biên bản ngay khi phát hiện chênh lệch, không để tồn đọng sang kỳ sau.
 
-Rủi ro 3. Áp dụng văn bản phân cấp đã hết hiệu lực
-Vì sao đây là rủi ro có tính hệ thống: khác với một khoản chi sai đơn lẻ, áp dụng nhầm văn bản phân cấp làm sai toàn bộ số liệu xây dựng trên đó; phát hiện càng muộn thì khối lượng phải làm lại càng lớn.
+Rủi ro 3. Áp dụng văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] đã hết hiệu lực
+Vì sao đây là rủi ro có tính hệ thống: khác với một khoản chi sai đơn lẻ, áp dụng nhầm văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] làm sai toàn bộ số liệu xây dựng trên đó; phát hiện càng muộn thì khối lượng phải làm lại càng lớn.
 Lớp
 Nội dung
 Dấu hiệu nhận biết

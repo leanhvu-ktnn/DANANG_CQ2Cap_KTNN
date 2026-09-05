@@ -1,14 +1,14 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 2 - LẬP DỰ TOÁN NGÂN SÁCH CẤP XÃ"
+title: "Chuyên đề 2 - LẬP [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|DỰ TOÁN]] NGÂN SÁCH CẤP XÃ"
 updated: 2026-09-05
 tags: [GIAOTRINH, Da_Nang, ChuyenDe2]
 ---
 
 CHUYÊN ĐỀ 2
-LẬP DỰ TOÁN NGÂN SÁCH CẤP XÃ
-Thời lượng: 05 tiết. Phạm vi đã khóa: chuyên đề chịu trách nhiệm toàn bộ về rà soát nguồn thu, phương pháp lập dự toán, phân tích dữ liệu, thuyết minh và phân bổ, giao dự toán. Nội dung về phạm vi phân cấp và tỷ lệ phân chia đã học tại Chuyên đề 1, không trình bày lại.
+LẬP [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|DỰ TOÁN]] NGÂN SÁCH CẤP XÃ
+Thời lượng: 05 tiết. Phạm vi đã khóa: chuyên đề chịu trách nhiệm toàn bộ về rà soát nguồn thu, phương pháp lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]], phân tích dữ liệu, thuyết minh và phân bổ, giao [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]]. Nội dung về phạm vi [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] và tỷ lệ phân chia đã học tại Chuyên đề 1, không trình bày lại.
 Nhóm
 Loại nội dung
 Mục thuộc chuyên đề này

@@ -9,11 +9,11 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe4]
 # Mục V. Góc nhìn theo vị trí công tác
 
 Cùng một nghiệp vụ, mỗi vị trí công tác có trách nhiệm và hành động khác nhau. Đọc cả bốn vị trí để hiểu vai trò của mình gắn với vai trò của những người xung quanh.
-Vị trí: Chủ tịch Ủy ban nhân dân xã, phường
-Tôi yêu cầu công chức tài chính – kế toán phân loại từng khoản dư dự toán kèm căn cứ pháp lý cụ thể trước khi tôi ký trình HĐND phê chuẩn quyết toán, không chấp nhận báo cáo chỉ có số liệu tổng hợp.
-Vị trí: Phó Chủ tịch phụ trách khối kinh tế – tài chính
-Tôi rà lại danh sách các khoản chuyển nguồn, kiểm tra từng khoản có đúng điều kiện quy định hay không trước khi trình Chủ tịch.
-Vị trí: công chức tài chính – kế toán
+Vị trí: [[03-TIMHIEU/vi-tri-viec-lam/chu-tich-ubnd|Chủ tịch Ủy ban nhân dân xã, phường]]
+Tôi yêu cầu [[03-TIMHIEU/vi-tri-viec-lam/cong-chuc-tai-chinh|công chức tài chính – kế toán]] phân loại từng khoản dư [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] kèm căn cứ pháp lý cụ thể trước khi tôi ký trình HĐND phê chuẩn [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]], không chấp nhận báo cáo chỉ có số liệu tổng hợp.
+Vị trí: [[03-TIMHIEU/vi-tri-viec-lam/pho-chu-tich|Phó Chủ tịch]] phụ trách khối kinh tế – tài chính
+Tôi rà lại danh sách các khoản [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]], kiểm tra từng khoản có đúng điều kiện quy định hay không trước khi trình Chủ tịch.
+Vị trí: [[03-TIMHIEU/vi-tri-viec-lam/cong-chuc-tai-chinh|công chức tài chính – kế toán]]
 Tôi đối chiếu, khớp đúng số liệu với Kho bạc Nhà nước trước khi khóa sổ, không tự điều chỉnh sổ sách theo số liệu Kho bạc khi chưa rõ nguyên nhân chênh lệch.
-Vị trí: Kiểm toán viên
-Tôi sẽ kiểm tra từng khoản chuyển nguồn có đúng điều kiện quy định không, và đối chiếu số liệu quyết toán với xác nhận của Kho bạc Nhà nước tại thời điểm khóa sổ.
+Vị trí: [[03-TIMHIEU/vi-tri-viec-lam/kiem-toan-vien|Kiểm toán viên]]
+Tôi sẽ kiểm tra từng khoản [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] có đúng điều kiện quy định không, và đối chiếu số liệu [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]] với xác nhận của Kho bạc Nhà nước tại thời điểm khóa sổ.

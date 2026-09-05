@@ -1,14 +1,14 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 4 - XỬ LÝ NGÂN SÁCH CUỐI NĂM VÀ QUYẾT TOÁN NGÂN SÁCH CẤP XÃ"
+title: "Chuyên đề 4 - XỬ LÝ NGÂN SÁCH CUỐI NĂM VÀ [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|QUYẾT TOÁN]] NGÂN SÁCH CẤP XÃ"
 updated: 2026-09-05
 tags: [GIAOTRINH, Da_Nang, ChuyenDe4]
 ---
 
 CHUYÊN ĐỀ 4
-XỬ LÝ NGÂN SÁCH CUỐI NĂM VÀ QUYẾT TOÁN NGÂN SÁCH CẤP XÃ
-Thời lượng: 05 tiết. Phạm vi: xử lý số dư dự toán cuối năm, khóa sổ, đối chiếu, lập và trình quyết toán, công khai ngân sách. Đây là chuyên đề khép lại chu trình ngân sách của một năm.
+XỬ LÝ NGÂN SÁCH CUỐI NĂM VÀ [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|QUYẾT TOÁN]] NGÂN SÁCH CẤP XÃ
+Thời lượng: 05 tiết. Phạm vi: xử lý số dư [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] cuối năm, khóa sổ, đối chiếu, lập và trình [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]], công khai ngân sách. Đây là chuyên đề khép lại chu trình ngân sách của một năm.
 Nhóm
 Loại nội dung
 Mục thuộc chuyên đề này

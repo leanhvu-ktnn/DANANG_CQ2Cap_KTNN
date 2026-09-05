@@ -13,7 +13,7 @@ Sử dụng trước khi trình ký hồ sơ thuộc phạm vi chuyên đề nà
 	•	Đã phân tích chuỗi số liệu thực hiện các năm gần nhất và loại trừ khoản đột biến?
 	•	Với đơn vị mới sáp nhập: đã rà lại theo ranh giới hành chính hiện tại, loại trừ trùng lặp?
 	•	Khoản thu phân chia đã được nhân tỷ lệ trước khi đưa vào cân đối?
-	•	Đã bố trí đủ nguồn cải cách tiền lương trước khi phân bổ cho nhiệm vụ chi khác?
+	•	Đã bố trí đủ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] trước khi phân bổ cho nhiệm vụ chi khác?
 	•	Phương án phân bổ có căn cứ định mức đang áp dụng, ghi rõ định mức cho từng khoản?
 	•	Mỗi khoản biến động lớn đã có một dòng giải trình riêng trong thuyết minh?
 	•	Đã chuẩn bị phương án trả lời chất vấn về các khoản biến động lớn?

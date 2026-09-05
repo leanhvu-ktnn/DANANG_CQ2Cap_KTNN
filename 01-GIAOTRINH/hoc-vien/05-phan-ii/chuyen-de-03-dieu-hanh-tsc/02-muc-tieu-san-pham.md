@@ -21,7 +21,7 @@ Bảng xác định sai sót
 Đối chiếu và xử lý sai lệch số liệu
 Lập được biên bản đối chiếu, đề xuất bút toán điều chỉnh
 Biên bản đối chiếu
-Quản lý tài sản công đúng quy định
+Quản lý [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]] đúng quy định
 Xác định đúng trình tự, thẩm quyền cho từng loại nghiệp vụ tài sản
 Phương án xử lý
 Kiểm soát hồ sơ thanh toán khối lượng

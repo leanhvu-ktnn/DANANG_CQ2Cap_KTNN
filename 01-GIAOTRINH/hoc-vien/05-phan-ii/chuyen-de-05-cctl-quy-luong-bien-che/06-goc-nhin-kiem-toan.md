@@ -14,7 +14,7 @@ Vì sao nội dung này cần được rà soát kỹ: đây là bước đầu 
 Lớp
 Nội dung
 Dấu hiệu nhận biết
-Báo cáo chỉ thể hiện một nguồn trích lập; phần tăng thu so với dự toán không được đề cập.
+Báo cáo chỉ thể hiện một nguồn trích lập; phần tăng thu so với [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] không được đề cập.
 Cách kiểm tra
 Đối chiếu các nguồn đã trích lập với danh mục các nguồn phải trích lập theo quy định.
 Cách tự kiểm soát trước
@@ -25,18 +25,18 @@ Vì sao nội dung này cần được rà soát kỹ: nhu cầu là mốc để
 Lớp
 Nội dung
 Dấu hiệu nhận biết
-Nhu cầu tính theo biên chế được giao thay vì biên chế thực tế đang hưởng lương; hệ số lương áp dụng không cập nhật.
+Nhu cầu tính theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] được giao thay vì [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế đang hưởng lương; hệ số lương áp dụng không cập nhật.
 Cách kiểm tra
-Đối chiếu bảng tính nhu cầu với danh sách biên chế thực tế và bảng lương đang chi trả.
+Đối chiếu bảng tính nhu cầu với danh sách [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế và bảng lương đang chi trả.
 Cách tự kiểm soát trước
-Tính nhu cầu theo biên chế thực tế; cập nhật ngay khi mức lương cơ sở thay đổi.
+Tính nhu cầu theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế; cập nhật ngay khi mức lương cơ sở thay đổi.
 
 Rủi ro 3. Sử dụng nguồn không đúng thứ tự ưu tiên
-Vì sao nội dung này cần được rà soát kỹ: nguồn cải cách tiền lương được hình thành để bảo đảm quyền lợi về tiền lương. Sử dụng cho mục đích khác trước khi bảo đảm đủ nhu cầu này là đảo ngược thứ tự ưu tiên đã được quy định.
+Vì sao nội dung này cần được rà soát kỹ: nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] được hình thành để bảo đảm quyền lợi về tiền lương. Sử dụng cho mục đích khác trước khi bảo đảm đủ nhu cầu này là đảo ngược thứ tự ưu tiên đã được quy định.
 Lớp
 Nội dung
 Dấu hiệu nhận biết
-Có khoản chi mua sắm, đầu tư từ nguồn cải cách tiền lương nhưng chưa có văn bản xác nhận đã bảo đảm đủ nhu cầu lương.
+Có khoản chi mua sắm, đầu tư từ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] nhưng chưa có văn bản xác nhận đã bảo đảm đủ nhu cầu lương.
 Cách kiểm tra
 Đối chiếu thời điểm phê duyệt khoản chi với thời điểm xác nhận đủ nhu cầu chi trả lương.
 Cách tự kiểm soát trước
@@ -53,23 +53,23 @@ Cách kiểm tra
 Cách tự kiểm soát trước
 Tra phạm vi được phép sử dụng trước khi lập tờ trình, không tra sau khi đã chi.
 
-Rủi ro 5. Không điều chỉnh quỹ lương khi biến động biên chế
-Vì sao nội dung này cần được rà soát kỹ: quỹ lương không khớp biên chế thực tế tạo ra khoản dư không phản ánh đúng bản chất, dễ bị hiểu nhầm là nguồn có thể sử dụng tự do.
+Rủi ro 5. Không điều chỉnh quỹ lương khi biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]]
+Vì sao nội dung này cần được rà soát kỹ: quỹ lương không khớp [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế tạo ra khoản dư không phản ánh đúng bản chất, dễ bị hiểu nhầm là nguồn có thể sử dụng tự do.
 Lớp
 Nội dung
 Dấu hiệu nhận biết
 Quỹ lương được duyệt đầu năm không thay đổi dù đã có quyết định nghỉ hưu, tuyển dụng trong năm.
 Cách kiểm tra
-Đối chiếu quỹ lương đang áp dụng với danh sách biên chế thực tế tại thời điểm kiểm tra.
+Đối chiếu quỹ lương đang áp dụng với danh sách [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế tại thời điểm kiểm tra.
 Cách tự kiểm soát trước
-Điều chỉnh ngay khi có quyết định thay đổi biên chế, không chờ đến kỳ báo cáo (Mục IV.4).
+Điều chỉnh ngay khi có quyết định thay đổi [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]], không chờ đến kỳ báo cáo (Mục IV.4).
 
 Rủi ro 6. Chênh lệch giữa số liệu báo cáo và sổ kế toán
 Vì sao chênh lệch này có thể được sử dụng như một dấu hiệu để mở rộng kiểm tra: khi số báo cáo và số sổ sách không khớp, phải xác định số nào đúng và vì sao có khác biệt. Bản thân sự tồn tại của chênh lệch, bất kể nguyên nhân, đã là nội dung cần làm rõ.
 Lớp
 Nội dung
 Dấu hiệu nhận biết
-Số nguồn cải cách tiền lương trên báo cáo gửi cấp trên khác số dư theo dõi trên sổ kế toán.
+Số nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] trên báo cáo gửi cấp trên khác số dư theo dõi trên sổ kế toán.
 Cách kiểm tra
 Đối chiếu số liệu báo cáo với sổ kế toán tại cùng thời điểm.
 Cách tự kiểm soát trước

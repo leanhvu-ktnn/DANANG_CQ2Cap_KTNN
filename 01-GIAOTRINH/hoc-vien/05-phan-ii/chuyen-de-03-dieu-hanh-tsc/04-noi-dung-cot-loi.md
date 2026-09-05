@@ -16,7 +16,7 @@ Chiều kiểm tra
 Kiểm tra cái gì
 Câu hỏi đặt ra
 Chiều 1 - Quyết định
-Dự toán được giao; quyết định phê duyệt của người có thẩm quyền
+[[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] được giao; quyết định phê duyệt của người có thẩm quyền
 Khoản chi này đã được phép chi chưa, ai cho phép?
 Chiều 2 - Chứng từ
 Hóa đơn, hợp đồng, biên bản nghiệm thu, biên bản bàn giao
@@ -31,8 +31,8 @@ Thứ tự
 Điều kiện
 Nếu thiếu thì làm gì
 1
-Đã có trong dự toán được giao
-Dừng. Làm thủ tục bổ sung, điều chỉnh dự toán đúng thẩm quyền trước
+Đã có trong [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] được giao
+Dừng. Làm thủ tục bổ sung, điều chỉnh [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] đúng thẩm quyền trước
 2
 Đúng chế độ, tiêu chuẩn, định mức
 Dừng. Xác định lại định mức đúng hoặc xin ý kiến cấp có thẩm quyền
@@ -54,17 +54,17 @@ Rà soát định kỳ các khoản chi có nội dung dễ nhầm giữa các m
 Số liệu treo ở mã cũ, không xuất hiện trong báo cáo của đơn vị hiện tại
 Sau sắp xếp, rà toàn bộ chứng từ phát sinh trong giai đoạn chuyển tiếp
 
-CỤM B - QUẢN LÝ TÀI SẢN CÔNG
+CỤM B - QUẢN LÝ [[03-TIMHIEU/tai-san-cong/tai-san-cong|TÀI SẢN CÔNG]]
 Cụm B trả lời câu hỏi: tài sản này đang ở đâu trong vòng đời của nó, và nghiệp vụ đang làm có đúng trình tự của giai đoạn đó không?
-B.1. Vòng đời tài sản công và điểm kiểm soát tương ứng
+B.1. Vòng đời [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]] và điểm kiểm soát tương ứng
 Giai đoạn
 Việc phải làm
 Điểm cần kiểm soát
 Hình thành (mua sắm, tiếp nhận, đầu tư)
 Thực hiện đúng trình tự, thẩm quyền theo quy định áp dụng cho loại tài sản đó
-Đủ hồ sơ về nhu cầu, dự toán được duyệt, phê duyệt theo quy định trước khi ký hợp đồng
+Đủ hồ sơ về nhu cầu, [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] được duyệt, phê duyệt theo quy định trước khi ký hợp đồng
 Ghi nhận
-Ghi nhận, theo dõi đầy đủ theo chế độ kế toán và quản lý tài sản công
+Ghi nhận, theo dõi đầy đủ theo chế độ kế toán và quản lý [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]]
 Cập nhật kịp thời sau khi hoàn tất tiếp nhận, không để dồn cuối kỳ
 Sử dụng, bảo dưỡng
 Sử dụng đúng mục đích, đúng tiêu chuẩn, định mức
@@ -75,15 +75,15 @@ Hồ sơ bàn giao đầy đủ giữa bên giao và bên nhận
 Thanh lý, xử lý
 Đúng trường hợp, thẩm quyền, trình tự, thủ tục và phương thức xác định giá, xử lý theo quy định áp dụng đối với từng loại tài sản
 Xác định đúng loại tài sản trước, vì trình tự khác nhau theo từng loại
-Kiểm kê, báo cáo
-Kiểm kê định kỳ, lập báo cáo theo quy định
-Đối chiếu sổ tài sản với hiện trạng kiểm kê thực tế
+[[03-TIMHIEU/tai-san-cong/kiem-ke-tai-san|Kiểm kê]], báo cáo
+[[03-TIMHIEU/tai-san-cong/kiem-ke-tai-san|Kiểm kê]] định kỳ, lập báo cáo theo quy định
+Đối chiếu sổ tài sản với hiện trạng [[03-TIMHIEU/tai-san-cong/kiem-ke-tai-san|kiểm kê]] thực tế
 
 B.2. Rủi ro đặc thù sau sắp xếp đơn vị hành chính
 Rủi ro
 Cách phòng ngừa
-Tài sản của đơn vị cũ chưa được kiểm kê, bàn giao đầy đủ
-Kiểm kê và lập biên bản bàn giao đầy đủ cho đơn vị hành chính mới
+Tài sản của đơn vị cũ chưa được [[03-TIMHIEU/tai-san-cong/kiem-ke-tai-san|kiểm kê]], bàn giao đầy đủ
+[[03-TIMHIEU/tai-san-cong/kiem-ke-tai-san|Kiểm kê]] và lập biên bản bàn giao đầy đủ cho đơn vị hành chính mới
 Tài sản dôi dư không được xử lý kịp thời
 Xác định rõ tài sản tiếp tục sử dụng, tài sản cần điều chuyển, thanh lý hoặc chuyển đổi công năng
 Hồ sơ pháp lý về trụ sở, đất đai chưa cập nhật
@@ -94,7 +94,7 @@ Phạm vi giới hạn: chỉ ở khâu kiểm soát hồ sơ thanh toán, khôn
 Việc kiểm tra
 Cách làm
 Đối chiếu khối lượng
-So khối lượng đề nghị thanh toán với hồ sơ thiết kế – dự toán được duyệt và biên bản nghiệm thu
+So khối lượng đề nghị thanh toán với hồ sơ thiết kế – [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] được duyệt và biên bản nghiệm thu
 Xử lý khi có chênh lệch
 Chưa thanh toán phần chênh lệch; yêu cầu làm rõ bằng biên bản đo đạc lại có xác nhận của các bên
 Kiểm tra tính đầy đủ hồ sơ

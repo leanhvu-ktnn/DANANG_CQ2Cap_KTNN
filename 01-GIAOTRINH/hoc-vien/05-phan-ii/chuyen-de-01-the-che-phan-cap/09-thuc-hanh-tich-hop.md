@@ -30,7 +30,7 @@ Xác định trách nhiệm của các chủ thể
 Sơ đồ phân công trách nhiệm
 Tiết 4 - 15 phút
 Bài tập tổng hợp
-Xử lý bộ hồ sơ phân cấp có nhiều lỗi cài đặt
+Xử lý bộ hồ sơ [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] có nhiều lỗi cài đặt
 Toàn bộ 5 sản phẩm của chuyên đề
 Tiết 5 - 30 phút
 

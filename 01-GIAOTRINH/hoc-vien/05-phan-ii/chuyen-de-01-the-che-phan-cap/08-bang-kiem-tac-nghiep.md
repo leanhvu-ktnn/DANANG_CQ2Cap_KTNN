@@ -8,8 +8,8 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe1]
 
 # Mục VIII. Bảng kiểm tác nghiệp
 
-Sử dụng trước khi trình ký bất kỳ hồ sơ nào liên quan đến phân cấp, phân chia nguồn thu.
-	•	Văn bản phân cấp đang áp dụng đã được kiểm tra ngày hiệu lực?
+Sử dụng trước khi trình ký bất kỳ hồ sơ nào liên quan đến [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]], phân chia nguồn thu.
+	•	Văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] đang áp dụng đã được kiểm tra ngày hiệu lực?
 	•	Đã xác định đúng dòng tỷ lệ tương ứng với địa bàn của đơn vị mình?
 	•	Đã phân biệt rõ khoản thu hưởng 100% và khoản thu phân chia theo tỷ lệ?
 	•	Số thu ngân sách xã được hưởng đã tính sau khi nhân tỷ lệ phân chia?

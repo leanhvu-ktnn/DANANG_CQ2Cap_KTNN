@@ -14,17 +14,17 @@ Câu hỏi
 Trả lời ở đâu
 Sai thì hệ quả gì
 Xã tôi được hưởng nguồn thu nào?
-Nghị quyết phân cấp của HĐND cấp tỉnh đang có hiệu lực
-Dự toán thu bỏ sót hoặc thừa nguồn; sai căn cứ điều hành cả năm
+Nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] của HĐND cấp tỉnh đang có hiệu lực
+[[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] thu bỏ sót hoặc thừa nguồn; sai căn cứ điều hành cả năm
 Xã tôi phải thực hiện nhiệm vụ chi nào?
-Danh mục nhiệm vụ chi được phân cấp trong cùng nghị quyết
+Danh mục nhiệm vụ chi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] trong cùng nghị quyết
 Chi cho nhiệm vụ của cấp khác; hoặc bỏ sót nhiệm vụ phải bảo đảm
 Tỷ lệ phân chia của địa bàn tôi là bao nhiêu?
-Bảng tỷ lệ theo từng xã, phường tại nghị quyết phân cấp
+Bảng tỷ lệ theo từng xã, phường tại nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]]
 Số tiền thực nhận sai; phải điều chỉnh, hoàn trả giữa các cấp
 
-2. Cách đọc một văn bản phân cấp - quy trình 4 bước
-Kỹ năng cốt lõi của chuyên đề này không phải là thuộc lòng tỷ lệ, mà là đọc đúng văn bản phân cấp. Áp dụng cho mọi kỳ, mọi địa phương, kể cả khi văn bản được thay thế.
+2. Cách đọc một văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] - quy trình 4 bước
+Kỹ năng cốt lõi của chuyên đề này không phải là thuộc lòng tỷ lệ, mà là đọc đúng văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]]. Áp dụng cho mọi kỳ, mọi địa phương, kể cả khi văn bản được thay thế.
 Bước
 Việc phải làm
 Bằng chứng để lại
@@ -41,11 +41,11 @@ Bước 4 - Đối chiếu với hệ thống
 So tỷ lệ trong văn bản với tỷ lệ đang chạy thực tế trên hệ thống. Chênh lệch phải làm rõ ngay
 Biên bản đối chiếu với Kho bạc Nhà nước
 
-Khuyến nghị nghiệp vụ: Khuyến nghị nghiệp vụ: mỗi xã, phường lập một trang duy nhất - “Trang tra cứu phân cấp của đơn vị” - ghi rõ: số hiệu văn bản đang áp dụng, ngày hiệu lực, danh mục khoản thu 100%, danh mục khoản thu phân chia kèm tỷ lệ của chính địa bàn mình, ngày cập nhật gần nhất. Dán tại nơi làm việc của bộ phận tài chính – kế toán.
+Khuyến nghị nghiệp vụ: Khuyến nghị nghiệp vụ: mỗi xã, phường lập một trang duy nhất - “Trang tra cứu [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] của đơn vị” - ghi rõ: số hiệu văn bản đang áp dụng, ngày hiệu lực, danh mục khoản thu 100%, danh mục khoản thu phân chia kèm tỷ lệ của chính địa bàn mình, ngày cập nhật gần nhất. Dán tại nơi làm việc của bộ phận tài chính – kế toán.
 3. Ba nhóm khoản thu - không được nhầm lẫn
 Nhóm
 Bản chất
-Điều cần lưu ý khi lập dự toán và điều hành
+Điều cần lưu ý khi lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] và điều hành
 Nhóm A - Hưởng 100%
 Ngân sách cấp xã hưởng toàn bộ số thu phát sinh
 Số thu phát sinh trên địa bàn bằng số ngân sách xã được hưởng
@@ -56,7 +56,7 @@ Nhóm C - Bổ sung từ ngân sách cấp trên
 Bổ sung cân đối và bổ sung có mục tiêu
 Không phải nguồn phát sinh tại địa bàn; bổ sung có mục tiêu phải dùng đúng mục tiêu
 
-Phân biệt nhóm A và nhóm B là nội dung dễ nhầm nhất trong thực tế: nhầm một khoản từ nhóm B sang nhóm A làm dự toán thu của xã cao hơn thực tế được hưởng.
+Phân biệt nhóm A và nhóm B là nội dung dễ nhầm nhất trong thực tế: nhầm một khoản từ nhóm B sang nhóm A làm [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] thu của xã cao hơn thực tế được hưởng.
 4. Phân định trách nhiệm - gợi ý phân công trong quy trình nội bộ
 Khuyến nghị nghiệp vụ: Bảng dưới đây là gợi ý phân công trong quy trình nội bộ của đơn vị, không tạo thêm thẩm quyền ngoài quy định pháp luật. Thẩm quyền pháp lý của từng chủ thể xem tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]]. Mục tiêu của bảng là giúp học viên hình dung chuỗi quyết định - tham mưu - kiểm soát - phối hợp.
 Nghiệp vụ
@@ -90,7 +90,7 @@ Lưu ý phân biệt: kiểm soát nội bộ là mắt xích bên trong đơn v
 Rủi ro
 Vì sao phát sinh
 Cách phòng ngừa
-Áp dụng văn bản phân cấp đã hết hiệu lực
+Áp dụng văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] đã hết hiệu lực
 Bàn giao không kèm danh mục văn bản; người mới dùng lại tài liệu cũ
 Biên bản bàn giao bắt buộc có danh mục văn bản đang áp dụng
 Dùng tỷ lệ của đơn vị hành chính cũ

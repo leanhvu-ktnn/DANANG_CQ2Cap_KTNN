@@ -19,7 +19,7 @@ Tiết 2 (45 phút)
 Trao đổi nhanh (10 phút). THỰC HÀNH TH1 (20 phút) và TH2 (15 phút)
 Thực hành theo hồ sơ
 Tiết 3 (45 phút)
-Hai lỗi kỹ thuật hạch toán (Mục IV A.3) - 10 phút. THỰC HÀNH TH3 (15 phút). Chuyển sang CỤM B: vòng đời tài sản công (Mục IV B.1) - 20 phút
+Hai lỗi kỹ thuật hạch toán (Mục IV A.3) - 10 phút. THỰC HÀNH TH3 (15 phút). Chuyển sang CỤM B: vòng đời [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]] (Mục IV B.1) - 20 phút
 Giảng kết hợp thực hành
 Tiết 4 (45 phút)
 Rủi ro sau sắp xếp và kiểm soát khối lượng đầu tư (Mục IV B.2, B.3) - 10 phút. THỰC HÀNH TH4 (20 phút) và TH5 (15 phút)

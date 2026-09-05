@@ -18,12 +18,12 @@ Danh mục nguồn thu
 Phân tích dữ liệu nhiều năm
 Đọc được xu hướng, loại trừ được yếu tố đột biến
 Bảng phân tích dữ liệu
-Xây dựng dự toán có căn cứ
+Xây dựng [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] có căn cứ
 Mỗi con số gắn với một phương pháp tính rõ ràng
-Dự toán thu – chi
-Thuyết minh và bảo vệ dự toán
+[[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] thu – chi
+Thuyết minh và bảo vệ [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]]
 Giải trình được từng biến động lớn trước chất vấn
-Báo cáo thuyết minh dự toán
-Nhận diện dự toán thiếu tin cậy
-Chỉ ra được dấu hiệu bất thường trong một bản dự toán cho trước
+Báo cáo thuyết minh [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]]
+Nhận diện [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] thiếu tin cậy
+Chỉ ra được dấu hiệu bất thường trong một bản [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] cho trước
 Bảng nhận diện dấu hiệu

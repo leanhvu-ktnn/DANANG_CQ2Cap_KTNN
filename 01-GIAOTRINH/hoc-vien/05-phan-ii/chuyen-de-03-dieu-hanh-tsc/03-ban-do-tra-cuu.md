@@ -21,11 +21,11 @@ Hệ thống Mục lục ngân sách nhà nước
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/00-index|Chương 5]], mục 8
 Đối chiếu số liệu định kỳ
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/00-index|Chương 5]], mục 10
-Nguyên tắc quản lý, sử dụng tài sản công
+Nguyên tắc quản lý, sử dụng [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]]
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]], mục 1
-Tiêu chuẩn, định mức sử dụng tài sản công
+Tiêu chuẩn, định mức sử dụng [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]]
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]], mục 2
-Mua sắm tài sản công
+Mua sắm [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]]
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]], mục 3
 Ghi nhận, theo dõi, hạch toán tài sản
 [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/00-index|Chương 6]], mục 4

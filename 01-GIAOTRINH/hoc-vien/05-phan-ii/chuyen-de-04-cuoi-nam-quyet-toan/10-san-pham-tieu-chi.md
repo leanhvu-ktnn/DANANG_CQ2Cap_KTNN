@@ -14,11 +14,11 @@ Bảng phân loại xử lý cuối năm
 Mỗi khoản có căn cứ riêng, không phân loại theo cảm tính
 Bảng đối chiếu Kho bạc Nhà nước
 Xác định được nguyên nhân của từng khoản chênh lệch
-Báo cáo quyết toán điều chỉnh
+Báo cáo [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]] điều chỉnh
 Số liệu khớp với xác nhận của Kho bạc Nhà nước
 Bảng giải trình chênh lệch
 Mỗi chênh lệch có nguyên nhân và hướng xử lý
-Bảng kiểm hồ sơ quyết toán
+Bảng kiểm hồ sơ [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]]
 Đủ đầu mục; xác định rõ hồ sơ nào còn thiếu
 
 Thang điểm áp dụng theo Phụ lục 4 của tài liệu.

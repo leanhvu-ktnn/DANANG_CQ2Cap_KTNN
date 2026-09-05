@@ -34,7 +34,7 @@ Kiểm tra hồ sơ thanh toán đầu tư
 Bảng xác định chênh lệch; văn bản yêu cầu làm rõ
 Tiết 4 - 15 phút
 Bài tập tổng hợp
-Rà soát bộ hồ sơ chi ngân sách và tài sản công có nhiều lỗi cài đặt
+Rà soát bộ hồ sơ chi ngân sách và [[03-TIMHIEU/tai-san-cong/tai-san-cong|tài sản công]] có nhiều lỗi cài đặt
 Toàn bộ 5 sản phẩm của chuyên đề
 Tiết 5 - 30 phút
 

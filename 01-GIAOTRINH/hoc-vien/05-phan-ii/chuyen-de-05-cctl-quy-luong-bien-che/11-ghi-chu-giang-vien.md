@@ -22,7 +22,7 @@ Tiết 3 (45 phút)
 Thứ tự ưu tiên sử dụng (Mục IV.3) - 15 phút. THỰC HÀNH TH2 (25 phút)
 Giảng kết hợp thực hành
 Tiết 4 (45 phút)
-Quỹ lương và biến động biên chế (Mục IV.4) - 10 phút. THỰC HÀNH TH3 (20 phút) và TH4 (15 phút)
+Quỹ lương và biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] (Mục IV.4) - 10 phút. THỰC HÀNH TH3 (20 phút) và TH4 (15 phút)
 Thực hành theo hồ sơ
 Tiết 5 (45 phút)
 Góc nhìn theo vị trí và Góc nhìn KTNN (Mục V, VI) - 10 phút. Bài tổng hợp (30 phút). Tổng kết toàn khóa (5 phút)

@@ -14,7 +14,7 @@ Nội dung
 Sản phẩm phải nộp
 Bố trí thời gian
 HS-CĐ5-TH1
-Xác định nguồn cải cách tiền lương
+Xác định nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]]
 Bảng xác định nguồn đầy đủ các khoản phải trích lập
 Tiết 2 - 20 phút
 HS-CĐ5-TH2
@@ -22,7 +22,7 @@ Lập báo cáo nguồn và nhu cầu
 Bảng tính nhu cầu; Báo cáo nguồn – nhu cầu
 Tiết 3 - 25 phút
 HS-CĐ5-TH3
-Điều chỉnh quỹ lương khi biến động biên chế
+Điều chỉnh quỹ lương khi biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]]
 Bảng điều chỉnh quỹ lương kèm thời điểm điều chỉnh
 Tiết 4 - 20 phút
 HS-CĐ5-TH4

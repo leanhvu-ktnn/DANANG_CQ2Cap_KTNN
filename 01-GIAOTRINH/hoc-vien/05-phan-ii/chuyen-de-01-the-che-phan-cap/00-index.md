@@ -1,14 +1,14 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 1 - THỂ CHẾ, PHÂN CẤP QUẢN LÝ NGÂN SÁCH CẤP XÃ"
+title: "Chuyên đề 1 - THỂ CHẾ, [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|PHÂN CẤP]] QUẢN LÝ NGÂN SÁCH CẤP XÃ"
 updated: 2026-09-05
 tags: [GIAOTRINH, Da_Nang, ChuyenDe1]
 ---
 
 CHUYÊN ĐỀ 1
-THỂ CHẾ, PHÂN CẤP QUẢN LÝ NGÂN SÁCH CẤP XÃ
-Thời lượng: 05 tiết. Phạm vi đã khóa: chuyên đề tập trung vào thể chế, phân cấp nguồn thu - nhiệm vụ chi, tỷ lệ phân chia, thẩm quyền và trách nhiệm. Phương pháp rà soát nguồn thu, phân tích dữ liệu và kỹ thuật lập dự toán thuộc Chuyên đề 2, không trình bày lại tại đây.
+THỂ CHẾ, [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|PHÂN CẤP]] QUẢN LÝ NGÂN SÁCH CẤP XÃ
+Thời lượng: 05 tiết. Phạm vi đã khóa: chuyên đề tập trung vào thể chế, [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] nguồn thu - nhiệm vụ chi, tỷ lệ phân chia, thẩm quyền và trách nhiệm. Phương pháp rà soát nguồn thu, phân tích dữ liệu và kỹ thuật lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] thuộc Chuyên đề 2, không trình bày lại tại đây.
 Nhóm
 Loại nội dung
 Mục thuộc chuyên đề này
