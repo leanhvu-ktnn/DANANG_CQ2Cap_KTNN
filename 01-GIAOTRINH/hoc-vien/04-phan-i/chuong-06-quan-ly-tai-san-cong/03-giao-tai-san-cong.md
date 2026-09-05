@@ -37,7 +37,7 @@ Trụ sở / cơ sở SN: không tự giao ở xã. Tài sản khác: STC giao c
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Điều 29 Luật 15 — giao hiện vật khi thiếu so với tiêu chuẩn, ĐM (mở index).
+- [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-29|Điều 29 Luật 15]] — giao hiện vật khi thiếu so với tiêu chuẩn, ĐM (mở index).
 - [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-04|Điều 4 QĐ 61]] — bốn nhánh thẩm quyền.
 
 ## Đọc đủ

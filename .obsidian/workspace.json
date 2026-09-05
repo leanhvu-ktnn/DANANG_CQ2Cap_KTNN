@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/01-can-cu-phap-ly-phan-cap-thu-chi.md",
+                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-can-cu-phap-ly-phan-cap-thu-chi"
+              "title": "09-can-cu-phap-ly"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index.md",
+                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/05-khoan-thu-phan-chia-dac-thu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-index"
+              "title": "05-khoan-thu-phan-chia-dac-thu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,34 +203,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "793fe820d994ede2",
+  "active": "5b145cb808695d68",
   "lastOpenFiles": [
     "03-TIMHIEU/chinh-quyen-2-cap/phan-biet-xa-phuong.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
-    "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/11-ma-tran-trach-nhiem.md",
+    "03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/13-can-cu-phap-ly-trong-tam.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/12-neu-chi-nho-nam-dieu.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/11-nam-cau-hoi-chu-tich-truoc-khi-ky.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/03-khoan-thu-phan-chia-giua-cac-cap.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/02-khoan-thu-xa-huong-100-phan-tram.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/04-can-doi-ns.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/03-phan-cap-thu-chi.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong.md",
-    "03-TIMHIEU/dich-vu-cong-truc-tuyen/index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
-    "03-TIMHIEU/tai-san-cong/sua-chua-tai-san.md",
-    "03-TIMHIEU/tai-san-cong/kiem-ke-tai-san.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/cong-khai-ngan-sach.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach.md",
-    "03-TIMHIEU/vi-tri-viec-lam/kiem-soat-noi-bo.md",
-    "03-TIMHIEU/vi-tri-viec-lam/cong-chuc-tai-chinh.md",
-    "03-TIMHIEU/vi-tri-viec-lam/pho-chu-tich.md",
-    "03-TIMHIEU/vi-tri-viec-lam/chu-tich-ubnd.md",
-    "03-TIMHIEU/vi-tri-viec-lam/00-index.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/so-bo-sung-ngan-sach.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/chi-thuong-xuyen-va-dau-tu.md",
+    "04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-07.md",
+    "04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-41.md",
+    "04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-29.md",
+    "04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-58.md",
+    "04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-53.md",
+    "04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-09.md",
+    "04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-08.md",
+    "04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-05.md",
+    "04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-04.md",
+    "04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-03.md",
+    "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-25.md",
+    "04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-14.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/09-kiem-soat-kbnn.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/08-kiem-soat-noi-bo.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",

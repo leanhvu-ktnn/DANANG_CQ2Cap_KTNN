@@ -38,7 +38,7 @@ Mở catalog:
 - [[04-Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index|TT 130]] · [[04-Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/index|TT 132]] · [[04-Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|TT 157]].
 - [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index|NQ 15]].
 
-Điều 53 và Điều 58 Luật 89 chưa có file Dieudiem — mở [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89/index]].
+Điều 53 và [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-58|Điều 58 Luật 89]] chưa có file Dieudiem — mở [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89/index]].
 
 ## Nắm để làm
 

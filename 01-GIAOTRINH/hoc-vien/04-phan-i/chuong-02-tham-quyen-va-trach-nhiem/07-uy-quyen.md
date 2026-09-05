@@ -47,7 +47,7 @@ Kẹp bản sao văn bản ủy quyền còn hiệu lực vào hồ sơ chi / t�
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Điều 14 Luật 72 — ủy quyền; khoản 8 — ký thừa ủy quyền, con dấu UBND: [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Luật 72/index]].
+- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-14|Điều 14 Luật 72]] — ủy quyền; khoản 8 — ký thừa ủy quyền, con dấu UBND: [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Luật 72/index]].
 
 ## Đọc đủ
 

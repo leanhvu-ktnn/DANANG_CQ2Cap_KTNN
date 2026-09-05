@@ -27,7 +27,7 @@ Căn cứ trực tiếp: [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Lu�
 - [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-22|Điều 22]] — nhiệm vụ, quyền hạn của Ủy ban nhân dân xã;
 - [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23|Điều 23]] — nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã.
 
-Đối với phường, Điều 25 (mở [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Luật 72/index]] — chưa có file Dieudiem): UBND phường thực hiện nhiệm vụ, quyền hạn quy định tại Điều 22 và các nhiệm vụ, quyền hạn bổ sung phù hợp với đặc thù đô thị.
+Đối với phường, [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-25|Điều 25 Luật 72]]: UBND phường thực hiện nhiệm vụ, quyền hạn quy định tại Điều 22 và các nhiệm vụ, quyền hạn bổ sung phù hợp với đặc thù đô thị.
 
 > [!WARNING]
 > **Tuyệt đối không đánh đồng Xã và Phường:**
@@ -35,7 +35,7 @@ Căn cứ trực tiếp: [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Lu�
 > 
 > Xem phân tích chuyên sâu tại: [[03-TIMHIEU/chinh-quyen-2-cap/phan-biet-xa-phuong\|Phân biệt Xã và Phường trong Quản lý Tài chính]].
 
-Bên cạnh đó, Điều 14 (mở index Luật 72) quy định về ủy quyền: Chủ tịch UBND cấp xã có thể ủy quyền cho công chức thuộc UBND cấp mình thực hiện một hoặc một số nhiệm vụ, quyền hạn được giao theo quy định, trong phạm vi, thời hạn và điều kiện cụ thể, trừ trường hợp pháp luật không cho phép ủy quyền. Chi tiết kiểm tra: [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/07-uy-quyen|mục 7]].
+Bên cạnh đó, [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-14|Điều 14]] quy định về ủy quyền: Chủ tịch UBND cấp xã có thể ủy quyền cho công chức thuộc UBND cấp mình thực hiện một hoặc một số nhiệm vụ, quyền hạn được giao theo quy định, trong phạm vi, thời hạn và điều kiện cụ thể, trừ trường hợp pháp luật không cho phép ủy quyền. Chi tiết kiểm tra: [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/07-uy-quyen|mục 7]].
 
 ### 1.2. Phân định thẩm quyền trong lĩnh vực tài chính
 
@@ -50,7 +50,7 @@ Mở đúng Điều 21 / 22 / 23 trước khi soạn tờ trình. Phường: Đi
 ## Điều đã dẫn — công chức nhớ gì
 
 - [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-21|Điều 21]] · [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-22|Điều 22]] · [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23|Điều 23]] Luật 72.
-- Điều 14 · Điều 25 — [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/index|Luật 72/index]].
+- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-14|Điều 14]] · [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-25|Điều 25 Luật 72]].
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/index|NĐ 125]] — phân định hai cấp lĩnh vực BTC.
 
 ## Đọc đủ

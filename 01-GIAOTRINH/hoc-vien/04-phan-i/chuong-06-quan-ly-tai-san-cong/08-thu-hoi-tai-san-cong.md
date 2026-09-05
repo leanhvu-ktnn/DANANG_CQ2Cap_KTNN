@@ -43,7 +43,7 @@ Trụ sở / cơ sở SN: đề nghị cấp TP thu hồi. Ô tô nhóm quy đ�
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Điều 41 Luật 15 — trường hợp thu hồi (mở index).
+- [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-41|Điều 41 Luật 15]] — trường hợp thu hồi (mở index).
 - [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-09|Điều 9 QĐ 61]] — ba nhánh thẩm quyền.
 
 ## Đọc đủ

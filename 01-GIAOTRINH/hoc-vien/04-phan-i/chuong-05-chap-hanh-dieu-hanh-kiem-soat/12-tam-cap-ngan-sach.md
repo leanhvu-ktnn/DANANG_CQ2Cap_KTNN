@@ -35,7 +35,7 @@ Trước khi nói «tạm cấp»: mở Điều 53 trên [[04-Vanbanquydinh/TW/L
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Điều 53 Luật 89 — tạm cấp (mở index).
+- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-53|Điều 53 Luật 89]] — tạm cấp (mở index).
 - [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-12|Điều 12]] — chi phải có DT, trừ tạm cấp đúng Điều 53.
 
 ## Đọc đủ

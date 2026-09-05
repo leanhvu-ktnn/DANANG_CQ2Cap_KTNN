@@ -36,7 +36,7 @@ Trước cho thuê / kinh doanh: mở Điều 7 hoặc Điều 8 QĐ 61 đúng l
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Điều 7 Luật 15 — khai thác trong khuôn khổ pháp luật (mở index).
+- [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-07|Điều 7 Luật 15]] — khai thác trong khuôn khổ pháp luật (mở index).
 - [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-07|Điều 7]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-08|Điều 8 QĐ 61]] — thẩm quyền xã.
 
 ## Đọc đủ

@@ -33,7 +33,7 @@ Năm 2026 phải dùng đồng thời bảy lớp văn bản — thiếu một l
 
 Mở từng văn bản:
 
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89/2025/QH15]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-08|Điều 8]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-12|Điều 12]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-51|Điều 51]]–[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-52|Điều 52]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-54|Điều 54]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-55|Điều 55]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-56|Điều 56]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-57|Điều 57]]. Điều 53 và Điều 58: mở [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89/index]] (chưa có file Dieudiem).
+- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/index|Luật 89/2025/QH15]] — [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-08|Điều 8]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-12|Điều 12]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-51|Điều 51]]–[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-52|Điều 52]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-54|Điều 54]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-55|Điều 55]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-56|Điều 56]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-57|Điều 57]]. [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-53|Điều 53]] và [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-58|Điều 58]] của Luật 89.
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/index|NĐ 73/2026/NĐ-CP]] — còn hiệu lực; hướng dẫn Luật NSNN mới.
 - [[04-Vanbanquydinh/TW/Nghi_dinh/2020/11-2020-NĐ-CP/index|NĐ 11/2020/NĐ-CP]] — còn hiệu lực một phần về TTHC lĩnh vực KBNN.
 - [[04-Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index|TT 130]] · [[04-Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/index|TT 132]] · [[04-Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|TT 157]] — cả ba có hiệu lực từ 01/01/2026.
@@ -47,7 +47,7 @@ Trang tra cứu đơn vị: bảy văn bản + ngày cập nhật. Thiếu NQ 15
 
 ## Điều đã dẫn — công chức nhớ gì
 
-- Luật 89 Điều 8, 12, 51–58 — cửa chấp hành.
+- Luật 89 [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-08|Điều 8]], [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-12|Điều 12]], [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-51|Điều 51]]–[[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-58|Điều 58]] — cửa chấp hành.
 - NĐ 73 + NĐ 11 (một phần) — hướng dẫn và TTHC KBNN.
 - TT 130 / 132 / 157 — mục lục, TABMIS, tài khoản từ 01/01/2026.
 

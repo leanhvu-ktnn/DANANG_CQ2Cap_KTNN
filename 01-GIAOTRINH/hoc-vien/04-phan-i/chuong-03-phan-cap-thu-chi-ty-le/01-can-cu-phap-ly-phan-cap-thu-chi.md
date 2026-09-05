@@ -29,12 +29,12 @@ Việc phân cấp ngân sách cấp xã phải được đặt trong khuôn kh�
 
 [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/index|NQ 15/2025/NQ-HĐND]] ngày 11/12/2025 của HĐND thành phố Đà Nẵng, trong đó:
 
-- Điều 3 — nguồn thu của ngân sách thành phố (mở index NQ 15 — chưa có file Dieudiem);
-- Điều 4 — nguồn thu của ngân sách cấp xã (mở index);
-- Điều 5 — nhiệm vụ chi của ngân sách thành phố (mở index);
+- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-03|Điều 3]] — nguồn thu của ngân sách thành phố;
+- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-04|Điều 4]] — nguồn thu của ngân sách cấp xã;
+- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-05|Điều 5]] — nhiệm vụ chi của ngân sách thành phố;
 - [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6]] — nhiệm vụ chi của ngân sách cấp xã;
 - [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-07|Điều 7]] — các khoản thu phân chia và tỷ lệ phân chia;
-- Điều 8, Điều 9 và các quy định tiếp theo — nguyên tắc, tiêu chí, định mức phân bổ chi thường xuyên (Điều 8–9 mở index; định mức xã: [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-11|Điều 11]]).
+- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-08|Điều 8]], [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-09|Điều 9]] và các quy định tiếp theo — nguyên tắc, tiêu chí, định mức phân bổ chi thường xuyên (định mức xã: [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-11|Điều 11]]).
 
 **Lưu ý sử dụng:** NQ 15 được thiết kế cho năm ngân sách 2026. Khi tài liệu được dùng ở năm ngân sách tiếp theo, phải kiểm tra văn bản thay thế, sửa đổi hoặc văn bản tiếp tục áp dụng **trước** khi sử dụng các tỷ lệ trong chương này.
 
