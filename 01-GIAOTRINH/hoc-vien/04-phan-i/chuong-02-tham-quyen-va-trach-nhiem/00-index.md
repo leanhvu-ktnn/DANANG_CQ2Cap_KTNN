@@ -10,24 +10,29 @@ bon_viec:
   - phong-ngua
 chuyen_de: 0
 ---
-# Chương 2: Thẩm quyền và Trách nhiệm (Cốt lõi)
+# Bảng điều khiển: Chương 2: Thẩm quyền và Trách nhiệm
 
-## 1. Kết luận của chương
-> **Chủ tịch UBND xã chịu trách nhiệm toàn diện. Tham mưu sai, Chủ tịch ký vẫn phải đền bù. Phải thiết lập ma trận kiểm soát nội bộ ngay từ đầu.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Trách nhiệm cuối cùng = Chữ ký của Chủ tịch (dù Kế toán làm sai)**
-
-## 3. Các điều sống còn (Checklist)
-- Đã phân công nhiệm vụ bằng văn bản chưa?
-- Ai là người ký ủy quyền? Có vượt quyền không?
-- Khám phá chi tiết: [[03-TIMHIEU/vi-tri-viec-lam/chu-tich-ubnd|Trách nhiệm Chủ tịch UBND]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/01-khung-phap-ly|01-khung-phap-ly]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/02-hdnd-cap-xa|Thẩm quyền HĐND]] | Cơ quan quyền lực duyệt dự toán và quyết toán. | **Quyền lực tối cao = Phê duyệt ngân sách.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/03-ubnd-cap-xa|Thẩm quyền UBND]] | Cơ quan chấp hành, tổ chức thực hiện thu chi ngân sách. | **Thực thi = Làm đúng dự toán HĐND giao.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/04-chu-tich|Trách nhiệm Chủ tịch]] | Là Chủ tài khoản, người chịu trách nhiệm bồi thường cao nhất. | **Chữ ký Chủ tịch = Chịu trách nhiệm toàn diện.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/05-pho-chu-tich|Phó Chủ tịch (Ký thay)]] | Ký ủy quyền vẫn phải chịu trách nhiệm cá nhân trực tiếp. | **Ký ủy quyền = Ôm rủi ro pháp lý.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/06-tham-muu|Kế toán & Bộ phận khác]] | Ranh giới giữa việc tham mưu đúng và việc đồng lõa làm sai. | **Kế toán = Quyền từ chối chi khi sai quy định.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/07-uy-quyen|Ủy quyền Tài khoản]] | Phạm vi và giới hạn của việc ủy quyền chủ tài khoản. | **Vượt quyền ủy quyền = Chi sai thẩm quyền.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/08-kiem-soat-noi-bo|08-kiem-soat-noi-bo]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/09-kiem-soat-kbnn|09-kiem-soat-kbnn]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/10-phoi-hop|10-phoi-hop]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/11-ma-tran-trach-nhiem|Ma trận Trách nhiệm]] | Phân định ai làm gì, ai chịu trách nhiệm khâu nào. | **Người nghiệm thu = Chịu trách nhiệm khối lượng; Kế toán = Chịu trách nhiệm thanh toán.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/12-nhom-rui-ro|12-nhom-rui-ro]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/13-nam-cau-hoi|13-nam-cau-hoi]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/14-nam-dieu|14-nam-dieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/15-can-cu-phap-ly|15-can-cu-phap-ly]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-21|Điều 21 Luật 72]] — HĐND xã: quyết định và giám sát NS.
-- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-22|Điều 22 Luật 72]] — UBND tổ chức chấp hành, trình HĐND.
-- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-23|Điều 23 Luật 72]] — Chủ tịch lãnh đạo, điều hành; quyết định thuộc thẩm quyền.
-- [[04-Vanbanquydinh/TW/Luat/2025/72-2025-QH15/DieudiemDanchieu/Dieu-40|Điều 40 Luật 72]] khoản 4 — Phó CT chịu trách nhiệm cá nhân theo phân công.
-- [[04-Vanbanquydinh/TW/Nghi_dinh/2025/125-2025-NĐ-CP/index|NĐ 125]] — phân định thẩm quyền CQĐP 02 cấp lĩnh vực BTC.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

@@ -10,23 +10,23 @@ bon_viec:
   - giai-trinh
 chuyen_de: 0
 ---
-# Chương 1: Những vấn đề chung (Cốt lõi)
+# Bảng điều khiển: Chương 1: Vấn đề chung về Quản lý NS & TSC
 
-## 1. Kết luận của chương
-> **Ngân sách cấp xã là một cấp độc lập trực thuộc Thành phố. Mọi nghiệp vụ phải tuân thủ 4 nguyên tắc: Có dự toán, Đúng phân cấp, Đảm bảo cân đối và Công khai minh bạch.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Chi đúng = Có Dự toán + Trúng Nhiệm vụ + Đúng Nguồn + Đủ Chứng từ**
-
-## 3. Các điều sống còn (Checklist)
-- Kiểm tra lại vị trí của mình (Xã không phải Huyện).
-- Không tự tiện chi khi chưa có chủ trương, chưa có dự toán.
-- Liên kết tìm hiểu: [[03-TIMHIEU/ngan-sach-nha-nuoc/khai-niem-ngan-sach|Ngân sách Nhà nước là gì?]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa|Vị trí Ngân sách]] | Ngân sách cấp xã là cấp độc lập, trực tiếp quan hệ với ngân sách Thành phố. | **Xã = Tự chủ, tự chịu trách nhiệm trực tiếp (Không qua Huyện).** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly|Nguyên tắc Quản lý]] | 4 nguyên tắc cốt lõi: Thống nhất, Dự toán, Cân đối, Công khai. | **Hợp lệ = Đúng dự toán + Đúng nguồn + Công khai.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/03-phan-cap-thu-chi|Phân cấp Thu Chi]] | Nguyên tắc nhiệm vụ chi của cấp nào, ngân sách cấp đó bảo đảm. | **Nhiệm vụ Xã = Tiền của Xã (Cấm chi lấn sân).** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/04-can-doi-ns|Cân đối Ngân sách]] | Cấp xã tuyệt đối không được phép bội chi. Thu đến đâu chi đến đó. | **Chi < Thu hoặc Chi = Thu (Cấm vay mượn để chi).** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/05-cong-khai-giai-trinh|Công khai & Giải trình]] | Bắt buộc niêm yết dự toán và quyết toán công khai để dân giám sát. | **Minh bạch = Niêm yết đúng 15 ngày + Có biên bản lưu.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/06-nguyen-tac-tsc|Nguyên tắc TSC]] | Tài sản công phải được giao cho đối tượng cụ thể quản lý, sử dụng. | **Có tài sản = Có người chịu trách nhiệm cá nhân.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/07-hai-cap|Mô hình 2 cấp]] | Đặc thù chính quyền đô thị Đà Nẵng: Chỉ còn Tỉnh - Xã. | **Quy trình ngắn lại ➔ Rủi ro giải trình tăng lên.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/08-nam-cau-hoi-truoc-khi-ky|08-nam-cau-hoi-truoc-khi-ky]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly|09-can-cu-phap-ly]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-06|Điều 6 Luật 89]] — tỉnh–xã; xã quan hệ trực tiếp TP.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-08|Điều 8 Luật 89]] — thống nhất; DT là căn cứ.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-07|Điều 7 Luật 89]] — xã không bội chi.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-09|Điều 9]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-15|Điều 15]] · [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-06|Điều 6 Luật 15]] — chi tiết trên từng mục con.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

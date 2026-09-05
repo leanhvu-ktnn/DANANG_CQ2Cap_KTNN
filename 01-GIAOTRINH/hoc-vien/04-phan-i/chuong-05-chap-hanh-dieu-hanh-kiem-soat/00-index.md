@@ -11,24 +11,34 @@ bon_viec:
   - phong-ngua
 chuyen_de: 0
 ---
-# Chương 5: Chấp hành, điều hành, kiểm soát (Cốt lõi)
+# Bảng điều khiển: Chương 5: Chấp hành, điều hành, kiểm soát
 
-## 1. Kết luận của chương
-> **Quá trình xuất tiền khỏi Kho bạc phải vượt qua 4 điều kiện chi nghiêm ngặt. Sai bất kỳ điều kiện nào cũng rớt đài.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Cho phép chi = Có Dự toán + Đúng Chế độ + Đúng Thẩm quyền + Đủ Chứng từ**
-
-## 3. Các điều sống còn (Checklist)
-- Tiền này thuộc nguồn nào (Thường xuyên hay Đầu tư)?
-- Đã qua kiểm soát của Kho bạc chưa?
-- Khám phá chi tiết: [[03-TIMHIEU/ngan-sach-nha-nuoc/chi-thuong-xuyen-va-dau-tu|Chi Thường xuyên vs Đầu tư]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/01-khung-phap-ly-chap-hanh|01-khung-phap-ly-chap-hanh]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/02-nguyen-tac-to-chuc-dieu-hanh|02-nguyen-tac-to-chuc-dieu-hanh]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/03-to-chuc-thu-ngan-sach|03-to-chuc-thu-ngan-sach]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/04-khong-giu-thu-de-chi-truc-tiep|04-khong-giu-thu-de-chi-truc-tiep]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/05-dieu-kien-thuc-hien-chi|05-dieu-kien-thuc-hien-chi]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/06-du-ho-so-khac-dung-ban-chat|06-du-ho-so-khac-dung-ban-chat]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/07-kiem-soat-thanh-toan-kbnn|07-kiem-soat-thanh-toan-kbnn]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/08-he-thong-muc-luc-ngan-sach|08-he-thong-muc-luc-ngan-sach]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/09-ma-don-vi-va-tai-khoan-kbnn|09-ma-don-vi-va-tai-khoan-kbnn]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/10-he-thong-thong-tin-tabmis|10-he-thong-thong-tin-tabmis]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/11-dieu-chinh-du-toan-trong-nam|11-dieu-chinh-du-toan-trong-nam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/12-tam-cap-ngan-sach|12-tam-cap-ngan-sach]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/13-doi-chieu-so-lieu-ba-ben|13-doi-chieu-so-lieu-ba-ben]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/14-xu-ly-chenh-lech-nam-buoc|14-xu-ly-chenh-lech-nam-buoc]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/15-phuong-phap-kiem-tra-ba-chieu|15-phuong-phap-kiem-tra-ba-chieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/16-goc-nhin-ktnn-sau-rui-ro|16-goc-nhin-ktnn-sau-rui-ro]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/17-bay-cau-hoi-chu-tich-truoc-khi-ky|17-bay-cau-hoi-chu-tich-truoc-khi-ky]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/18-bang-kiem-ho-so-thanh-toan|18-bang-kiem-ho-so-thanh-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/19-neu-chi-nho-nam-dieu|19-neu-chi-nho-nam-dieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-05-chap-hanh-dieu-hanh-kiem-soat/20-can-cu-phap-ly-trong-tam|20-can-cu-phap-ly-trong-tam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-12|Điều 12 Luật 89]] — điều kiện thu, chi. Thiếu một lớp = dừng.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-56|Điều 56]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-57|Điều 57]] — điều hành và tổ chức thu.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-54|Điều 54]] · [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-55|Điều 55]] — chỉnh DT; hạn 15/12 với DT đã giao.
-- [[04-Vanbanquydinh/TW/Thong_tu/2025/130-2025-TT-BTC/index|TT 130]] — mục lục hiện hành (không lấy [[04-Vanbanquydinh/TW/Thong_tu/2016/324-2016-TT-BTC/index|TT 324]] hết HL).
-- [[04-Vanbanquydinh/TW/Thong_tu/2025/132-2025-TT-BTC/index|TT 132]] · [[04-Vanbanquydinh/TW/Thong_tu/2025/157-2025-TT-BTC/index|TT 157]] — TABMIS và tài khoản KBNN.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

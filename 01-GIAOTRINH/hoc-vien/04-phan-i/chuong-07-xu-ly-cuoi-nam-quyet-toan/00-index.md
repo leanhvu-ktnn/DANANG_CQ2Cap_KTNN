@@ -11,25 +11,37 @@ bon_viec:
   - phong-ngua
 chuyen_de: 0
 ---
-# Chương 7: Xử lý cuối năm và Quyết toán (Cốt lõi)
+# Bảng điều khiển: Chương 7: Xử lý cuối năm và Quyết toán
 
-## 1. Kết luận của chương
-> **Khóa sổ 31/12 là thời điểm chốt lại mọi con số. Phải rạch ròi khoản nào được chuyển nguồn, khoản nào phải nộp trả, khoản nào là kết dư.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Kết dư ngân sách = Tổng Thu thực tế - Tổng Chi thực tế**
-
-## 3. Các điều sống còn (Checklist)
-- Tiền chưa tiêu hết có thuộc diện được chuyển nguồn không?
-- Đã lập báo cáo quyết toán đúng hạn chưa?
-- Khám phá chi tiết: [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|Kết dư và chuyển nguồn]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/01-khung-phap-ly-cuoi-nam|01-khung-phap-ly-cuoi-nam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/02-khoa-so-ke-toan-cuoi-nam|Khóa sổ 31/12]] | Thời điểm dừng mọi giao dịch để chốt số liệu. | **Sau 31/12 = Chỉ còn thời gian chỉnh lý, không phát sinh giao dịch mới.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/03-phan-loai-du-toan-con-lai|03-phan-loai-du-toan-con-lai]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/04-cac-truong-hop-chuyen-nguon|Chuyển nguồn]] | Dự toán chi chưa hết được xin phép mang sang năm sau. | **Chuyển nguồn = Xin phép + Được phê duyệt.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/05-chuyen-nguon-khong-phai-giu-lai-ns|05-chuyen-nguon-khong-phai-giu-lai-ns]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/06-xu-ly-tang-thu-va-du-toan-con-lai|06-xu-ly-tang-thu-va-du-toan-con-lai]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/07-xu-ly-ket-du-ngan-sach-xa|Kết dư ngân sách]] | Tiền dư thực tế được nhập vào thu năm sau. | **Kết dư = Nguồn lực tích lũy của Xã.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/08-yeu-cau-bao-cao-quyet-toan|08-yeu-cau-bao-cao-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/09-nam-lop-kiem-tra-truoc-quyet-toan|09-nam-lop-kiem-tra-truoc-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/10-lap-quyet-toan-don-vi|Lập quyết toán]] | Báo cáo thành tích tiêu tiền trình HĐND. | **Quyết toán chuẩn = Khớp 100% với số liệu Kho bạc.** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/11-xet-duyet-quyet-toan|11-xet-duyet-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/12-tong-hop-quyet-toan|12-tong-hop-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/13-thoi-han-quyet-toan-cap-xa|13-thoi-han-quyet-toan-cap-xa]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/14-cong-khai-quyet-toan|14-cong-khai-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/15-xu-ly-thu-chi-sai-truoc-quyet-toan|15-xu-ly-thu-chi-sai-truoc-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/16-sai-sot-sau-phe-chuan|16-sai-sot-sau-phe-chuan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/17-vai-tro-ktnn-doi-voi-quyet-toan|17-vai-tro-ktnn-doi-voi-quyet-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/18-quy-trinh-tam-buoc-cuoi-nam|18-quy-trinh-tam-buoc-cuoi-nam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/19-goc-nhin-ktnn-bay-rui-ro|19-goc-nhin-ktnn-bay-rui-ro]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/20-tam-cau-hoi-chu-tich-truoc-khi-ky|20-tam-cau-hoi-chu-tich-truoc-khi-ky]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/21-bang-kiem-trinh-hdnd|21-bang-kiem-trinh-hdnd]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/22-neu-chi-nho-nam-dieu|22-neu-chi-nho-nam-dieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/23-can-cu-phap-ly-trong-tam|23-can-cu-phap-ly-trong-tam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-66|Điều 66]] — khóa sổ, chỉnh lý 31/01, chín nhóm chuyển nguồn, nguyên tắc hủy.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-67|Điều 67]] — số liệu + thuyết minh kết quả; khoản 8 xử lý thu–chi sai.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-71|Điều 71]] — phê chuẩn trước 31/3; gửi TP 05 ngày LV.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-74|Điều 74]] khoản 1 — kết dư xã → thu năm sau.
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-75|Điều 75]] — sai sau phê chuẩn vẫn phải xử lý.
-- [[04-Vanbanquydinh/TW/Nghi_dinh/2026/73-2026-NĐ-CP/DieudiemDanchieu/Dieu-31|Điều 31 NĐ 73]] — chuyển nguồn năm trước sang năm sau.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

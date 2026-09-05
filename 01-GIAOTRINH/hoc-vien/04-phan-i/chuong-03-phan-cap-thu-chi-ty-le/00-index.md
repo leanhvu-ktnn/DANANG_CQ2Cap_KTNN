@@ -10,23 +10,27 @@ bon_viec:
   - tu-kiem-tra
 chuyen_de: 0
 ---
-# Chương 3: Phân cấp thu chi (Cốt lõi)
+# Bảng điều khiển: Chương 3: Phân cấp nguồn thu, nhiệm vụ chi
 
-## 1. Kết luận của chương
-> **Nguồn thu được phân chia theo tỷ lệ %. Việc chi phải bám sát đúng danh mục nhiệm vụ chi của cấp xã. Tiêu tiền cấp này cho việc cấp khác là xuất toán.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Tổng Thu ngân sách xã = Thu hưởng 100% + Thu điều tiết theo tỷ lệ % + Bổ sung từ cấp trên**
-
-## 3. Các điều sống còn (Checklist)
-- Khoản thu này xã được hưởng bao nhiêu %?
-- Nhiệm vụ này có thuộc danh mục xã phải chi không?
-- Khám phá chi tiết: [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|Phân cấp Ngân sách]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/01-can-cu-phap-ly-phan-cap-thu-chi|01-can-cu-phap-ly-phan-cap-thu-chi]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/02-khoan-thu-xa-huong-100-phan-tram|02-khoan-thu-xa-huong-100-phan-tram]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/03-khoan-thu-phan-chia-giua-cac-cap|03-khoan-thu-phan-chia-giua-cac-cap]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/04-ty-le-phan-chia-theo-tung-xa-phuong|04-ty-le-phan-chia-theo-tung-xa-phuong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/05-khoan-thu-phan-chia-dac-thu|05-khoan-thu-phan-chia-dac-thu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/06-nhiem-vu-chi-ngan-sach-cap-xa|06-nhiem-vu-chi-ngan-sach-cap-xa]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/07-nguyen-tac-nhiem-vu-nao-ngan-sach-do|07-nguyen-tac-nhiem-vu-nao-ngan-sach-do]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/08-thuong-vuot-thu-du-toan|08-thuong-vuot-thu-du-toan]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/09-dinh-muc-phan-bo-chi-thuong-xuyen|09-dinh-muc-phan-bo-chi-thuong-xuyen]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/10-goc-nhin-ktnn-nam-rui-ro-phan-cap|10-goc-nhin-ktnn-nam-rui-ro-phan-cap]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/11-nam-cau-hoi-chu-tich-truoc-khi-ky|11-nam-cau-hoi-chu-tich-truoc-khi-ky]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/12-neu-chi-nho-nam-dieu|12-neu-chi-nho-nam-dieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/13-can-cu-phap-ly-trong-tam|13-can-cu-phap-ly-trong-tam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2025/89-2025-QH15/DieudiemDanchieu/Dieu-09|Điều 9 Luật 89]] — nguyên tắc phân cấp thu–chi.
-- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-07|Điều 7 NQ 15]] — tỷ lệ theo địa bàn (bảng đủ trên mục 4) + thưởng vượt thu (không quá 20%).
-- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-06|Điều 6 NQ 15]] — việc không có trong danh mục → không ký chi NS xã.
-- [[04-Vanbanquydinh/Da_Nang/Nghi_quyet_HDND/2025/15-2025-NQ-HĐND/DieudiemDanchieu/Dieu-11|Điều 11 NQ 15]] — định mức = căn cứ tổng chi TX, không phải hạn mức từng việc.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

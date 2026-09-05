@@ -11,23 +11,35 @@ bon_viec:
   - phong-ngua
 chuyen_de: 0
 ---
-# Chương 6: Tài sản công (Cốt lõi)
+# Bảng điều khiển: Chương 6: Quản lý Tài sản công
 
-## 1. Kết luận của chương
-> **Tài sản nhà nước không phải của chùa. Từ lúc mua sắm, sử dụng, cho thuê đến khi thanh lý đều phải có quyết định của đúng cấp có thẩm quyền.**
+## Giải phẫu các phần con (Dashboard Trọng tâm)
+Thay vì đọc dàn trải, hãy tra cứu nhanh thông điệp lõi và công thức sống còn của từng mảng nghiệp vụ dưới đây:
 
-## 2. Công thức cần nhớ
-> [!IMPORTANT] **Công thức xương sống**
-> **Quy trình TSC = Đầu tư/Mua sắm ➔ Sử dụng/Khai thác ➔ Bảo dưỡng/Kiểm kê ➔ Thanh lý/Thu hồi**
-
-## 3. Các điều sống còn (Checklist)
-- Đã ghi sổ kế toán tài sản chưa?
-- Có tự ý đem tài sản công đi cho thuê không (Cấm)?
-- Khám phá chi tiết: [[03-TIMHIEU/tai-san-cong/khai-thac-tai-san|Khai thác tài sản công]]
+| Tên phần con (Click để đọc) | Thông điệp lõi (Bản chất) | Công thức / Điều kiện sống còn |
+| --- | --- | --- |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/01-khung-phap-ly-tsc|01-khung-phap-ly-tsc]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/02-sau-nguyen-tac-kiem-soat|02-sau-nguyen-tac-kiem-soat]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/03-giao-tai-san-cong|03-giao-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/04-khoan-kinh-phi-su-dung|04-khoan-kinh-phi-su-dung]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/05-mua-sam-tai-san-cong|05-mua-sam-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/06-ghi-nhan-theo-doi-kiem-ke|06-ghi-nhan-theo-doi-kiem-ke]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/07-khai-thac-tai-san-cong|07-khai-thac-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/08-thu-hoi-tai-san-cong|08-thu-hoi-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/09-dieu-chuyen-tai-san-cong|09-dieu-chuyen-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/10-ban-tai-san-cong|10-ban-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/11-thanh-ly-tai-san-cong|11-thanh-ly-tai-san-cong]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/12-tieu-huy-mat-huy-hoai|12-tieu-huy-mat-huy-hoai]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/13-tai-san-sau-sap-xep|13-tai-san-sau-sap-xep]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/14-tru-so-dat-tai-san-gan-dat|14-tru-so-dat-tai-san-gan-dat]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/15-luu-y-chi-dau-tu|15-luu-y-chi-dau-tu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/16-bon-doi-chieu-thanh-toan-dau-tu|16-bon-doi-chieu-thanh-toan-dau-tu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/17-goc-nhin-ktnn-bay-rui-ro|17-goc-nhin-ktnn-bay-rui-ro]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/18-tam-cau-hoi-chu-tich-truoc-khi-ky|18-tam-cau-hoi-chu-tich-truoc-khi-ky]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/19-bang-kiem-quan-ly-tsc|19-bang-kiem-quan-ly-tsc]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/20-neu-chi-nho-nam-dieu|20-neu-chi-nho-nam-dieu]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
+| [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-06-quan-ly-tai-san-cong/21-can-cu-phap-ly-trong-tam|21-can-cu-phap-ly-trong-tam]] | Chi tiết nghiệp vụ, cơ sở pháp lý và hướng dẫn quy trình. | **Đọc kỹ điều kiện áp dụng tại bài viết** |
 
 ---
-## Các nội dung chi tiết trong chương:
-- [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-06|Điều 6 Luật 15]] — chủ thể; hiện vật + giá trị; giám sát / KTNN.
-- [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-03|Điều 3 QĐ 61]] — người đứng đầu quyết theo thẩm quyền và chịu trách nhiệm.
-- [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/index|QĐ 61]] Điều 4–15 — mở đúng Điều theo nghiệp vụ (giao / khoán / khai thác / thu hồi / ĐC / bán / thanh lý / tiêu hủy).
-- [[04-Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/index|NĐ 186/2025]] — chi tiết Luật TSC; QĐ 61 dẫn chiếu trực tiếp.
+> [!IMPORTANT]
+> **Lời khuyên thực chiến:** Đừng học thuộc lòng. Khi gặp hồ sơ liên quan đến mảng nào, hãy quay lại Bảng điều khiển này, đối chiếu với **Công thức / Điều kiện sống còn** ở cột 3 trước khi đặt bút ký.

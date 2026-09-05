@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-index"
+            }
+          },
+          {
+            "id": "5b145cb808695d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "00-index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +203,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "793fe820d994ede2",
+  "active": "5b145cb808695d68",
   "lastOpenFiles": [
+    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/02-nguyen-tac-quan-ly.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
     "03-TIMHIEU/tai-san-cong/sua-chua-tai-san.md",
     "03-TIMHIEU/tai-san-cong/kiem-ke-tai-san.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/cong-khai-ngan-sach.md",
@@ -200,9 +219,6 @@
     "03-TIMHIEU/vi-tri-viec-lam/chu-tich-ubnd.md",
     "03-TIMHIEU/vi-tri-viec-lam/00-index.md",
     "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/01-vi-tri-ns-cap-xa.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index.md",
-    "01-GIAOTRINH/hoc-vien/04-phan-i/00-index.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/so-bo-sung-ngan-sach.md",
     "03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong.md",
@@ -215,7 +231,6 @@
     "03-TIMHIEU/tai-san-cong/tai-san-chuyen-dung.md",
     "03-TIMHIEU/tai-san-cong/tai-san-cong.md",
     "03-TIMHIEU/tai-san-cong/00-index.md",
-    "01-GIAOTRINH/cam-nang/buoi-01/01-ngan-sach-cap-xa.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
