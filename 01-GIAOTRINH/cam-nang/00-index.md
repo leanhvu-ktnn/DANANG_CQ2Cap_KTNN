@@ -10,7 +10,7 @@ bon_viec:
   - tu-kiem-tra
 buoi: 0
 ---
-# Cẩm nang Quản lý Ngân sách và Tài sản công (4 buổi)
+# Cẩm nang Quản lý Ngân sách và [[03-TIMHIEU/tai-san-cong/tai-san-cong|Tài sản công]] (4 buổi)
 
 ## Đối tượng và mục đích
 

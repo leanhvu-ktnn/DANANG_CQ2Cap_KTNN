@@ -1,7 +1,7 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Buổi 3 §9–14 — Tài sản công và phân cấp Đà Nẵng"
+title: "Buổi 3 §9–14 — [[03-TIMHIEU/tai-san-cong/tai-san-cong|Tài sản công]] và phân cấp Đà Nẵng"
 updated: 2026-09-02
 tags: [GIAOTRINH, Da_Nang]
 truc: cam-nang
@@ -10,7 +10,7 @@ bon_viec:
   - tu-kiem-tra
 buoi: 3
 ---
-# Buổi 3 §9–14 — Tài sản công và phân cấp Đà Nẵng
+# Buổi 3 §9–14 — [[03-TIMHIEU/tai-san-cong/tai-san-cong|Tài sản công]] và phân cấp Đà Nẵng
 
 ## Tinh thần
 
@@ -19,7 +19,7 @@ Thẩm quyền TSC cấp xã = phụ lục [[04-Vanbanquydinh/Da_Nang/Quyet_dinh
 ## Nội dung chương trình đem lại
 
 - **§9** Nguyên tắc — [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-06|Điều 6. Nguyên tắc quản lý, sử dụng tài sản công]] · [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-10|Điều 10. Các hành vi bị nghiêm cấm trong quản lý, sử dụng tài sản công]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-03|Điều 3. Nguyên tắc phân cấp thẩm quyền quyết định]]
-- **§10** Tiêu chuẩn, định mức — [[04-Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/DieudiemDanchieu/Dieu-03|Điều 3. Tiêu chuẩn tài sản cố định]] · [[04-Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-05|Điều 5. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị phục vụ hoạt động chung]] · [[04-Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-06|Điều 6. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-03|Điều 3. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức sử dụng máy móc thiết bị phục vụ công tác các chức danh, máy móc thiết bị phục vụ hoạt động chung]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-04|Điều 4. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức, mức giá máy móc, thiết bị chuyên dùng]]
+- **§10** [[03-TIMHIEU/tai-san-cong/tieu-chuan-dinh-muc|Tiêu chuẩn, định mức]] — [[04-Vanbanquydinh/TW/Thong_tu/2025/141-2025-TT-BTC/DieudiemDanchieu/Dieu-03|Điều 3. Tiêu chuẩn tài sản cố định]] · [[04-Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-05|Điều 5. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị phục vụ hoạt động chung]] · [[04-Vanbanquydinh/TW/Quyet_dinh_TTg/2025/15-2025-QĐ-TTg/DieudiemDanchieu/Dieu-06|Điều 6. Tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-03|Điều 3. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức sử dụng máy móc thiết bị phục vụ công tác các chức danh, máy móc thiết bị phục vụ hoạt động chung]] · [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_UBND/2026/14-2026-QĐ-UBND/DieudiemDanchieu/Dieu-04|Điều 4. Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức, mức giá máy móc, thiết bị chuyên dùng]]
 - **§11** Mua sắm — [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/index|15/2017/QH14]] · [[04-Vanbanquydinh/TW/Nghi_dinh/2025/214-2025-NĐ-CP/DieudiemDanchieu/Dieu-78|Điều 78. Các trường hợp chỉ định thầu]]
 - **§12** Thống kê, kế toán, kiểm kê — [[04-Vanbanquydinh/TW/Luat/2017/15-2017-QH14/DieudiemDanchieu/Dieu-06|Điều 6. Nguyên tắc quản lý, sử dụng tài sản công]]
 - **§13** Khai thác — [[04-Vanbanquydinh/Da_Nang/Quyet_dinh_CT_UBND/2025/61-2025-QĐ-CTUBND/DieudiemDanchieu/Dieu-07|Điều 7. Thẩm quyền quyết định khai thác tài sản công tại cơ quan nhà nước, đơn vị sự nghiệp công lập (không bao gồm đơn vị sự nghiệp công lập tự đảm bảo chi thường xuyên và chi đầu tư, đơn vị sự nghiệp công lập tự đảm bảo chi thường xuyên)]] · [[04-Vanbanquydinh/TW/Nghi_dinh/2025/186-2025-NĐ-CP/DieudiemDanchieu/Dieu-14|Điều 14. Khai thác tài sản công tại cơ quan nhà nước]]
