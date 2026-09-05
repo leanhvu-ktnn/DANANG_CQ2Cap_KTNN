@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/05-khoan-thu-phan-chia-dac-thu.md",
+                "file": "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/11-ghi-chu-giang-vien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-khoan-thu-phan-chia-dac-thu"
+              "title": "11-ghi-chu-giang-vien"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/10-san-pham-tieu-chi.md",
+                "file": "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/12-neu-chi-nho-5-dieu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-san-pham-tieu-chi"
+              "title": "12-neu-chi-nho-5-dieu"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +217,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "10c03a5be2c4ca1b",
+  "active": "5b145cb808695d68",
   "lastOpenFiles": [
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/12-neu-chi-nho-5-dieu.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/05-goc-nhin-vi-tri.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/07-nam-cau-hoi.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/06-goc-nhin-kiem-toan.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/04-noi-dung-cot-loi.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/03-ban-do-tra-cuu.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/02-muc-tieu-san-pham.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/01-tinh-huong-khoi-dong.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-03-phan-cap-thu-chi-ty-le/05-khoan-thu-phan-chia-dac-thu.md",
+    "01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/09-can-cu-phap-ly.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/12-neu-chi-nho-5-dieu.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/11-ghi-chu-giang-vien.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/10-san-pham-tieu-chi.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/09-thuc-hanh-tich-hop.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/08-bang-kiem-tac-nghiep.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/07-nam-cau-hoi.md",
@@ -227,24 +240,11 @@
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/04-noi-dung-cot-loi.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/03-ban-do-tra-cuu.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/02-muc-tieu-san-pham.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/02-muc-tieu-san-pham.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/01-tinh-huong-khoi-dong.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/04-noi-dung-cot-loi.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/03-ban-do-tra-cuu.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/01-tinh-huong-khoi-dong.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/10-san-pham-tieu-chi.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-02-lap-du-toan/12-neu-chi-nho-5-dieu.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/11-ghi-chu-giang-vien.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/09-thuc-hanh-tich-hop.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/08-bang-kiem-tac-nghiep.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/07-nam-cau-hoi.md",
-    "03-TIMHIEU/ngan-sach-nha-nuoc/chi-thuong-xuyen-va-dau-tu.md",
-    "05-KY_THUAT/reports/bao-cao-kiem-tra.md",
-    "05-KY_THUAT/HUONG-DAN-BAO-TRI.md",
-    "05-KY_THUAT/CHANGELOG.md",
-    "05-KY_THUAT/Dexuat.md",
-    "05-KY_THUAT/schemas/README.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/06-goc-nhin-kiem-toan.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
