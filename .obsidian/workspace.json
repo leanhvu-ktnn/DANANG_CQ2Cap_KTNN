@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-TAILIEU/Tài liệu in cho học viên.md",
+                "file": "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/05-goc-nhin-vi-tri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tài liệu in cho học viên"
+              "title": "05-goc-nhin-vi-tri"
             }
           }
         ],
@@ -219,6 +219,10 @@
   },
   "active": "10c03a5be2c4ca1b",
   "lastOpenFiles": [
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/04-noi-dung-cot-loi.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/03-ban-do-tra-cuu.md",
+    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/01-tinh-huong-khoi-dong.md",
+    "02-TAILIEU/Tài liệu in cho học viên.md",
     "03-TIMHIEU/vi-tri-viec-lam/kiem-toan-vien.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/12-neu-chi-nho-5-dieu.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/11-ghi-chu-giang-vien.md",
@@ -241,10 +245,6 @@
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/06-goc-nhin-kiem-toan.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/05-goc-nhin-vi-tri.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/04-noi-dung-cot-loi.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/03-ban-do-tra-cuu.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/02-muc-tieu-san-pham.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/01-tinh-huong-khoi-dong.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/12-neu-chi-nho-5-dieu.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
