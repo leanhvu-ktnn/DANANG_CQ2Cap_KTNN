@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-TAILIEU/index.md",
+                "file": "01-GIAOTRINH/00-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "00-index"
             }
           },
           {
@@ -216,8 +216,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "793fe820d994ede2",
+  "active": "08c7d3c082fa263e",
   "lastOpenFiles": [
+    "CHINH-SACH-CHIA-SE.md",
+    "ontology.md",
+    "01-GIAOTRINH/phu-luc-thuc-hanh/index.md",
+    "01-GIAOTRINH/phu-luc-thuc-hanh",
+    "02-TAILIEU/index.md",
     "01-GIAOTRINH/00-index.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/00-index.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index.md",
@@ -242,17 +247,12 @@
     "03-TIMHIEU/vi-tri-viec-lam/kiem-toan-vien.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/11-ghi-chu-giang-vien.md",
     "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/03-ban-do-tra-cuu.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/03-ban-do-tra-cuu.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/02-muc-tieu-san-pham.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/11-ghi-chu-giang-vien.md",
-    "01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-01-the-che-phan-cap/10-san-pham-tieu-chi.md",
     "05-KY_THUAT/reports/source-manifest.json",
     "05-KY_THUAT/schemas/legal-instance.schema.json",
     "05-KY_THUAT/scripts/build_source_manifest.py",
     "05-KY_THUAT/scripts/validate_vault.py",
     "05-KY_THUAT/scripts/rebuild_legal_branches.py",
     "05-KY_THUAT/schemas",
-    "05-KY_THUAT/reports",
-    "05-KY_THUAT/scripts"
+    "05-KY_THUAT/reports"
   ]
 }
