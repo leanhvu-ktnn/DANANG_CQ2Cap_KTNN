@@ -10,24 +10,13 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe4]
 
 1. Trình tự xử lý cuối năm - 5 bước
 Trình tự này cố định, không đảo bước. Đảo bước là nguyên nhân của phần lớn vướng mắc ở khâu [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]].
-Bước
-Việc phải làm
-Không làm được nếu
-Bước 1 - Rà soát nhiệm vụ
-Xác định nhiệm vụ nào đã hoàn thành, đang dở dang, không còn thực hiện
--
-Bước 2 - Đối chiếu Kho bạc Nhà nước
-Đối chiếu số thu, chi, tồn quỹ; xử lý dứt điểm chênh lệch
-Chưa hoàn thành Bước 1
-Bước 3 - Phân loại số dư
-Phân loại từng khoản: [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] / hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] / nộp trả
-Chưa khớp số liệu ở Bước 2
-Bước 4 - Khóa sổ
-Khóa sổ kế toán theo đúng thời hạn quy định
-Chưa phân loại xong ở Bước 3
-Bước 5 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]]
-Lập báo cáo [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]] kèm thuyết minh giải trình
-Chưa khóa sổ ở Bước 4
+| Bước | Việc phải làm | Không làm được nếu |
+| :--- | :--- | :--- |
+| Bước 1 - Rà soát nhiệm vụ | Xác định nhiệm vụ nào đã hoàn thành, đang dở dang, không còn thực hiện | - |
+| Bước 2 - Đối chiếu Kho bạc Nhà nước | Đối chiếu số thu, chi, tồn quỹ; xử lý dứt điểm chênh lệch | Chưa hoàn thành Bước 1 |
+| Bước 3 - Phân loại số dư | Phân loại từng khoản: [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] / hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] / nộp trả | Chưa khớp số liệu ở Bước 2 |
+| Bước 4 - Khóa sổ | Khóa sổ kế toán theo đúng thời hạn quy định | Chưa phân loại xong ở Bước 3 |
+| Bước 5 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach\|quyết toán]] | Lập báo cáo [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach\|quyết toán]] kèm thuyết minh giải trình | Chưa khóa sổ ở Bước 4 |
 
 2. Cây quyết định - khoản dư này xử lý thế nào
 Đọc theo thứ tự từ trên xuống, dừng ở câu trả lời đầu tiên phù hợp.
