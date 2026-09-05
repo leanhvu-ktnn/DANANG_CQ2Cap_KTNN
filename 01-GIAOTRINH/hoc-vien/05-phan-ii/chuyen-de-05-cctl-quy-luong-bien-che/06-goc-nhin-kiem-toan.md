@@ -17,9 +17,9 @@ Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua th
 
 ### Rủi ro 2. Xác định sai nhu cầu chi trả lương
 - **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: nhu cầu là mốc để xác định nguồn thừa hay thiếu. Tính sai nhu cầu dẫn tới kết luận sai về số còn dư, từ đó có thể phát sinh đề xuất sử dụng nguồn khi thực tế chưa đủ.
-- **Dấu hiệu nhận biết:** Nhu cầu tính theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] được giao thay vì [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế đang hưởng lương; hệ số lương áp dụng không cập nhật.
-- **Cách kiểm tra:** Đối chiếu bảng tính nhu cầu với danh sách [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế và bảng lương đang chi trả.
-- **Cách tự kiểm soát trước:** Tính nhu cầu theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế; cập nhật ngay khi mức lương cơ sở thay đổi.
+- **Dấu hiệu nhận biết:** Nhu cầu tính theo biên chế được giao thay vì biên chế thực tế đang hưởng lương; hệ số lương áp dụng không cập nhật.
+- **Cách kiểm tra:** Đối chiếu bảng tính nhu cầu với danh sách biên chế thực tế và bảng lương đang chi trả.
+- **Cách tự kiểm soát trước:** Tính nhu cầu theo biên chế thực tế; cập nhật ngay khi mức lương cơ sở thay đổi.
 
 ### Rủi ro 3. Sử dụng nguồn không đúng thứ tự ưu tiên
 - **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] được hình thành để bảo đảm quyền lợi về tiền lương. Sử dụng cho mục đích khác trước khi bảo đảm đủ nhu cầu này là đảo ngược thứ tự ưu tiên đã được quy định.
@@ -33,11 +33,11 @@ Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua th
 - **Cách kiểm tra:** Đối chiếu nội dung khoản chi với phạm vi nhiệm vụ được phép sử dụng nguồn.
 - **Cách tự kiểm soát trước:** Tra phạm vi được phép sử dụng trước khi lập tờ trình, không tra sau khi đã chi.
 
-### Rủi ro 5. Không điều chỉnh quỹ lương khi biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]]
-- **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: quỹ lương không khớp [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế tạo ra khoản dư không phản ánh đúng bản chất, dễ bị hiểu nhầm là nguồn có thể sử dụng tự do.
+### Rủi ro 5. Không điều chỉnh quỹ lương khi biến động biên chế
+- **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: quỹ lương không khớp biên chế thực tế tạo ra khoản dư không phản ánh đúng bản chất, dễ bị hiểu nhầm là nguồn có thể sử dụng tự do.
 - **Dấu hiệu nhận biết:** Quỹ lương được duyệt đầu năm không thay đổi dù đã có quyết định nghỉ hưu, tuyển dụng trong năm.
-- **Cách kiểm tra:** Đối chiếu quỹ lương đang áp dụng với danh sách [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế tại thời điểm kiểm tra.
-- **Cách tự kiểm soát trước:** Điều chỉnh ngay khi có quyết định thay đổi [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]], không chờ đến kỳ báo cáo (Mục IV.4).
+- **Cách kiểm tra:** Đối chiếu quỹ lương đang áp dụng với danh sách biên chế thực tế tại thời điểm kiểm tra.
+- **Cách tự kiểm soát trước:** Điều chỉnh ngay khi có quyết định thay đổi biên chế, không chờ đến kỳ báo cáo (Mục IV.4).
 
 ### Rủi ro 6. Chênh lệch giữa số liệu báo cáo và sổ kế toán
 - **Tầm quan trọng:** Vì sao chênh lệch này có thể được sử dụng như một dấu hiệu để mở rộng kiểm tra: khi số báo cáo và số sổ sách không khớp, phải xác định số nào đúng và vì sao có khác biệt. Bản thân sự tồn tại của chênh lệch, bất kể nguyên nhân, đã là nội dung cần làm rõ.

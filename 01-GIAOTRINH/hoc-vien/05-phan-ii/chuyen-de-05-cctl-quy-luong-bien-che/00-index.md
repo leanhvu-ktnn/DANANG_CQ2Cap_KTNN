@@ -8,7 +8,7 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe5]
 
 CHUYÊN ĐỀ 5
 QUẢN LÝ NGUỒN [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|CẢI CÁCH TIỀN LƯƠNG]], QUỸ LƯƠNG VÀ [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|BIÊN CHẾ]] CẤP XÃ
-Thời lượng: 05 tiết. Phạm vi: hình thành, trích lập, xác định nhu cầu, sử dụng và xử lý số dư nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]]; quản lý quỹ lương gắn với biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]]. Đây là chuyên đề khép kín toàn bộ chương trình.
+Thời lượng: 05 tiết. Phạm vi: hình thành, trích lập, xác định nhu cầu, sử dụng và xử lý số dư nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]]; quản lý quỹ lương gắn với biến động biên chế. Đây là chuyên đề khép kín toàn bộ chương trình.
 Nhóm
 Loại nội dung
 Mục thuộc chuyên đề này

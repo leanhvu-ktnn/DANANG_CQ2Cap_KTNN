@@ -30,7 +30,7 @@ Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua th
 ### Rủi ro 4. Chậm lập, trình hoặc phê chuẩn [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]]
 - **Tầm quan trọng:** Vì sao đây là rủi ro có khả năng lan truyền sang các khâu sau: [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]] ngân sách địa phương được tổng hợp từ [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]] của các đơn vị cấp dưới; một đơn vị chậm làm chậm tiến độ tổng hợp chung.
 - **Dấu hiệu nhận biết:** Thời điểm trình thực tế muộn hơn thời hạn quy định; lặp lại qua nhiều kỳ.
-- **Cách kiểm tra:** Đối chiếu mốc thời gian thực tế với thời hạn quy định tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-ket-thuc-nam-ngan-sach/00-index|Chương 7]], mục 10.
+- **Cách kiểm tra:** Đối chiếu mốc thời gian thực tế với thời hạn quy định tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/00-index|Chương 7]], mục 10.
 - **Cách tự kiểm soát trước:** Lập lịch công việc cuối năm theo tuần; bám trình tự 5 bước tại Mục IV.1.
 
 ### Rủi ro 5. Sai sót về Mục lục ngân sách chưa được xử lý trước khi lập [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|quyết toán]]
@@ -48,6 +48,6 @@ Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua th
 ### Rủi ro 7. Công khai ngân sách chưa đầy đủ hoặc không đúng thời hạn
 - **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: công khai là điều kiện để Nhân dân và các cơ quan có thẩm quyền thực hiện quyền giám sát. Toàn bộ chu trình dù đúng đến đâu cũng mất một phần giá trị nếu kết quả không được công khai đúng quy định.
 - **Dấu hiệu nhận biết:** Không có hồ sơ chứng minh đã công khai; nội dung hoặc hình thức công khai chưa đủ theo quy định.
-- **Cách kiểm tra:** Đối chiếu nội dung, hình thức, thời điểm công khai thực tế với quy định tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index|Chương 1]], mục 5 và [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-ket-thuc-nam-ngan-sach/00-index|Chương 7]], mục 11.
+- **Cách kiểm tra:** Đối chiếu nội dung, hình thức, thời điểm công khai thực tế với quy định tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-01-van-de-chung-quan-ly-ns-tsc/00-index|Chương 1]], mục 5 và [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-07-xu-ly-cuoi-nam-quyet-toan/00-index|Chương 7]], mục 11.
 - **Cách tự kiểm soát trước:** Lập kế hoạch công khai ngay khi có nghị quyết phê chuẩn; lưu giữ bằng chứng đã công khai.
 

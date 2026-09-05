@@ -13,7 +13,7 @@ Yêu cầu tối thiểu để đạt
 Bảng xác định nguồn
 Đủ các nguồn phải trích lập; nêu rõ căn cứ từng nguồn
 Bảng tính nhu cầu
-Tính theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế và hệ số lương đang hưởng
+Tính theo biên chế thực tế và hệ số lương đang hưởng
 Bảng điều chỉnh quỹ lương
 Xác định đúng số điều chỉnh và thời điểm điều chỉnh
 Báo cáo nguồn – nhu cầu

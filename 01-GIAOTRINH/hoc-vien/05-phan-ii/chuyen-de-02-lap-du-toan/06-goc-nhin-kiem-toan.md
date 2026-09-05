@@ -48,6 +48,6 @@ Nội dung dưới đây khái quát các dạng rủi ro thường gặp qua th
 ### Rủi ro 7. Chưa bố trí đủ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] trong [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]]
 - **Tầm quan trọng:** Vì sao nội dung này cần được rà soát kỹ: nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] phải được bảo đảm trước khi phân bổ cho các nhiệm vụ chi khác. Bỏ qua ở khâu [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] sẽ dẫn đến thiếu hụt khi thực hiện.
 - **Dấu hiệu nhận biết:** [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] chi phân bổ hết cho các nhiệm vụ mà không thể hiện phần bố trí cho [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]].
-- **Cách kiểm tra:** Đối chiếu phần bố trí nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] với nhu cầu tính theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] và hệ số lương thực tế.
+- **Cách kiểm tra:** Đối chiếu phần bố trí nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] với nhu cầu tính theo biên chế và hệ số lương thực tế.
 - **Cách tự kiểm soát trước:** Xác nhận đã bố trí đủ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] trước khi hoàn thiện phương án phân bổ (xem Chuyên đề 5).
 

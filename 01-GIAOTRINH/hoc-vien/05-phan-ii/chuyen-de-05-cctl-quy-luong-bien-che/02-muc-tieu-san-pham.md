@@ -16,14 +16,14 @@ Xác định đúng nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-
 Xác định đủ các nguồn phải trích lập, không bỏ sót nguồn nào
 Bảng xác định nguồn
 Xác định đúng nhu cầu
-Tính theo [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] và hệ số lương thực tế đang hưởng
+Tính theo biên chế và hệ số lương thực tế đang hưởng
 Bảng tính nhu cầu
 Sử dụng nguồn đúng thứ tự ưu tiên
 Xác định được khi nào được và chưa được dùng cho mục đích khác
 Phương án xử lý nguồn còn dư
-Điều chỉnh quỹ lương theo biến động [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]]
+Điều chỉnh quỹ lương theo biến động biên chế
 Tính lại quỹ lương và xác định đúng thời điểm điều chỉnh
 Bảng điều chỉnh quỹ lương
 Lập báo cáo nguồn – nhu cầu chính xác
-Báo cáo khớp với sổ kế toán và [[03-TIMHIEU/ngan-sach-nha-nuoc/bien-che-cap-xa|biên chế]] thực tế
+Báo cáo khớp với sổ kế toán và biên chế thực tế
 Báo cáo nguồn – nhu cầu
