@@ -1,0 +1,19 @@
+---
+okf_version: "0.2"
+type: giaotrinh
+title: "Chuyên đề 5 - Mục V"
+updated: 2026-09-05
+tags: [GIAOTRINH, Da_Nang, ChuyenDe5]
+---
+
+# Mục V. Góc nhìn theo vị trí công tác
+
+Cùng một nghiệp vụ, mỗi vị trí công tác có trách nhiệm và hành động khác nhau. Đọc cả bốn vị trí để hiểu vai trò của mình gắn với vai trò của những người xung quanh.
+Vị trí: Chủ tịch Ủy ban nhân dân xã, phường
+Tôi không phê duyệt bất kỳ đề xuất chi mua sắm, đầu tư nào từ nguồn cải cách tiền lương cho đến khi công chức tài chính – kế toán xác nhận bằng văn bản rằng đã bảo đảm đủ nhu cầu chi trả lương theo mức lương cơ sở hiện hành.
+Vị trí: Phó Chủ tịch phụ trách khối kinh tế – tài chính
+Tôi yêu cầu điều chỉnh quỹ lương ngay khi có quyết định thay đổi biên chế, không chờ đến kỳ báo cáo định kỳ mới xử lý.
+Vị trí: công chức tài chính – kế toán
+Tôi lập báo cáo nguồn – nhu cầu – sử dụng – còn dư theo đúng trình tự trước khi tham mưu bất kỳ đề xuất sử dụng nguồn còn dư nào.
+Vị trí: Kiểm toán viên
+Tôi sẽ kiểm tra theo đúng trình tự: nguồn đã trích lập bao nhiêu, nhu cầu thực tế bao nhiêu, đã sử dụng cho việc gì, và số còn dư có được xử lý đúng thứ tự ưu tiên hay không.

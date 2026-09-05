@@ -3716,13 +3716,13 @@ Cả 05 chuyên đề dùng chung một cấu trúc 12 mục, theo đường tư
 | XI | Kịch bản phân bổ thời lượng | 225 phút cho 05 tiết |
 | XII | Nếu chỉ nhớ 5 điều | Chốt lại nội dung cốt lõi |
 
-| **Chuyên đề** | **Nội dung** | **Thời lượng** |
-|----|----|----|
-| Chuyên đề 1 | Thể chế, phân cấp quản lý ngân sách cấp xã | 05 tiết |
-| Chuyên đề 2 | Lập dự toán ngân sách cấp xã | 05 tiết |
-| Chuyên đề 3 | Điều hành ngân sách và quản lý tài sản công | 05 tiết |
-| Chuyên đề 4 | Xử lý ngân sách cuối năm và quyết toán | 05 tiết |
-| Chuyên đề 5 | Quản lý nguồn cải cách tiền lương, quỹ lương và biên chế | 05 tiết |
+| **Chuyên đề** | **Nội dung**                                             | **Thời lượng** |
+| ------------- | -------------------------------------------------------- | -------------- |
+| Chuyên đề 1   | Thể chế, phân cấp quản lý ngân sách cấp xã               | 05 tiết        |
+| Chuyên đề 2   | Lập dự toán ngân sách cấp xã                             | 05 tiết        |
+| Chuyên đề 3   | Điều hành ngân sách và quản lý tài sản công              | 05 tiết        |
+| Chuyên đề 4   | Xử lý ngân sách cuối năm và quyết toán                   | 05 tiết        |
+| Chuyên đề 5   | Quản lý nguồn cải cách tiền lương, quỹ lương và biên chế | 05 tiết        |
 
 # CHUYÊN ĐỀ 1
 

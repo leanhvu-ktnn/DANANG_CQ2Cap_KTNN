@@ -1,34 +1,41 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 3 — Điều hành ngân sách và quản lý tài sản công"
+title: "Chuyên đề 3 - ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ TÀI SẢN CÔNG"
 updated: 2026-09-05
-tags: [GIAOTRINH, Da_Nang]
-truc: hoc-vien
-bon_viec:
-  - lam-dung
-  - tu-kiem-tra
-  - phong-ngua
-  - giai-trinh
-chuyen_de: 3
+tags: [GIAOTRINH, Da_Nang, ChuyenDe3]
 ---
-# Chuyên đề 3 — Điều hành ngân sách và quản lý tài sản công
 
-## I. Tình huống khởi động (Case Study)
-Chủ tịch phường nhận được một hồ sơ thanh toán mua sắm tài sản công. Số tiền khớp với hóa đơn, nhưng tài sản này chưa từng có trong Kế hoạch mua sắm từ đầu năm và chưa rõ nguồn kinh phí từ đâu.
-**Yêu cầu:** Nếu ký duyệt, rủi ro là gì?
+CHUYÊN ĐỀ 3
+ĐIỀU HÀNH NGÂN SÁCH VÀ QUẢN LÝ TÀI SẢN CÔNG
+Thời lượng: 05 tiết. Trục chính đã khóa: kiểm soát hồ sơ chi và tài sản công trong quá trình chấp hành ngân sách. Nội dung đầu tư xây dựng cơ bản chỉ lấy một số rủi ro trọng yếu ở khâu kiểm soát hồ sơ thanh toán khối lượng; không triển khai thành nội dung độc lập về đầu tư công, xây dựng, đấu thầu.
+Lưu ý thiết kế: đây là chuyên đề có khối lượng nghiệp vụ lớn nhất trong 05 chuyên đề. Để bảo đảm chiều sâu trong 05 tiết, nội dung được tổ chức thành hai cụm - Cụm A: kiểm soát hồ sơ chi; Cụm B: quản lý tài sản công. Mỗi cụm có phương pháp kiểm soát riêng, không dạy dàn trải theo từng nghiệp vụ rời rạc.
+Nhóm
+Loại nội dung
+Mục thuộc chuyên đề này
+PHẢI GIẢNG
+Nội dung cốt lõi giảng viên trình bày trên lớp
+Mục I, II, IV
+PHẢI THỰC HÀNH
+Học viên làm và nộp sản phẩm
+Mục VIII, IX, X
+TỰ TRA CỨU
+Học viên đọc, tra khi cần; không giảng hết trên lớp
+Mục III, V, VI, VII, XII
 
-## II. Lý thuyết cốt lõi
-- **Phương pháp ba chiều:** Kiểm soát đồng thời cả ba mặt: Quyết định (Thẩm quyền) – Chứng từ (Hợp lệ) – Số liệu hệ thống.
-- **Bốn điều kiện chi ngân sách:** Đã có trong dự toán – Đúng chế độ/định mức – Đúng thẩm quyền – Có đủ hồ sơ, chứng từ.
-- **Quản lý Tài sản công:** Kiểm soát chặt chẽ từ khâu mua sắm, theo dõi sổ sách đến khi thanh lý.
+Nguyên tắc đã khóa: không đồng nhất “nội dung tài liệu” với “nội dung phải giảng”. Trong 05 tiết, giảng viên tập trung trình bày nhóm PHẢI GIẢNG, tổ chức thực hành nhóm PHẢI THỰC HÀNH và hướng dẫn học viên sử dụng nhóm TỰ TRA CỨU để tự tra cứu trong và sau khóa học. Mục XI là hướng dẫn dành cho giảng viên, không thuộc ba nhóm trên.
 
-## III. Góc nhìn Kiểm toán nhà nước (Phòng ngừa rủi ro)
-- **Chi sai nguồn:** Lấy nguồn có mục tiêu đem chi cho nhiệm vụ chi thường xuyên khác.
-- **Tài sản ngoài sổ sách:** Mua sắm xong nhưng không ghi tăng tài sản trên hệ thống, dẫn đến thất thoát, khó kiểm kê.
-- **Hồ sơ thiếu:** Có chứng từ nhưng thiếu các biên bản nghiệm thu, bàn giao, hoặc sai trình tự mua sắm.
-
-## IV. Bảng kiểm tác nghiệp và Thực hành
-- Thực hành đối chiếu chéo hồ sơ trước khi mang ra Kho bạc Nhà nước.
-- Đối chiếu sổ tài sản với kết quả kiểm kê hiện trường.
+## Bảng điều khiển 12 Mục
+- [[01-tinh-huong-khoi-dong|I. Tình huống khởi động]]
+- [[02-muc-tieu-san-pham|II. Mục tiêu và sản phẩm đầu ra]]
+- [[03-ban-do-tra-cuu|III. Bản đồ tra cứu Phần I]]
+- [[04-noi-dung-cot-loi|IV. Nội dung nghiệp vụ cốt lõi]]
+- [[05-goc-nhin-vi-tri|V. Góc nhìn theo vị trí công tác]]
+- [[06-goc-nhin-kiem-toan|VI. Góc nhìn Kiểm toán nhà nước]]
+- [[07-nam-cau-hoi|VII. Năm câu hỏi trước khi ký/thực hiện nghiệp vụ]]
+- [[08-bang-kiem-tac-nghiep|VIII. Bảng kiểm tác nghiệp]]
+- [[09-thuc-hanh-tich-hop|IX. Thực hành tích hợp trong quá trình học]]
+- [[10-san-pham-tieu-chi|X. Sản phẩm học viên và tiêu chí đánh giá]]
+- [[11-ghi-chu-giang-vien|XI. Ghi chú phương pháp sư phạm cho giảng viên]]
+- [[12-neu-chi-nho-5-dieu|XII. Nếu chỉ nhớ 5 điều]]
 

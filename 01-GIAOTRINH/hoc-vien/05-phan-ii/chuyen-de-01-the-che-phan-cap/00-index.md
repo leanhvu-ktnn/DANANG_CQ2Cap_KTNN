@@ -1,39 +1,40 @@
 ---
 okf_version: "0.2"
 type: giaotrinh
-title: "Chuyên đề 1 — Thể chế, phân cấp quản lý ngân sách cấp xã"
+title: "Chuyên đề 1 - THỂ CHẾ, PHÂN CẤP QUẢN LÝ NGÂN SÁCH CẤP XÃ"
 updated: 2026-09-05
-tags: [GIAOTRINH, Da_Nang]
-truc: hoc-vien
-bon_viec:
-  - lam-dung
-  - tu-kiem-tra
-  - phong-ngua
-  - giai-trinh
-chuyen_de: 1
+tags: [GIAOTRINH, Da_Nang, ChuyenDe1]
 ---
-# Chuyên đề 1 — Thể chế, phân cấp quản lý ngân sách cấp xã
 
-## I. Tình huống khởi động (Case Study)
-Anh/chị vừa được phân công phụ trách khối tài chính của một phường mới hình thành trên cơ sở sáp nhập ba phường cũ. Trên bàn làm việc có: một bản dự toán do phường cũ để lại, một thông báo số kiểm tra dự toán từ Sở Tài chính, và một tập văn bản phân cấp không rõ văn bản nào còn hiệu lực.
-**Yêu cầu:** Trước khi ký bất kỳ báo cáo nào, ba câu hỏi nền tảng nào phải được trả lời?
+CHUYÊN ĐỀ 1
+THỂ CHẾ, PHÂN CẤP QUẢN LÝ NGÂN SÁCH CẤP XÃ
+Thời lượng: 05 tiết. Phạm vi đã khóa: chuyên đề tập trung vào thể chế, phân cấp nguồn thu - nhiệm vụ chi, tỷ lệ phân chia, thẩm quyền và trách nhiệm. Phương pháp rà soát nguồn thu, phân tích dữ liệu và kỹ thuật lập dự toán thuộc Chuyên đề 2, không trình bày lại tại đây.
+Nhóm
+Loại nội dung
+Mục thuộc chuyên đề này
+PHẢI GIẢNG
+Nội dung cốt lõi giảng viên trình bày trên lớp
+Mục I, II, IV
+PHẢI THỰC HÀNH
+Học viên làm và nộp sản phẩm
+Mục VIII, IX, X
+TỰ TRA CỨU
+Học viên đọc, tra khi cần; không giảng hết trên lớp
+Mục III, V, VI, VII, XII
 
-## II. Lý thuyết cốt lõi
-1. **Nguồn thu và nhiệm vụ chi:** Xã được hưởng khoản thu nào? Theo văn bản nào?
-2. **Tỷ lệ phân chia:** Tỷ lệ phân chia với ngân sách thành phố là bao nhiêu, áp dụng cho địa bàn nào?
-3. **Hiệu lực văn bản:** Văn bản phân cấp đang cầm trên tay còn hiệu lực hay đã bị thay thế (đặc biệt trong bối cảnh CQ 2 cấp)?
+Nguyên tắc đã khóa: không đồng nhất “nội dung tài liệu” với “nội dung phải giảng”. Trong 05 tiết, giảng viên tập trung trình bày nhóm PHẢI GIẢNG, tổ chức thực hành nhóm PHẢI THỰC HÀNH và hướng dẫn học viên sử dụng nhóm TỰ TRA CỨU để tự tra cứu trong và sau khóa học. Mục XI là hướng dẫn dành cho giảng viên, không thuộc ba nhóm trên.
 
-## III. Góc nhìn Kiểm toán nhà nước (Phòng ngừa rủi ro)
-- **Sai tỷ lệ điều tiết / Văn bản hết hiệu lực:** Rủi ro rất lớn khi áp dụng sai tỷ lệ hoặc sử dụng văn bản phân cấp cũ, dẫn đến sai lệch hệ thống qua nhiều kỳ kế toán.
-- **Áp đặt cơ học:** Mang dự toán của phường cũ áp đặt cơ học sang mô hình phường sáp nhập mà không rà soát lại thẩm quyền.
-
-## IV. Bảng kiểm tác nghiệp và Thực hành
-**Năm câu hỏi trước khi ký:**
-1. Tôi có đúng thẩm quyền không?
-2. Căn cứ pháp lý tôi đang sử dụng còn hiệu lực và đúng với mô hình chính quyền hai cấp không?
-3. Nguồn ngân sách có đúng không?
-4. Hồ sơ đã đủ chứng minh quá trình hình thành quyết định chưa?
-5. Nếu hồ sơ được kiểm toán ngày mai, tôi có giải trình được không?
-
-*(Nếu một câu là "chưa rõ", hãy dừng bút chưa ký).*
+## Bảng điều khiển 12 Mục
+- [[01-tinh-huong-khoi-dong|I. Tình huống khởi động]]
+- [[02-muc-tieu-san-pham|II. Mục tiêu và sản phẩm đầu ra]]
+- [[03-ban-do-tra-cuu|III. Bản đồ tra cứu Phần I]]
+- [[04-noi-dung-cot-loi|IV. Nội dung nghiệp vụ cốt lõi]]
+- [[05-goc-nhin-vi-tri|V. Góc nhìn theo vị trí công tác]]
+- [[06-goc-nhin-kiem-toan|VI. Góc nhìn Kiểm toán nhà nước]]
+- [[07-nam-cau-hoi|VII. Năm câu hỏi trước khi ký/thực hiện nghiệp vụ]]
+- [[08-bang-kiem-tac-nghiep|VIII. Bảng kiểm tác nghiệp]]
+- [[09-thuc-hanh-tich-hop|IX. Thực hành tích hợp trong quá trình học]]
+- [[10-san-pham-tieu-chi|X. Sản phẩm học viên và tiêu chí đánh giá]]
+- [[11-ghi-chu-giang-vien|XI. Ghi chú phương pháp sư phạm cho giảng viên]]
+- [[12-neu-chi-nho-5-dieu|XII. Nếu chỉ nhớ 5 điều]]
 
