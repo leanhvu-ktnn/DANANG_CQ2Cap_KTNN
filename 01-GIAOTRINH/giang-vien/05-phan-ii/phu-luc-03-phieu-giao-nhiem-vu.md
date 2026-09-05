@@ -4,7 +4,7 @@ type: giaotrinh
 title: "Phụ lục 3 — Phiếu giao nhiệm vụ cho học viên"
 updated: 2026-09-03
 tags: [GIAOTRINH, Da_Nang]
-truc: hoc-vien
+truc: giang-vien
 bon_viec:
   - lam-dung
 chuyen_de: 0
@@ -34,5 +34,5 @@ Mẫu dùng chung cả 05 chuyên đề. In phát từng nhóm trước TH. [[01
 
 ## Đọc đủ
 
-[[01-GIAOTRINH/hoc-vien/05-phan-ii/00-index|Phần II]] · [[01-GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ lục 4]].
+[[01-GIAOTRINH/hoc-vien/05-phan-ii/00-index|Phần II]] · [[01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ lục 4]].
 [[02-TAILIEU/Tài liệu in cho học viên#PHỤ LỤC|Phụ lục trên TAILIEU]].

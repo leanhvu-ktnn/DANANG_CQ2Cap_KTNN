@@ -4,7 +4,7 @@ type: giaotrinh
 title: "Phụ lục 4 — Tiêu chí chấm sản phẩm thực hành"
 updated: 2026-09-03
 tags: [GIAOTRINH, Da_Nang]
-truc: hoc-vien
+truc: giang-vien
 bon_viec:
   - lam-dung
 chuyen_de: 0
@@ -35,5 +35,5 @@ Chấm bài tổng hợp: đủ 5 tiêu chí. Thiếu viện dẫn Mục III →
 
 ## Đọc đủ
 
-[[01-GIAOTRINH/hoc-vien/05-phan-ii/00-index|Phần II]] · [[01-GIAOTRINH/hoc-vien/05-phan-ii/phu-luc-03-phieu-giao-nhiem-vu|Phụ lục 3]].
+[[01-GIAOTRINH/hoc-vien/05-phan-ii/00-index|Phần II]] · [[01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-03-phieu-giao-nhiem-vu|Phụ lục 3]].
 [[02-TAILIEU/Tài liệu in cho học viên#PHỤ LỤC|Phụ lục trên TAILIEU]].

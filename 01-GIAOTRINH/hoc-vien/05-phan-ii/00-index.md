@@ -28,3 +28,7 @@ Cách tiếp cận **vô cùng khoa học** này giúp giáo trình không bị 
 - [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-03-dieu-hanh-tsc/00-index|Chuyên đề 3 - Điều hành ngân sách và quản lý tài sản công]]
 - [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-04-cuoi-nam-quyet-toan/00-index|Chuyên đề 4 - Xử lý ngân sách cuối năm và quyết toán]]
 - [[01-GIAOTRINH/hoc-vien/05-phan-ii/chuyen-de-05-cctl-quy-luong-bien-che/00-index|Chuyên đề 5 - Quản lý nguồn cải cách tiền lương, quỹ lương và biên chế]]
+
+## Tài liệu dành riêng cho Giảng viên (Phụ lục)
+- [[01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-03-phieu-giao-nhiem-vu|Phụ lục 3 - Phiếu giao nhiệm vụ cho học viên (mẫu)]]
+- [[01-GIAOTRINH/giang-vien/05-phan-ii/phu-luc-04-tieu-chi-cham|Phụ lục 4 - Tiêu chí chấm sản phẩm thực hành]]
