@@ -32,13 +32,21 @@ Khi một khoản chi sai bị phát hiện (Ví dụ: lập khống hóa đơn 
 > [!TIP]
 > Việc lập dự toán không phải việc của riêng Kế toán. Hãy xem bài [[03-TIMHIEU/vi-tri-viec-lam/kiem-soat-noi-bo|Các bộ phận tham mưu khác]] để hiểu cách đẩy trách nhiệm về đúng người.
 
+## Những việc cần làm trong thực tiễn
 
-## Góc nhìn và Hành động thực tiễn
+Được tổng hợp từ các chuyên đề vận dụng, Công chức Tài chính - Kế toán là người trực tiếp tham mưu và thực thi các nghiệp vụ cốt lõi. Dưới đây là những việc cần làm:
 
-Được tổng hợp từ các chuyên đề vận dụng, Công chức Tài chính - Kế toán là người trực tiếp tham mưu và thực thi các nghiệp vụ cốt lõi:
+### Chuyên đề 1 - Thể chế, phân cấp
+**Việc cần làm:** Lập bảng đối chiếu Thuế – Kho bạc – tài chính xã hằng tháng, không chờ đến cuối năm mới rà soát, để phát hiện điều tiết sai sớm nhất có thể.
 
-*   **Chuyên đề 1 - Thể chế, phân cấp:** Lập bảng đối chiếu Thuế – Kho bạc – tài chính xã hằng tháng, không chờ đến cuối năm mới rà soát, để phát hiện điều tiết sai sớm nhất có thể.
-*   **Chuyên đề 2 - Lập dự toán:** Rà lại danh sách đối tượng nộp thuế, phí thực tế trên địa bàn thay vì chỉ lấy số dự toán năm trước cộng thêm tỷ lệ tăng cố định.
-*   **Chuyên đề 3 - Điều hành NS và TSC:** Từ chối lập chứng từ đề nghị thanh toán nếu chưa có đủ hồ sơ theo bảng kiểm, kể cả khi bị thúc ép về tiến độ.
-*   **Chuyên đề 4 - Xử lý NS cuối năm và quyết toán:** Đối chiếu, khớp đúng số liệu với Kho bạc Nhà nước trước khi khóa sổ, không tự điều chỉnh sổ sách theo số liệu Kho bạc khi chưa rõ nguyên nhân chênh lệch.
-*   **Chuyên đề 5 - Cải cách tiền lương:** Lập báo cáo nguồn – nhu cầu – sử dụng – còn dư theo đúng trình tự trước khi tham mưu bất kỳ đề xuất sử dụng nguồn còn dư nào.
+### Chuyên đề 2 - Lập dự toán
+**Việc cần làm:** Rà lại danh sách đối tượng nộp thuế, phí thực tế trên địa bàn thay vì chỉ lấy số dự toán năm trước cộng thêm tỷ lệ tăng cố định.
+
+### Chuyên đề 3 - Điều hành NS và TSC
+**Việc cần làm:** Từ chối lập chứng từ đề nghị thanh toán nếu chưa có đủ hồ sơ theo bảng kiểm, kể cả khi bị thúc ép về tiến độ.
+
+### Chuyên đề 4 - Xử lý NS cuối năm và quyết toán
+**Việc cần làm:** Đối chiếu, khớp đúng số liệu với Kho bạc Nhà nước trước khi khóa sổ, không tự điều chỉnh sổ sách theo số liệu Kho bạc khi chưa rõ nguyên nhân chênh lệch.
+
+### Chuyên đề 5 - Cải cách tiền lương
+**Việc cần làm:** Lập báo cáo nguồn – nhu cầu – sử dụng – còn dư theo đúng trình tự trước khi tham mưu bất kỳ đề xuất sử dụng nguồn còn dư nào.

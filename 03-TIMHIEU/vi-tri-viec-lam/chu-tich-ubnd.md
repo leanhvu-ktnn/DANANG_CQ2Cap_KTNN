@@ -32,13 +32,21 @@ Khi Kiểm toán Nhà nước phát hiện một khoản chi sai (Ví dụ: chi 
 > [!NOTE] **Mối liên hệ hệ thống**
 > Hãy đọc bài [[03-TIMHIEU/vi-tri-viec-lam/cong-chuc-tai-chinh|Trách nhiệm của Kế toán]] để hiểu cách phối hợp "phanh hãm" rủi ro cho Chủ tịch.
 
-
-## Góc nhìn và Hành động thực tiễn
+## Những việc cần làm trong thực tiễn
 
 Được tổng hợp từ các chuyên đề vận dụng, Chủ tịch UBND xã/phường có trách nhiệm và hành động cụ thể như sau trong các nghiệp vụ cốt lõi:
 
-*   **Chuyên đề 1 - Thể chế, phân cấp:** Trước khi ký báo cáo dự toán trình HĐND, Chủ tịch yêu cầu công chức tài chính – kế toán xuất trình văn bản phân cấp hiện hành kèm ngày ban hành, ngày hiệu lực; nếu không chứng minh được, kiên quyết chưa ký.
-*   **Chuyên đề 2 - Lập dự toán:** Không ký trình dự toán nếu báo cáo thuyết minh chỉ có số liệu mà không có căn cứ, phương pháp tính đi kèm - vì đây là câu hỏi đầu tiên HĐND và Kiểm toán nhà nước sẽ chất vấn.
-*   **Chuyên đề 3 - Điều hành NS và TSC:** Chỉ ký khi hồ sơ đã qua đủ 3 lớp kiểm tra (quyết định – chứng từ – số liệu hệ thống). Nếu thiếu biên bản nghiệm thu hoặc quyết định phê duyệt, trả lại yêu cầu bổ sung trước khi ký, dù có bị chậm tiến độ.
-*   **Chuyên đề 4 - Xử lý NS cuối năm và quyết toán:** Yêu cầu phân loại từng khoản dư dự toán kèm căn cứ pháp lý cụ thể trước khi ký trình HĐND phê chuẩn quyết toán, không chấp nhận báo cáo chỉ có số liệu tổng hợp.
-*   **Chuyên đề 5 - Cải cách tiền lương:** Không phê duyệt bất kỳ đề xuất chi mua sắm, đầu tư nào từ nguồn cải cách tiền lương cho đến khi công chức xác nhận bằng văn bản rằng đã bảo đảm đủ nhu cầu chi trả lương theo mức lương cơ sở hiện hành.
+### Chuyên đề 1 - Thể chế, phân cấp
+**Hành động bắt buộc:** Trước khi ký báo cáo dự toán trình HĐND, Chủ tịch yêu cầu công chức tài chính – kế toán xuất trình văn bản phân cấp hiện hành kèm ngày ban hành, ngày hiệu lực; nếu không chứng minh được, kiên quyết chưa ký.
+
+### Chuyên đề 2 - Lập dự toán
+**Hành động bắt buộc:** Không ký trình dự toán nếu báo cáo thuyết minh chỉ có số liệu mà không có căn cứ, phương pháp tính đi kèm - vì đây là câu hỏi đầu tiên HĐND và Kiểm toán nhà nước sẽ chất vấn.
+
+### Chuyên đề 3 - Điều hành NS và TSC
+**Hành động bắt buộc:** Chỉ ký khi hồ sơ đã qua đủ 3 lớp kiểm tra (quyết định – chứng từ – số liệu hệ thống). Nếu thiếu biên bản nghiệm thu hoặc quyết định phê duyệt, trả lại yêu cầu bổ sung trước khi ký, dù có bị chậm tiến độ.
+
+### Chuyên đề 4 - Xử lý NS cuối năm và quyết toán
+**Hành động bắt buộc:** Yêu cầu phân loại từng khoản dư dự toán kèm căn cứ pháp lý cụ thể trước khi ký trình HĐND phê chuẩn quyết toán, không chấp nhận báo cáo chỉ có số liệu tổng hợp.
+
+### Chuyên đề 5 - Cải cách tiền lương
+**Hành động bắt buộc:** Không phê duyệt bất kỳ đề xuất chi mua sắm, đầu tư nào từ nguồn cải cách tiền lương cho đến khi công chức xác nhận bằng văn bản rằng đã bảo đảm đủ nhu cầu chi trả lương theo mức lương cơ sở hiện hành.
