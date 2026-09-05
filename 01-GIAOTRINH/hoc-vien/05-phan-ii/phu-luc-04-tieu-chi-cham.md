@@ -22,7 +22,7 @@ Thang điểm dùng chung cả 05 chuyên đề — đối chiếu Mục X từn
 | Tiêu chí | Điểm tối đa | Mô tả |
 |---|---|---|
 | Phát hiện đúng, đủ vấn đề/sai sót | 30 | Nhận diện đầy đủ các sai sót được cài đặt trong tình huống, đúng bản chất |
-| Vận dụng đúng căn cứ pháp lý | 25 | Viện dẫn đúng nội dung quy định liên quan tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]] theo Bản đồ tra cứu (Mục III) của chuyên đề |
+| Vận dụng đúng căn cứ pháp lý | 25 | Viện dẫn đúng nội dung quy định liên quan tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index\|Phần I]] theo Bản đồ tra cứu (Mục III) của chuyên đề |
 | Chất lượng sản phẩm (bảng biểu, văn bản) | 25 | Trình bày đúng thể thức, đầy đủ nội dung theo yêu cầu tại Mục X |
 | Đề xuất phương án xử lý | 15 | Phương án khả thi, đúng thẩm quyền |
 | Kỹ năng trình bày, phối hợp nhóm | 5 | Trình bày rõ ràng, đúng thời gian |

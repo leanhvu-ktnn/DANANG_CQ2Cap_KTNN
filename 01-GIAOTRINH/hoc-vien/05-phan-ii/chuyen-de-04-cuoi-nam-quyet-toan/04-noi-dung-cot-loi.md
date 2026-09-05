@@ -34,17 +34,17 @@ Chưa khóa sổ ở Bước 4
 
 | Câu hỏi | Nếu CÓ | Nếu KHÔNG |
 | :--- | :--- | :--- |
-| Nhiệm vụ tương ứng còn tiếp tục thực hiện sang năm sau không? | Đi tiếp câu 2 | Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] hoặc nộp trả - không [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] |
-| Khoản này có thuộc trường hợp được phép [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] theo quy định không? | Đi tiếp câu 3 | Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] hoặc nộp trả |
-| Đã có thủ tục, văn bản đề nghị [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] đúng thẩm quyền chưa? | Ghi nhận [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] | Hoàn thiện thủ tục trước khi ghi nhận |
+| Nhiệm vụ tương ứng còn tiếp tục thực hiện sang năm sau không? | Đi tiếp câu 2 | Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] hoặc nộp trả - không [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] |
+| Khoản này có thuộc trường hợp được phép [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] theo quy định không? | Đi tiếp câu 3 | Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] hoặc nộp trả |
+| Đã có thủ tục, văn bản đề nghị [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] đúng thẩm quyền chưa? | Ghi nhận [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] | Hoàn thiện thủ tục trước khi ghi nhận |
 
 
 3. Ba nhóm xử lý - phân biệt bản chất
 
 | Nhóm | Bản chất | Điều kiện áp dụng |
 | :--- | :--- | :--- |
-| [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|Chuyển nguồn]] | Kinh phí tiếp tục được sử dụng cho chính nhiệm vụ đó ở năm sau | Thuộc trường hợp được phép [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] theo quy định; nhiệm vụ còn tiếp tục |
-| Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] | Kinh phí chưa cấp phát, nhiệm vụ không còn thực hiện | Không thuộc trường hợp được [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon|chuyển nguồn]] |
+| [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|Chuyển nguồn]] | Kinh phí tiếp tục được sử dụng cho chính nhiệm vụ đó ở năm sau | Thuộc trường hợp được phép [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] theo quy định; nhiệm vụ còn tiếp tục |
+| Hủy [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] | Kinh phí chưa cấp phát, nhiệm vụ không còn thực hiện | Không thuộc trường hợp được [[03-TIMHIEU/ngan-sach-nha-nuoc/ket-du-va-chuyen-nguon\|chuyển nguồn]] |
 | Nộp trả ngân sách | Kinh phí đã cấp phát, tạm ứng nhưng không sử dụng hết | Nhiệm vụ đã kết thúc hoặc không còn thực hiện |
 
 
@@ -55,9 +55,9 @@ Khuyến nghị nghiệp vụ: Số dư của kinh phí bổ sung có mục tiê
 
 | Nội dung công khai | Thời điểm | Bằng chứng để lại |
 | :--- | :--- | :--- |
-| [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] được Hội đồng nhân dân quyết định | Sau khi có nghị quyết | Biên bản niêm yết, ảnh chụp bảng công khai |
-| [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach|Quyết toán]] được Hội đồng nhân dân phê chuẩn | Sau khi có nghị quyết phê chuẩn | Biên bản niêm yết, văn bản đăng tải |
-| Tình hình thực hiện [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] trong năm | Theo định kỳ quy định | Hồ sơ công khai từng kỳ |
+| [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|Dự toán]] được Hội đồng nhân dân quyết định | Sau khi có nghị quyết | Biên bản niêm yết, ảnh chụp bảng công khai |
+| [[03-TIMHIEU/ngan-sach-nha-nuoc/quyet-toan-ngan-sach\|Quyết toán]] được Hội đồng nhân dân phê chuẩn | Sau khi có nghị quyết phê chuẩn | Biên bản niêm yết, văn bản đăng tải |
+| Tình hình thực hiện [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] trong năm | Theo định kỳ quy định | Hồ sơ công khai từng kỳ |
 
 
 Lưu giữ bằng chứng đã công khai cũng quan trọng như bản thân việc công khai - vì đó là căn cứ chứng minh khi cần giải trình.

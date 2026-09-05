@@ -20,7 +20,7 @@ tags: [GIAOTRINH, Da_Nang, ChuyenDe5]
 
 
 2. Trích lập nguồn - các nguồn không được bỏ sót
-Bước 1 quyết định độ chính xác của cả chuỗi. Nội dung chi tiết về từng nguồn xem [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-08-cai-cach-tien-luong-quy-luong-bien-che/00-index|Chương 8]], mục 1 và 2.
+Bước 1 quyết định độ chính xác của cả chuỗi. Nội dung chi tiết về từng nguồn xem [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-08-cai-cach-tien-luong-quy-luong-bien-che/01-khung-phap-ly-nam-2026|Chương 8, mục 1]]và 2.
 Khuyến nghị nghiệp vụ: Lỗi thường gặp: chỉ trích từ khoản tiết kiệm chi thường xuyên mà bỏ qua phần tăng thu so với [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]]. Rà soát đủ các nguồn phải trích lập trước khi kết luận về số còn dư.
 3. Thứ tự ưu tiên sử dụng - nguyên tắc không đảo ngược
 Nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] được hình thành để bảo đảm chi trả tiền lương, phụ cấp theo mức lương cơ sở hiện hành. Chỉ sau khi bảo đảm đủ nhu cầu này, phần còn dư mới được xem xét sử dụng cho các mục đích khác được pháp luật cho phép.
@@ -50,6 +50,6 @@ Khuyến nghị nghiệp vụ: Bảng dưới đây là gợi ý phân công tro
 | :--- | :--- | :--- | :--- |
 | Xác định nguồn đã trích lập | - | Công chức tài chính – kế toán | Phụ trách kế toán đối chiếu sổ sách |
 | Tính nhu cầu chi trả lương | - | Công chức tài chính – kế toán phối hợp bộ phận phụ trách nhân sự | Đối chiếu với danh sách biên chế thực tế |
-| Phê duyệt sử dụng nguồn còn dư | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]] | Công chức tài chính – kế toán lập tờ trình | Xác nhận bằng văn bản đã bảo đảm đủ nhu cầu lương |
-| Điều chỉnh quỹ lương | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]] | Công chức tài chính – kế toán | Đối chiếu quỹ lương với biên chế thực tế |
+| Phê duyệt sử dụng nguồn còn dư | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index\|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index\|Chương 2]] | Công chức tài chính – kế toán lập tờ trình | Xác nhận bằng văn bản đã bảo đảm đủ nhu cầu lương |
+| Điều chỉnh quỹ lương | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index\|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index\|Chương 2]] | Công chức tài chính – kế toán | Đối chiếu quỹ lương với biên chế thực tế |
 

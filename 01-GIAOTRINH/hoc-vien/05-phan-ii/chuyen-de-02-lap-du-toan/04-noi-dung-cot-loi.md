@@ -13,7 +13,7 @@ Ba nguyên lý này đã nêu tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|P
 
 | Nguyên lý | Thao tác cụ thể | Bằng chứng để lại |
 | :--- | :--- | :--- |
-| Không bỏ sót nguồn thu | Rà soát từ danh sách đối tượng nộp thực tế trên địa bàn, không từ [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] năm trước | Danh mục nguồn thu có đối chiếu số đối tượng |
+| Không bỏ sót nguồn thu | Rà soát từ danh sách đối tượng nộp thực tế trên địa bàn, không từ [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] năm trước | Danh mục nguồn thu có đối chiếu số đối tượng |
 | Không chi vượt khả năng | Đối chiếu tổng chi với tổng nguồn thu được hưởng cộng mức bổ sung được thông báo | Bảng cân đối thu – chi |
 | Có thể giải trình được | Mỗi khoản biến động lớn có một dòng giải trình riêng kèm phương pháp tính | Báo cáo thuyết minh |
 
@@ -23,11 +23,11 @@ Ba nguyên lý này đã nêu tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|P
 
 | Bước | Việc phải làm | Bằng chứng để lại |
 | :--- | :--- | :--- |
-| Bước 1 - Chuẩn bị căn cứ | Tập hợp số kiểm tra của cơ quan tài chính cấp trên, văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]], định mức phân bổ đang có hiệu lực | Danh mục căn cứ áp dụng |
+| Bước 1 - Chuẩn bị căn cứ | Tập hợp số kiểm tra của cơ quan tài chính cấp trên, văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach\|phân cấp]], định mức phân bổ đang có hiệu lực | Danh mục căn cứ áp dụng |
 | Bước 2 - Rà soát nguồn thu | Rà từ thực tế địa bàn: số đối tượng nộp, quỹ đất công ích, tài sản có khả năng khai thác, các khoản phí, lệ phí thuộc thẩm quyền | Danh mục nguồn thu |
 | Bước 3 - Phân tích dữ liệu | Phân tích chuỗi số liệu thực hiện các năm gần nhất; loại trừ khoản đột biến không lặp lại | Bảng phân tích dữ liệu |
-| Bước 4 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] thu | Tính theo từng nhóm khoản thu; nhóm phân chia phải nhân tỷ lệ trước khi đưa vào cân đối | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] thu chi tiết |
-| Bước 5 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] chi | Bố trí đủ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong|cải cách tiền lương]] trước; ưu tiên chi cho con người, an sinh xã hội; sau đó đến các nhiệm vụ khác | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] chi chi tiết |
+| Bước 4 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] thu | Tính theo từng nhóm khoản thu; nhóm phân chia phải nhân tỷ lệ trước khi đưa vào cân đối | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|Dự toán]] thu chi tiết |
+| Bước 5 - Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] chi | Bố trí đủ nguồn [[03-TIMHIEU/ngan-sach-nha-nuoc/nguon-cai-cach-tien-luong\|cải cách tiền lương]] trước; ưu tiên chi cho con người, an sinh xã hội; sau đó đến các nhiệm vụ khác | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|Dự toán]] chi chi tiết |
 | Bước 6 - Thuyết minh | Giải trình từng biến động lớn: nguyên nhân, phương pháp tính, so sánh với số thực hiện | Báo cáo thuyết minh |
 | Bước 7 - Trình và bảo vệ | Chuẩn bị sẵn phương án trả lời chất vấn về các khoản biến động lớn | Bộ hồ sơ trình |
 
@@ -39,7 +39,7 @@ Kỹ thuật cốt lõi của chuyên đề. Một con số đơn lẻ không ch
 | :--- | :--- | :--- |
 | Dựng chuỗi số liệu | Lấy số thực hiện các năm gần nhất, ưu tiên 03 năm liền kề, theo từng khoản thu, khoản chi | Bức tranh xu hướng thay vì một điểm dữ liệu |
 | Loại trừ đột biến | Tách riêng khoản phát sinh một lần không lặp lại (bán tài sản, khoản thu đặc thù) | Xu hướng thật sau khi loại nhiễu |
-| Tính tỷ lệ thực hiện/[[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] | So [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] với thực hiện từng năm | Lệch cùng chiều nhiều năm là dấu hiệu phương pháp lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] có vấn đề |
+| Tính tỷ lệ thực hiện/[[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] | So [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] với thực hiện từng năm | Lệch cùng chiều nhiều năm là dấu hiệu phương pháp lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] có vấn đề |
 | Đối chiếu biến động địa bàn | Rà lại dân số, số đối tượng nộp theo ranh giới hành chính hiện tại | Đặc biệt cần thiết với đơn vị mới sáp nhập |
 
 
@@ -56,12 +56,12 @@ Một bản [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] đ�
 
 
 5. Gợi ý phân công trong quy trình nội bộ
-Khuyến nghị nghiệp vụ: Bảng dưới đây là gợi ý phân công trong quy trình nội bộ của đơn vị, không tạo thêm thẩm quyền ngoài quy định pháp luật. Thẩm quyền pháp lý xem tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]] và [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-04-lap-phan-bo-giao-du-toan/00-index|Chương 4]], mục 10.
+Khuyến nghị nghiệp vụ: Bảng dưới đây là gợi ý phân công trong quy trình nội bộ của đơn vị, không tạo thêm thẩm quyền ngoài quy định pháp luật. Thẩm quyền pháp lý xem tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]] và [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-04-lap-phan-bo-giao-du-toan/10-buoc-7-quyet-dinh-phan-bo-giao-du-toan|Chương 4, mục 10]].
 
 | Nghiệp vụ | Người quyết định | Người tham mưu | Kiểm soát nội bộ |
 | :--- | :--- | :--- | :--- |
 | Rà soát nguồn thu, phân tích dữ liệu | - | Công chức tài chính – kế toán | Phụ trách kế toán rà soát phương pháp |
-| Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] thu – chi | - | Công chức tài chính – kế toán | Phụ trách kế toán đối chiếu cân đối |
+| Lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] thu – chi | - | Công chức tài chính – kế toán | Phụ trách kế toán đối chiếu cân đối |
 | Xây dựng phương án phân bổ | Ủy ban nhân dân cấp xã | Công chức tài chính – kế toán | Phụ trách kế toán kiểm tra định mức |
-| Trình [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] ra Hội đồng nhân dân | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]] | Bộ phận tài chính – kế toán chuẩn bị hồ sơ | Rà soát hồ sơ trước khi trình |
+| Trình [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] ra Hội đồng nhân dân | Theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index\|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index\|Chương 2]] | Bộ phận tài chính – kế toán chuẩn bị hồ sơ | Rà soát hồ sơ trước khi trình |
 

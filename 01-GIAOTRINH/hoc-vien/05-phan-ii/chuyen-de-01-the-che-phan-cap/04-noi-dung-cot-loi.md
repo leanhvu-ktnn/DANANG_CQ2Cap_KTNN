@@ -13,9 +13,9 @@ Toàn bộ chuyên đề xoay quanh ba câu hỏi. Mọi nghiệp vụ ở các 
 
 | Câu hỏi | Trả lời ở đâu | Sai thì hệ quả gì |
 | :--- | :--- | :--- |
-| Xã tôi được hưởng nguồn thu nào? | Nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] của HĐND cấp tỉnh đang có hiệu lực | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|Dự toán]] thu bỏ sót hoặc thừa nguồn; sai căn cứ điều hành cả năm |
-| Xã tôi phải thực hiện nhiệm vụ chi nào? | Danh mục nhiệm vụ chi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] trong cùng nghị quyết | Chi cho nhiệm vụ của cấp khác; hoặc bỏ sót nhiệm vụ phải bảo đảm |
-| Tỷ lệ phân chia của địa bàn tôi là bao nhiêu? | Bảng tỷ lệ theo từng xã, phường tại nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] | Số tiền thực nhận sai; phải điều chỉnh, hoàn trả giữa các cấp |
+| Xã tôi được hưởng nguồn thu nào? | Nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach\|phân cấp]] của HĐND cấp tỉnh đang có hiệu lực | [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|Dự toán]] thu bỏ sót hoặc thừa nguồn; sai căn cứ điều hành cả năm |
+| Xã tôi phải thực hiện nhiệm vụ chi nào? | Danh mục nhiệm vụ chi được [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach\|phân cấp]] trong cùng nghị quyết | Chi cho nhiệm vụ của cấp khác; hoặc bỏ sót nhiệm vụ phải bảo đảm |
+| Tỷ lệ phân chia của địa bàn tôi là bao nhiêu? | Bảng tỷ lệ theo từng xã, phường tại nghị quyết [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach\|phân cấp]] | Số tiền thực nhận sai; phải điều chỉnh, hoàn trả giữa các cấp |
 
 
 2. Cách đọc một văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] - quy trình 4 bước
@@ -32,7 +32,7 @@ Kỹ năng cốt lõi của chuyên đề này không phải là thuộc lòng t
 Khuyến nghị nghiệp vụ: Khuyến nghị nghiệp vụ: mỗi xã, phường lập một trang duy nhất - “Trang tra cứu [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] của đơn vị” - ghi rõ: số hiệu văn bản đang áp dụng, ngày hiệu lực, danh mục khoản thu 100%, danh mục khoản thu phân chia kèm tỷ lệ của chính địa bàn mình, ngày cập nhật gần nhất. Dán tại nơi làm việc của bộ phận tài chính – kế toán.
 3. Ba nhóm khoản thu - không được nhầm lẫn
 
-| Nhóm | Bản chất | Điều cần lưu ý khi lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong|dự toán]] và điều hành |
+| Nhóm | Bản chất | Điều cần lưu ý khi lập [[03-TIMHIEU/ngan-sach-nha-nuoc/du-toan-va-du-phong\|dự toán]] và điều hành |
 | :--- | :--- | :--- |
 | Nhóm A - Hưởng 100% | Ngân sách cấp xã hưởng toàn bộ số thu phát sinh | Số thu phát sinh trên địa bàn bằng số ngân sách xã được hưởng |
 | Nhóm B - Phân chia theo tỷ lệ | Chia giữa các cấp ngân sách theo tỷ lệ quy định cho từng địa bàn | Số thu phát sinh KHÁC số ngân sách xã được hưởng. Phải nhân tỷ lệ trước khi đưa vào cân đối |
@@ -48,15 +48,15 @@ Khuyến nghị nghiệp vụ: Bảng dưới đây là gợi ý phân công tro
 | Xác định danh mục nguồn thu được hưởng | Chủ tịch UBND cấp xã | Công chức tài chính – kế toán | Phụ trách kế toán rà soát trước khi trình | - |
 | Áp dụng tỷ lệ phân chia | - | Công chức tài chính – kế toán | Phụ trách kế toán | Kho bạc Nhà nước điều tiết theo cấu hình hệ thống |
 | Đối chiếu số liệu định kỳ | Chủ tịch UBND chỉ đạo thực hiện | Công chức tài chính – kế toán lập biên bản | Phụ trách kế toán xác nhận | Kho bạc Nhà nước xác nhận số liệu |
-| Đề nghị điều chỉnh khi phát hiện sai lệch | Chủ tịch UBND cấp xã (theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]]) | Công chức tài chính – kế toán dự thảo | Phụ trách kế toán kiểm tra căn cứ | Kho bạc Nhà nước phối hợp xử lý |
+| Đề nghị điều chỉnh khi phát hiện sai lệch | Chủ tịch UBND cấp xã (theo thẩm quyền tại [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index\|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index\|Chương 2]]) | Công chức tài chính – kế toán dự thảo | Phụ trách kế toán kiểm tra căn cứ | Kho bạc Nhà nước phối hợp xử lý |
 
 
-Lưu ý phân biệt: kiểm soát nội bộ là mắt xích bên trong đơn vị; Kho bạc Nhà nước thực hiện chức năng kiểm soát theo quy định với địa vị pháp lý độc lập, không thuộc chuỗi kiểm soát nội bộ của cấp xã (xem [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/00-index|Chương 2]], mục 8, 9).
+Lưu ý phân biệt: kiểm soát nội bộ là mắt xích bên trong đơn vị; Kho bạc Nhà nước thực hiện chức năng kiểm soát theo quy định với địa vị pháp lý độc lập, không thuộc chuỗi kiểm soát nội bộ của cấp xã (xem [[01-GIAOTRINH/hoc-vien/04-phan-i/00-index|Phần I]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/08-kiem-soat-noi-bo|Chương 2, mục 8]], [[01-GIAOTRINH/hoc-vien/04-phan-i/chuong-02-tham-quyen-va-trach-nhiem/09-kiem-soat-kbnn|mục 9]]).
 5. Rủi ro đặc thù của giai đoạn sau sắp xếp đơn vị hành chính
 
 | Rủi ro | Vì sao phát sinh | Cách phòng ngừa |
 | :--- | :--- | :--- |
-| Áp dụng văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach|phân cấp]] đã hết hiệu lực | Bàn giao không kèm danh mục văn bản; người mới dùng lại tài liệu cũ | Biên bản bàn giao bắt buộc có danh mục văn bản đang áp dụng |
+| Áp dụng văn bản [[03-TIMHIEU/ngan-sach-nha-nuoc/phan-cap-ngan-sach\|phân cấp]] đã hết hiệu lực | Bàn giao không kèm danh mục văn bản; người mới dùng lại tài liệu cũ | Biên bản bàn giao bắt buộc có danh mục văn bản đang áp dụng |
 | Dùng tỷ lệ của đơn vị hành chính cũ | Đơn vị mới hình thành từ nhiều đơn vị cũ có tỷ lệ khác nhau | Định vị lại đúng dòng của đơn vị mới trong bảng tỷ lệ hiện hành |
 | Số liệu treo ở mã đơn vị cũ | Mã cũ chưa đóng, mã mới chưa cập nhật trong hệ thống | Đề nghị Kho bạc Nhà nước đóng mã cũ, chuyển số liệu sang mã mới |
 | Bỏ trống trách nhiệm giữa đơn vị cũ và mới | Nhiệm vụ chuyển giao nhưng chưa xác định người phụ trách | Phân công cụ thể theo từng nghiệp vụ, bảo đảm truy vết được trách nhiệm |
